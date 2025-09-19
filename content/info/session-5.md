@@ -1,8 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Perpustakaan Digital"
-quota: 38
+title: "implementasi html 2"
 weight: 5
 parted:
     name: ""
@@ -22,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: []
+    author: [ "Al Muhdil Karim" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

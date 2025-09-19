@@ -1,12 +1,12 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 1"
-weight: 4
+title: "Ujian Akhir"
+weight: 5
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempersiapkan kebutuhan instrument perkuliahan dan mekanisme belajar."
     icon: ""
 tasker:
     name: ""

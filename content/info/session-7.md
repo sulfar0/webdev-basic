@@ -1,8 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 1"
-weight: 4
+title: "implementasi html 4"
+weight: 7
 parted:
     name: ""
     goal: "Parted 1"

@@ -2,9 +2,9 @@
 date:  ""
 draft: false
 title: "Module Formater"
-terms: [ "formater" ]
+terms: [ "programing" ]
 thumb:
-    image: "cover.jpg"
+    image: "feature.jpg"
     anima: ""
     video: ""
 weight: 1
@@ -12,7 +12,7 @@ layout: ""
 offers:
     promo: true
     level: "Pemula"
-    certs: ""
+    certs: false
 billing:
     price: ""
     rebate: ""
@@ -42,7 +42,7 @@ report:
         - "Progress penanganan report dapat di monitoring pada halaman github course."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "feature.jpg"
     group:  [ "yuros" ]
     author: [ "Al Muhdil Karim" ] 
 description: "Course ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital.."

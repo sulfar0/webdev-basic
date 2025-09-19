@@ -1,26 +1,26 @@
 ---
 date:  ""
 draft: false
-title: "Session 3"
+title: "Pengenalan HTML"
 weight: 3
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mendalami penerapan HTML dalam membangun struktur dasar halaman web."
     icon: ""
 tasker:
     name: ""
     goal: "Parted 1"
-    desc: "Mencari konsep dan prinsip dasar perpustakaan digital."
+    desc: "Membuat struktur html untuk berbagai jenis kebutuhan"
     icon: ""
 assign:
     name: ""
     goal: "Parted 1"
-    desc: "Membuat konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mampu membedakan laman."
     icon: ""
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: []
+    author: [ "Al Muhdil Karim" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

@@ -1,4 +1,4 @@
 module:
     mounts:
     - source: "content"
-      target: "content/course/pool/0/name"
+      target: "content/course/pool/null/pemograman-website-dasar"
