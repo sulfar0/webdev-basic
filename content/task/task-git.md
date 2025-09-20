@@ -11,29 +11,29 @@ weight: 1
 lister: 1
 informa:
     - lead: "Informa 1"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
     - lead: "Informa 2"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
 reached:
     - lead: "reached 1"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
     - lead: "reached 2"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
     - lead: "reached 3"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
     - lead: "reached 4"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
 require:
-    - prop: ""
+    - prop: "requrei 1"
       name: ""
       icon: ""
-      desc: ""
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 metadata:
     index: false
     thumb: "cover.jpg"

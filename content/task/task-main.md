@@ -10,30 +10,28 @@ layout: ""
 weight: 1
 lister: 1
 informa:
-    - lead: "Informa 1"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    - prop: "Informa prop 1"
+      name: "Informa name 1"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
-    - lead: "Informa 2"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    - prop: "Informa prop 2"
+      name: "Informa name 2"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
 reached:
-    - lead: "reached 1"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    - prop: "reached prop 1"
+      name: "reached name 1"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
-    - lead: "reached 2"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
-      icon:
-    - lead: "reached 3"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
-      icon:
-    - lead: "reached 4"
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    - prop: "reached prop 2"
+      name: "reached name 2"
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
 require:
-    - prop: ""
-      name: ""
+    - prop: "require prop 1"
+      name: "require name 1"
       icon: ""
-      desc: ""
+      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 metadata:
     index: false
     thumb: "cover.jpg"
