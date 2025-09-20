@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "elemen main"
-short: "elemen main"
+short: "main"
 thumb:
     image: "cover.jpg"
     anima: ""

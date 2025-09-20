@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "elemen footer"
-short: "elemen footer"
+short: "footer"
 thumb:
     image: "cover.jpg"
     anima: ""

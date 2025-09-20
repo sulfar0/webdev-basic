@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "opengraph 2"
-short: "opengraph 2"
+short: "opengraph lanjutan"
 thumb:
     image: "cover.jpg"
     anima: ""

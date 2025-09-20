@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "metadata native 1"
-short: "metadata native 1"
+short: "metadata dasar"
 thumb:
     image: "cover.jpg"
     anima: ""
