@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag video HTML digunakan untuk menampilkan video secara langsung dengan kontrol pemutaran lengkap."
+description: "Menampilkan file video kedalam laman secara langsung dengan kontrol pemutaran lengkap."
 ---

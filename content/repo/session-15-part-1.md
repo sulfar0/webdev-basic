@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Box-model CSS membantu memahami struktur elemen untuk tata letak rapi dan teratur."
+description: "Memahami struktur elemen serta tata letak element secara rapi dan teratur."
 ---

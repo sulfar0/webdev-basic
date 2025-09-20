@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Class CSS memudahkan pengelompokan elemen untuk penerapan gaya yang konsisten dan fleksibel."
+description: "Memudahkan pengelompokan elemen berbasis class untuk penerapan gaya yang fleksibel."
 ---

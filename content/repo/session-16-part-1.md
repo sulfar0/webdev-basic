@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Positioning CSS membantu mengatur letak elemen agar tampilan rapi, fleksibel, dan terstruktur."
+description: "Membantu mengatur letak antar elemen agar tampilan rapi, fleksibel, dan terstruktur."
 ---

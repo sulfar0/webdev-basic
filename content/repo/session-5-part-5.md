@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "HTML memungkinkan menampilkan file dokumen secara langsung untuk akses informasi yang mudah."
+description: "Menampilkan file dokumen secara langsung untuk akses informasi yang mudah."
 ---

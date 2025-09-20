@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Konsep selector CSS memungkinkan memilih elemen spesifik untuk diterapkan gaya secara akurat."
+description: "Memahmi fungsi selector dalam implementasi styling pada elemen html."
 ---

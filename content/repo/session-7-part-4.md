@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag input HTML memungkinkan pengguna memasukkan data interaktif ke dalam formulir web."
+description: "Membuat pengguna mampu melakukan input data secara interaktif."
 ---

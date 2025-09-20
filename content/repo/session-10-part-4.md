@@ -1,8 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "Sintaks"
-short: "Sintaks"
+title: "Markup pada dokumen html"
+short: "markup"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Sintaks dasar CSS mengajarkan cara menulis aturan gaya untuk elemen HTML secara tepat."
+description: "Menggunakan markup dokumen HTML dalam implementasi styling."
 ---

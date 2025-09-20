@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Attribute selector CSS memungkinkan memilih elemen berdasarkan atribut untuk pengaturan gaya spesifik."
+description: "Menggunakan html attribute sebagai target implementasi styling css."
 ---

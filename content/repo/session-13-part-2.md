@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Ukuran font dalam CSS menentukan kenyamanan membaca dan kesan visual halaman."
+description: "Ukuran font menentukan kenyamanan membaca dan kesan visual halaman."
 ---

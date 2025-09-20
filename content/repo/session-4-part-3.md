@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag list HTML membantu mengatur konten menjadi daftar yang jelas dan mudah dipahami."
+description: "Menampilkan informasi dalam bentuk daftar yang sistematis."
 ---

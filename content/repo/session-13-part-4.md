@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pelajari penggunaan font style CSS untuk menciptakan tampilan teks lebih profesional."
+description: "Pelajari penggunaan font style untuk menciptakan tampilan teks lebih profesional."
 ---

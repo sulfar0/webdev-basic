@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Clear pada CSS memastikan elemen tetap rapi dengan mengatur alur floating."
+description: "Memastikan elemen tetap rapi dengan mengatur alur floating poin."
 ---

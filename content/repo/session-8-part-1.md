@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag meta HTML menyediakan informasi penting tentang halaman untuk browser dan mesin pencari."
+description: "Mengenal metadata terkait informasi yang dimuat oleh laman sekaligus proses indeks."
 ---

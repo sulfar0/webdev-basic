@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Border pada CSS membantu membingkai elemen sehingga tampilan lebih rapi dan jelas."
+description: "Implementasi garis dalam membantu membingkai elemen dan komunikasi visual."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Normal Flow CSS mengatur elemen agar tertata rapi sesuai alur tampilan alami."
+description: "Mengatur alur antar elemen yang sesuai dengan alur alami tampilan."
 ---

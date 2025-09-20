@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Penataan warna CSS membantu menciptakan desain harmonis, konsisten, dan mudah dinavigasi."
+description: "Pembuatan acuan warna untuk membantu perancangan desain laman."
 ---

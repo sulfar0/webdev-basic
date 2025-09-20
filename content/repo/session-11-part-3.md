@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "ID selector CSS menargetkan elemen unik untuk menerapkan gaya khusus dan spesifik."
+description: "Menggunakan identifier sebagai dalam penerapan styling yang spesifik."
 ---

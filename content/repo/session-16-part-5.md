@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Sticky positioning CSS menjaga elemen tetap terlihat saat menggulir halaman dengan mudah."
+description: "Membuat elemen tetap terlihat saat menggulir halaman tanpa perpindahan."
 ---

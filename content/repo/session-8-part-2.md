@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Metadata dasar memberikan informasi penting yang membantu browser memahami halaman web."
+description: "Memahami metadata dasar beserta cakupan tipe informasinya."
 ---

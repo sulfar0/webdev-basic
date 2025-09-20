@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Margin pada CSS mengatur jarak elemen agar tata letak lebih rapi."
+description: "Mengatur jarak antar elemen dan upaya pengelompokan informasi."
 ---

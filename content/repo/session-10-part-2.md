@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 10
-lister: 1
+lister: 2
 format:
     media: "article"
     model: ""
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Konsep dasar CSS membantu memahami teknik styling untuk membuat desain web lebih efektif."
+description: "Konsep dasar css dalam pembuatan desain laman yang menarik."
 ---

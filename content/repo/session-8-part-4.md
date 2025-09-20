@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "OpenGraph dasar HTML membantu meningkatkan tampilan dan keterbacaan website di media sosial."
+description: "Memahami dasar metadata OpenGraph beserta dengan fungsinya."
 ---

@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 12
-lister: 5
+lister: 3
 format:
     media: "article"
     model: ""
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pelajari combinator child CSS untuk mengatur hubungan elemen lebih terstruktur."
+description: "Pelajari kombinator child CSS untuk mengatur hubungan elemen lebih terstruktur."
 ---

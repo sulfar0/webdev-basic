@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Display roles pada CSS mengatur tata letak elemen agar rapi, fleksibel, efektif."
+description: "Mengatur penataan letak elemen untuk tampilan yang rapi, fleksibel, efektif."
 ---

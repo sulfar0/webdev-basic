@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Metadata lanjutan untuk mengoptimalkan pengindeksan dan performa website secara profesional dan efektif."
+description: "Memahami metadata lanjutan untuk optimasi pengindeksan mesin pencari."
 ---

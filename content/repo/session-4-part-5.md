@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag quotation HTML memudahkan penyajian kutipan dengan gaya yang sesuai dan profesional."
+description: "Memudahkan penyajian informasi bersifat penting atau kutipan."
 ---

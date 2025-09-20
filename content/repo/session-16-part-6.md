@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Fixed positioning pada CSS membuat elemen tetap terlihat stabil di layar pengguna."
+description: "Membuat elemen mempunyai posisi yang tetap dan stabil pada layar."
 ---

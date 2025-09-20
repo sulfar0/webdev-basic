@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Sejarah CSS menjelaskan perkembangan gaya web untuk tampilan lebih konsisten dan menarik."
+description: "Sejarah css dari awal perkembangan sampai perkembangan terkini."
 ---

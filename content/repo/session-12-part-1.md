@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Kombinator adjacent sibling CSS memilih elemen tepat setelah elemen lain untuk styling spesifik."
+description: "Menggunakan kombinator adjacent sibling untuk memilih elemen tepat setelah elemen utama."
 ---

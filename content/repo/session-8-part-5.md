@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Meningkatkan visibilitas dan interaksi website melalui pengaturan metadata OpenGraph terspesifikasi."
+description: "Meningkatkan visibilitas laman pada sosial media menggunakan OpenGraph."
 ---

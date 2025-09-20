@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Relative positioning pada CSS mengatur elemen lebih fleksibel tanpa mengganggu struktur utama."
+description: "Mengatur elemen dalam laman denga lebih fleksibel tanpa mengganggu struktur utama."
 ---

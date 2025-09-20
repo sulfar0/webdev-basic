@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Implementasi semantik HTML meningkatkan struktur halaman agar lebih jelas dan mudah dipahami."
+description: "Membuat sturuktur laman dengan degan pendekatan semantik."
 ---

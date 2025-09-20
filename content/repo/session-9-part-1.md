@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "HTML semantik meningkatkan makna dan struktur konten untuk aksesibilitas dan SEO optimal."
+description: "Pengenal konsep penulisan laman dengan pendekatan semantik html."
 ---

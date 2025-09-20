@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag footer HTML semantik menyajikan informasi tambahan di bagian bawah halaman web."
+description: "Mengorganisir informasi tambahan di bagian bawah laman dengan pendekatan semantik."
 ---

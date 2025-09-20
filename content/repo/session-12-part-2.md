@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 12
-lister: 1
+lister: 2
 format:
     media: "article"
     model: ""

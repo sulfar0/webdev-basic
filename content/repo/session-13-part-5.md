@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pelajari pengaturan font-variant CSS untuk menciptakan tipografi lebih rapi dan profesional."
+description: "Pelajari pengaturan font-variant untuk tatanan font yang profesional."
 ---

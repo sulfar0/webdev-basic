@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag audio HTML memungkinkan penyisipan suara untuk memperkaya konten halaman web interaktif."
+description: "Menyisipkan file suara untuk memperkaya konten pada laman secara interaktif."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Floating CSS membantu mengatur elemen agar rapi, fleksibel, dan mudah dikendalikan."
+description: "Membantu mengatur posisi elemen dalam membentuk komposisi desain."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Dengan table kita bisa menyusun data dalam format baris dan kolom terstruktur."
+description: "Menyusun data dalam format baris dan kolom secara sistematis dan terstruktur."
 ---

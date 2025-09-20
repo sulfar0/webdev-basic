@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Absolute positioning pada CSS memungkinkan elemen ditempatkan presisi sesuai kebutuhan desain."
+description: "Mengatur posisi elemen untuk bisa di tetapkan secara presisi berdasar desain."
 ---

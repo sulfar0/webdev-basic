@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Spanning cell memungkinkan penggabungan beberapa kolom atau baris dalam tabel."
+description: "Menggabungkan beberapa kolom atau baris dalam tabel."
 ---

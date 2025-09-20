@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag main HTML semantik membantu menonjolkan konten utama bagi pengguna dan mesin pencari."
+description: "Mengornisir konten utama dari laman menggunakan pendekatan semantik."
 ---

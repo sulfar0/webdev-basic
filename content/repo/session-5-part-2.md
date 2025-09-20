@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Code block HTML memungkinkan penyajian sumber kode secara terformat dan mudah dipahami."
+description: "Meyajikan sumber kode secara terformat dan mudah dipahami sebagai sebuah sumber kode."
 ---

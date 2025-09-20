@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Formatting teks HTML penting untuk memperjelas tampilan dalam penulisan teks."
+description: "Memberikan penekanan untuk memperjelas kandungan informasi teks."
 ---

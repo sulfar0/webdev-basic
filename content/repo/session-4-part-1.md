@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag paragraf HTML membantu menyusun dan menampilkan teks secara jelas dan terstruktur."
+description: "Memahami pembuatan paragraf dalam menampilkan teks secara jelas dan terstruktur."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag style HTML digunakan untuk menambahkan aturan CSS agar tampilan halaman menarik."
+description: "Menambahkan aturan CSS untuk membuat tampilan halaman menarik."
 ---

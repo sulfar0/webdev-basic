@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Mehamai struktur table untuk mengorganisir data secara sistematis dan jelas."
+description: "Memahami struktur table dalam pengorganisasi data dan informasi."
 ---

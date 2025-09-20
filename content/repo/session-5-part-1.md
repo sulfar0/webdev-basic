@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag img HTML memungkinkan penyisipan gambar untuk memperjelas dan memperindah konten web."
+description: "Menyisipan gambar dalam dokumen untuk memberikan visualisasi pada laman."
 ---

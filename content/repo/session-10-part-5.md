@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Implementasi sintaks CSS membantu mengubah tampilan web dengan aturan gaya yang tepat."
+description: "Implementasi css dalam mengubah visualisasi laman website"
 ---

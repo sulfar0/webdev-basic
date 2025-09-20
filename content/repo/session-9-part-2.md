@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag header HTML semantik mengorganisir bagian atas halaman untuk navigasi dan identitas."
+description: "Mengoganisir bagian atas laman untuk navigasi dan identitas."
 ---

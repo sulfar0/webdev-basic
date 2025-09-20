@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Elemen HTML, komponen dasar yang membentuk struktur dan isi setiap halaman web"
+description: "Elemen adalah komponen dasar yang membentuk struktur dan isi setiap halaman web"
 ---

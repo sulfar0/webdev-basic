@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag iframe HTML memudahkan penyematan konten eksternal tanpa meninggalkan halaman utama."
+description: "Memudahkan penyematan konten eksternal tanpa meninggalkan halaman utama."
 ---

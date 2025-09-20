@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Rounded pada CSS menciptakan sudut elemen lebih lembut, modern, dan estetis menarik."
+description: "Membentuk sudut elemen lebih lembut, modern, dan estetis."
 ---

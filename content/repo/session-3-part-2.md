@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Memahami struktur dasar html dan konsep konsep yang terkait dengan HTML."
+description: "Memahami struktur dasar html dan konsep konsep yang terkait."
 ---

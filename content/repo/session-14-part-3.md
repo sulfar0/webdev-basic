@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Warna background CSS memperkuat identitas visual sekaligus meningkatkan kenyamanan membaca konten."
+description: "Implementasi warna latar belakang dalam membentuk identitas visual dan meningkatkan kenyamanan."
 ---

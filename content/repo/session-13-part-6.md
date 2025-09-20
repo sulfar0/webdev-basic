@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Shorthand CSS menyederhanakan kode agar lebih ringkas, efisien, dan mudah dipahami."
+description: "Sederhanakan sintaks css agar lebih ringkas, efisien, dan mudah dipahami."
 ---

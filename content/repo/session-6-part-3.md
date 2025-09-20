@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Memasukkan konten multimedia eksternal langsung ke halaman web."
+description: "Menyisipkan konten multimedia eksternal kedalam laman secara langsung."
 ---

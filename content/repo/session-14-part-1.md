@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Warna dalam CSS menghadirkan tampilan visual lebih hidup, konsisten, dan menarik."
+description: "Memahami konsep warna dasar untuk membangun tampilan visual web."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Warna teks pada CSS meningkatkan keterbacaan, menciptakan kesan visual, dan memperkuat identitas."
+description: "Memberikan warna teks pada untuk keterbacaan, kesan visual dan memperkuat identitas."
 ---

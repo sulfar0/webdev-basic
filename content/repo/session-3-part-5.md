@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pahami struktur HTML, fondasi utama yang membentuk kerangka dalam halaman web."
+description: "Memahami fondasi utama yang membentuk kerangka dalam halaman web."
 ---

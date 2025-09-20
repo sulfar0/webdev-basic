@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Tag script memungkinkan penambahan kode JavaScript untuk membuat halaman web interaktif."
+description: "Menyisipkan kode JavaScript untuk membuat laman yang interaktif."
 ---

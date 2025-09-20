@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Heading HTML digunakan untuk memberi struktur, urutan, dan penekanan pada konten halaman."
+description: "Memberikan struktur, urutan, dan penekanan untuk judul dokumen."
 ---

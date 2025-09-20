@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pemilihan font family CSS menentukan kejelasan, konsistensi, dan estetika desain web."
+description: "Pemilihan jenis font menentukan kejelasan, konsistensi, dan estetika desain web."
 ---

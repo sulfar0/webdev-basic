@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "dimensi"
+title: "Box Dimensions"
 short: "dimensi"
 thumb:
     image: "cover.jpg"
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Box Dimensions pada CSS membantu mengatur ukuran elemen lebih rapi dan proporsional."
+description: "Mengatur ukuran elemen untuk visual yang lebih rapi dan proporsional."
 ---

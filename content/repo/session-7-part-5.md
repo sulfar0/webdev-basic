@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Form digunakan untuk mengumpulkan dan mengirim data dari pengguna secara efektif."
+description: "Mengumpulkan dan mengirim data dari pengguna secara efektif."
 ---

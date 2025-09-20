@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 12
-lister: 4
+lister: 5
 format:
     media: "article"
     model: ""
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Combinator pseudo pada CSS membuka cara baru mengatur hubungan antar elemen."
+description: "Kombinator pseudo pada css membuka cara baru mengatur hubungan antar elemen."
 ---

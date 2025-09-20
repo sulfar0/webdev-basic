@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Universal selector CSS menerapkan gaya secara global pada semua elemen dalam halaman web."
+description: "Penerapan styling secara global pada semua elemen dalam halaman web."
 ---

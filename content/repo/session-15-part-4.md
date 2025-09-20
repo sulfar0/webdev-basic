@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Padding CSS mengatur ruang dalam elemen agar tampilan lebih rapi dan seimbang."
+description: "Mengatur ruang yang berada didalam elemen untuk visualisasi yang seimbang."
 ---

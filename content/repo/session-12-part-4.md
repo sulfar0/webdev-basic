@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 12
-lister: 5
+lister: 4
 format:
     media: "article"
     model: ""
@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Combinator descendant membantu mengatur hubungan elemen CSS dengan struktur hierarki jelas."
+description: "Kombinator descendant membantu mengatur hubungan elemen css dengan struktur hierarki jelas."
 ---

@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Shadow pada CSS menambah dimensi, kedalaman, dan estetika visual yang lebih profesional."
+description: "Menambah dimensi, kedalaman, dan estetika visual dari elemen tertentu."
 ---

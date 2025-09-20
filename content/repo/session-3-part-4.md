@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Pelajari atribut HTML, informasi tambahan untuk elemen dan mengatur tampilannya"
+description: "Atribut adalah informasi tambahan untuk elemen dan mengatur tampilannya"
 ---

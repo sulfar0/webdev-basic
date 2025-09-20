@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Hubungkan halaman web dengan sumber lain secara efektif dan mudah."
+description: "Menghubungkan laman dengan sumber lain secara efektif dan mudah."
 ---

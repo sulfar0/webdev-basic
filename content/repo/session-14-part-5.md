@@ -25,5 +25,5 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Visibilitas warna CSS memastikan elemen tampil jelas, terbaca, dan konsisten di layar."
+description: "Memastikan visibilitas warna pada elemen secara konsisten."
 ---
