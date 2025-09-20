@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Layouting dan Evaluasi"
+title: "box model"
 weight: 15
 parted:
     name: ""

@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pengenalan CSS 1"
+title: "selektor"
 weight: 11
 parted:
     name: ""

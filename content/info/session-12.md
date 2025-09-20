@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pengenalan CSS 2"
+title: "kombinator"
 weight: 12
 parted:
     name: ""

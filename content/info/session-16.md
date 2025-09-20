@@ -1,8 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "Ujian Akhir"
-weight: 5
+title: "penempatan"
+weight: 16
 parted:
     name: ""
     goal: "Parted 1"

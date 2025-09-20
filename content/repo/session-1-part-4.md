@@ -2,6 +2,7 @@
 date:  ""
 draft: false
 title: "mepersiapkan sistem versi dan repositori"
+short: "repositori"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -15,16 +16,16 @@ format:
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Modul ini membahas langkah persiapan untuk tempat penyimpanan dokumen latihan atau penugasan."
 ---
 
 ## Heading

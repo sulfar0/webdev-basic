@@ -1,28 +1,29 @@
 ---
 date:  ""
 draft: false
-title: "elemen gambar"
+title: "formating"
+short: "formating"
 thumb:
     image: "cover.jpg"
     anima: ""
     video: ""
 layout: ""
 weight: 4
-lister: 5
+lister: 4
 format:
     media: "article"
     model: ""
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Formatting teks HTML penting untuk memperjelas tampilan dalam penulisan teks."
 ---

@@ -1,28 +1,29 @@
 ---
 date:  ""
 draft: false
-title: "elemen audio"
+title: "quotation"
+short: "quotation"
 thumb:
     image: "cover.jpg"
     anima: ""
     video: ""
 layout: ""
 weight: 4
-lister: 6
+lister: 5
 format:
     media: "article"
     model: ""
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Tag quotation HTML memudahkan penyajian kutipan dengan gaya yang sesuai dan profesional."
 ---

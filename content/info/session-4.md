@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 1"
+title: "penyuntingan teks"
 weight: 4
 parted:
     name: ""

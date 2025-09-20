@@ -12,12 +12,24 @@ session:
     close: "1 Januari 2026"
 require:
     - prop: "account"
-      name: "Registered"
-      icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      name: "telegram"
+      icon: "telegram"
+      desc: "Dibutuhkan untuk partisipasi didalam forum dikusi dari setiap modul."
+    - prop: "account"
+      name: "github"
+      icon: "github"
+      desc: "Dibutuhkan untuk tempat penyimpanan file bagi aktivitas praktek atau penugasan."
+    - prop: "applikasi"
+      name: "visual studio code"
+      icon: "visual studio code"
+      desc: "Dibutuhkan untuk tempat penyimpanan file bagi aktivitas praktek atau penugasan."
+    - prop: "sistem operasi"
+      name: "linux / windows"
+      icon: "linux"
+      desc: "Optional - Peserta bisa memilih salah satu sistem operasi, windows atau linux."
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: ["Gibran Zizzami"]
+    author: ["Al Muhdil Karim"]
 description: "Course ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital."
 ---

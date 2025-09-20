@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 2"
+title: "media"
 weight: 5
 parted:
     name: ""

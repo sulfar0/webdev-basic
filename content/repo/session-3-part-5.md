@@ -1,7 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "struktur dokumen html"
+title: "struktur"
+short: "struktur"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -15,14 +16,14 @@ format:
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Pahami struktur HTML, fondasi utama yang membentuk kerangka dalam halaman web."
 ---

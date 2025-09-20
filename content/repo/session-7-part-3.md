@@ -2,6 +2,7 @@
 date:  ""
 draft: false
 title: "spaning cell"
+short: "spaning cell"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -15,14 +16,14 @@ format:
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Spanning cell memungkinkan penggabungan beberapa kolom atau baris dalam tabel."
 ---

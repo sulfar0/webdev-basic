@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Mid Semester"
+title: "Semantik"
 weight: 9
 parted:
     name: ""

@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 4"
+title: "tabel dan formulir"
 weight: 7
 parted:
     name: ""

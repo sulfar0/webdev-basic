@@ -12,7 +12,7 @@ layout: ""
 offers:
     promo: true
     certs: false
-    level: "Pemula"
+    level: "Level 1"
 billing:
     price: ""
     rebate: ""

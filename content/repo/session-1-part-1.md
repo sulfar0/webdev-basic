@@ -2,6 +2,7 @@
 date:  ""
 draft: false
 title: "pengenalan mekanisme pembelajaran"
+short: "mekanisme belajar"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -15,16 +16,16 @@ format:
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Module ini membahas mekanis dan sistem pembelajaran yang digunakan dalam setiap pertemuan"
 ---
 
 ## Heading

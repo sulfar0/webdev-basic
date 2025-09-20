@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "semantik html"
+title: "metadata"
 weight: 8
 parted:
     name: ""

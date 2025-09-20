@@ -15,11 +15,11 @@ format:
 inform:
     grade: 70
     teams: 0
-required:
-    - prop: "linux"
-      name: "linux"
+require:
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 criteria:
     - prop: "linux"
       name: "linux"

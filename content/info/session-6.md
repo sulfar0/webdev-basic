@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "implementasi html 3"
+title: "konektivitas"
 weight: 6
 parted:
     name: ""

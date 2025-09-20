@@ -1,7 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "meta native 2"
+title: "metadata native 2"
+short: "metadata native 2"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -15,14 +16,14 @@ format:
     datum:
         data: ""
 require:
-    - prop: "linux"
-      name: "linux"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
     group: []
     author: ["Al Muhdil Karim"]
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
+description: "Metadata lanjutan untuk mengoptimalkan pengindeksan dan performa website secara profesional dan efektif."
 ---
