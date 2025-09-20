@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Pelajari kombinator child CSS untuk mengatur hubungan elemen lebih terstruktur."
 ---

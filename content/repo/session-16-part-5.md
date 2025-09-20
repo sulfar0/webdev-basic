@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Membuat elemen tetap terlihat saat menggulir halaman tanpa perpindahan."
 ---

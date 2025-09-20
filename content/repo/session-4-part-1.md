@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Memahami pembuatan paragraf dalam menampilkan teks secara jelas dan terstruktur."
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Memahmi fungsi selector dalam implementasi styling pada elemen html."
 ---

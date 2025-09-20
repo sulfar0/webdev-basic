@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Atribut adalah informasi tambahan untuk elemen dan mengatur tampilannya"
 ---

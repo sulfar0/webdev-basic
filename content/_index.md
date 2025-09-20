@@ -44,7 +44,7 @@ metadata:
     index: false
     thumb: "feature.jpg"
     group:  [ "yuros" ]
-    author: [ "Al Muhdil Karim" ]
+    author: [ "null" ]
 description: "Course ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital."
 ---
 

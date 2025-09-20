@@ -20,5 +20,5 @@ source:
     gate: ""
     file: ""
 metadata:
-    author: ["Gibran Zizzami"]
+    author: ["null"]
 ---

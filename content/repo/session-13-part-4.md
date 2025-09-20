@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Pelajari penggunaan font style untuk menciptakan tampilan teks lebih profesional."
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Implementasi warna latar belakang dalam membentuk identitas visual dan meningkatkan kenyamanan."
 ---

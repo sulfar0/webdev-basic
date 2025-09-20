@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Pelajari cara menghubungkan elemen dengan fleksibel menggunakan combinator general sibling CSS."
 ---

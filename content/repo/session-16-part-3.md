@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengatur elemen dalam laman denga lebih fleksibel tanpa mengganggu struktur utama."
 ---

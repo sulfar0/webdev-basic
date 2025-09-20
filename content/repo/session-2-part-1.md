@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Dalam modul ini kita akan mengenal konsep terkait pemograman berbasis web."
 ---

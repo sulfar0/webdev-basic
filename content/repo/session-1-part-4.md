@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Modul ini membahas langkah persiapan untuk tempat penyimpanan dokumen latihan atau penugasan."
 ---

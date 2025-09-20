@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengenal aplikasi webserver serta kegunaanya didalam pengoperasian website"
 ---

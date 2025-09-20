@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengorganisir informasi tambahan di bagian bawah laman dengan pendekatan semantik."
 ---

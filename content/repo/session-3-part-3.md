@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Elemen adalah komponen dasar yang membentuk struktur dan isi setiap halaman web"
 ---

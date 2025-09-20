@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Module ini membahas mekanisme pembelajaran yang digunakan dalam setiap pertemuan"
 ---

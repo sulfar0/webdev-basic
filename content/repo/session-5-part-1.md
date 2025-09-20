@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Menyisipan gambar dalam dokumen untuk memberikan visualisasi pada laman."
 ---

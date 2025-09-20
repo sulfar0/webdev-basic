@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Sintaks dasar css mengajarkan cara menulis aturan gaya untuk elemen html secara tepat."
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Modul ini membahas langkah persiapan alat yang dibutuhkan dalam proses belajar."
 ---

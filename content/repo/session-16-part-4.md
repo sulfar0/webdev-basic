@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengatur posisi elemen untuk bisa di tetapkan secara presisi berdasar desain."
 ---

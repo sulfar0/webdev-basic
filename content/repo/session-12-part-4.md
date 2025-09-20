@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Kombinator descendant membantu mengatur hubungan elemen css dengan struktur hierarki jelas."
 ---

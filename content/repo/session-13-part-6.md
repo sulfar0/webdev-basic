@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Sederhanakan sintaks css agar lebih ringkas, efisien, dan mudah dipahami."
 ---

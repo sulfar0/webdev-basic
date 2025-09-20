@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Menggunakan kombinator adjacent sibling untuk memilih elemen tepat setelah elemen utama."
 ---

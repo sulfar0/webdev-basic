@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Memberikan warna teks pada untuk keterbacaan, kesan visual dan memperkuat identitas."
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengatur penataan letak elemen untuk tampilan yang rapi, fleksibel, efektif."
 ---

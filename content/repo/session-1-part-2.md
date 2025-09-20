@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Modul ini membahas lingkungan belajar yang digunakan dalam setiap sesi pertemuan."
 ---

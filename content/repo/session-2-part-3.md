@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengenal secara mendalam konsepsi website sebagai sebuah instrumen penyedia informasi."
 ---

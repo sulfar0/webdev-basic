@@ -21,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: [ "Al Muhdil Karim" ]
+    author: [ "null" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

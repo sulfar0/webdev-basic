@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Menampilkan file video kedalam laman secara langsung dengan kontrol pemutaran lengkap."
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Meyajikan sumber kode secara terformat dan mudah dipahami sebagai sebuah sumber kode."
 ---

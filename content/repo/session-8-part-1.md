@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Mengenal metadata terkait informasi yang dimuat oleh laman sekaligus proses indeks."
 ---

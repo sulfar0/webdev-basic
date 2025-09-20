@@ -54,7 +54,7 @@ closed:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: ["Gibran Zizzami"]
+    author: ["null"]
 description: "Latihan untuk pendalaman pembelajaran array 1."
 ---
 

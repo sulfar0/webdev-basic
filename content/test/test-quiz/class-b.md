@@ -38,5 +38,5 @@ guides:
         - ""
         - ""
 metadata:
-    author: ["Gibran Zizzami"]
+    author: ["null"]
 ---

@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Menambah dimensi, kedalaman, dan estetika visual dari elemen tertentu."
 ---

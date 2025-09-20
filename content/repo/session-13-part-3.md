@@ -24,6 +24,6 @@ metadata:
     index: false
     thumb: "cover.jpg"
     group: []
-    author: ["Al Muhdil Karim"]
+    author: ["null"]
 description: "Pelajari cara mengatur ketebalan teks dengan font-weight untuk tampilan optimal."
 ---
