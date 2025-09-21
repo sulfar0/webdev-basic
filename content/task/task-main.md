@@ -28,10 +28,10 @@ reached:
       desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       icon:
 require:
-    - prop: "require prop 1"
-      name: "require name 1"
+    - prop: ""
+      name: ""
       icon: ""
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      desc: ""
 metadata:
     index: false
     thumb: "cover.jpg"
