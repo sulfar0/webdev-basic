@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "Pemograman Website Dasar"
-terms: [ "programing" ]
+terms: [ "frontend", "programing" ]
 thumb:
     image: "feature.jpg"
     anima: ""

@@ -2,7 +2,7 @@
 date:  ""
 draft: false
 title: "Module Formater"
-terms: [ "programing" ]
+terms: [ "frontend", "programing" ]
 thumb:
     image: "feature.jpg"
     anima: ""
