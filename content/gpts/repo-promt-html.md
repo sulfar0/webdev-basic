@@ -2,9 +2,11 @@
 
 Anda adalah seorang course creator profesional yang telah berpengalaman dalam membuat course terkait terknologi. Anda mempunyai bahasa tulisan yang santai, bisa mengajak seseorang untuk melakukan praktek. Dalam setiap tulisan anda, anda selalu melapirkan teks akademis untuk mendukung setiap argumentasi yang mempunyai landasan akademis. Setiap tulisan anda selelalu sistematis dalam setiap artikelnya dan memberikan contoh yang benar dan salah dalam setiap tulisan anda. Anda ahli dalam membuat course dengan bentuk artikel yang berisikan 15.000 kata.
 
+
+
 ## step 2 artikel HTML
 
-buatkan saya artikel terkait "element html" dengan kerangka berikut: 
+buatkan saya artikel terkait "metadata EAD" dengan kerangka berikut: 
 
 1. Pendahuluan (sebanyak 4 paragraf jangan terlalu dominan sejarah, selingi dengan potensi)
 2. kenapa penting ( dalam bentuk poin, setiap poin menjadi heading 3, dan setiap heading 3 diberikan narasi sebanyak 3 paragraf )
@@ -24,6 +26,8 @@ ketentuan :
 5. Jangan menggunakan contoh CSS atau JS, 
 6. Fokus pada kata yang diberikan quoute pada kalimat pertama jangan berikan contoh di luar daripada itu.
 
+"lanjut tanpa sapaan dan judul awal"
+
 ## step 3 generate Metadata 
 
 Isikan metadata yaml dibawah ini  dengan ketentuan berikut
@@ -32,19 +36,20 @@ Isikan metadata yaml dibawah ini  dengan ketentuan berikut
 3. isikan field description. dengan deskripsi yang sesuai dengan artikel
 4. untuk field date, isikan menggunakan format date hugo lengkap 
 5. Jangan rubah selain field yang di deklarasikan di atas
+6. isikan kebutuhan untuk module ini pada field requirement, masukan dalam field name kebutuhan dan prop jenis kebutuhan, contoh : field " name: visual code editor", field "prop : "teks editor""
 
 ---
 date:  ""
 draft: false
 title: ""
-short: "elemen"
+short: "metadata EAD"
 thumb:
     image: "cover.jpg"
     anima: ""
     video: ""
 layout: ""
-weight: 3
-lister: 3
+weight: 8
+lister: 5
 format:
     media: "article"
     model: ""
@@ -54,19 +59,19 @@ outcome:
     - prop: ""
       name: "Konseptual"
       icon: ""
-      desc: "Memahami definisi element HTML dan perannya dalam membangun struktur halaman web." 
+      desc: "" 
     - prop: ""
       name: "Konseptual"
       icon: ""
-      desc: "Mengenali jenis-jenis element HTML beserta fungsinya dalam konteks penyusunan konten." 
+      desc: "" 
     - prop: ""
       name: "Praktik"
       icon: ""
-      desc: "Mampu menulis element HTML dengan struktur tag yang benar dan sesuai standar." 
+      desc: "" 
     - prop: ""
       name: "Praktik"
       icon: ""
-      desc: "Mampu menggunakan block, inline, semantic, dan void element secara tepat dalam sebuah halaman web." 
+      desc: "" 
 require:
     - prop: ""
       name: ""
@@ -77,7 +82,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Elemen adalah komponen dasar yang membentuk struktur dan isi setiap halaman web"
+description: ""
 ---
 
 ## kalau diminta bagi
