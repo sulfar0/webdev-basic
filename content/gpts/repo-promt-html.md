@@ -18,7 +18,7 @@ buatkan saya artikel terkait "element html" dengan kerangka berikut:
 
 ketentuan :
 1. generate poin per poin,
-2. angan keluar dari topik yang di beri tanda kutip pada kalimat pertama karena akan menjadi bahasan pada module lainya.
+2. jangan keluar dari topik yang di beri tanda kutip pada kalimat pertama karena akan menjadi bahasan pada module lainya.
 3. Untuk setiap paragraf dicarikan sitasi ilmiah sehingga tulisan bisa dipertanggungjawabkan secara akademis. 
 4. Setiap pargraf terdiri dari 7 kalimat. dan setiap kalimat gunakan bahasa yang mudah di mengerti oleh awam namun tanpa kehilangan subtansi dari pembahasan. 
 5. Jangan menggunakan contoh CSS atau JS, 
