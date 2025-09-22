@@ -9,12 +9,29 @@ thumb:
     video: ""
 layout: ""
 weight: 4
-lister: 4
+lister: 3
 format:
     media: "article"
     model: ""
     datum:
         data: ""
+outcome:
+    - prop: ""
+      name: "Konseptual"
+      icon: ""
+      desc: "" 
+    - prop: ""
+      name: "Konseptual"
+      icon: ""
+      desc: "" 
+    - prop: ""
+      name: "Praktik"
+      icon: ""
+      desc: "" 
+    - prop: ""
+      name: "Praktik"
+      icon: ""
+      desc: "" 
 require:
     - prop: ""
       name: ""
