@@ -27,3 +27,15 @@ metadata:
     author: ["null"]
 description: "Modul ini membahas langkah persiapan alat yang dibutuhkan dalam proses belajar."
 ---
+
+
+## Installasi Visual Studio Code Di Windows
+{{< youtube kQl8ugdcZCc >}}
+
+
+## Installasi Visual Studio Code di MacOS
+{{< youtube iMtdrqLt8yo >}}
+
+
+## Installasi Visual Studio Code di Ubuntu
+{{< youtube 8EdFgoZKwPc >}}
