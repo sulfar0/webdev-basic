@@ -2,14 +2,14 @@
 date: 2025-09-22T10:00:00+07:00
 draft: false
 title: "Menguasai Descendant Selector di CSS untuk Desain Web yang Efisien"
-short: "metadata EAD"
+short: "descendant"
 thumb:
     image: "cover.jpg"
     anima: ""
     video: ""
 layout: ""
-weight: 8
-lister: 5
+weight: 12
+lister: 4
 format:
     media: "article"
     model: ""

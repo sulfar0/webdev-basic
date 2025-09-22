@@ -46,7 +46,7 @@ description: "Panduan ini menjelaskan secara lengkap text formatting di HTML di 
 ---
 
 
-## **1. Pendahuluan**
+## 1. Pendahuluan
 
 Text formatting di HTML bukan hanya soal membuat tulisan terlihat rapi, tetapi juga membantu menyampaikan pesan dengan lebih jelas kepada pembaca. Penggunaan tag yang tepat dapat memudahkan pembaca memahami informasi tanpa kebingungan. Format teks yang baik juga penting untuk aksesibilitas, sehingga pembaca dengan kebutuhan khusus dapat membaca konten dengan nyaman. Selain itu, text formatting yang benar mendukung SEO karena mesin pencari lebih mudah mengindeks konten yang terstruktur. Banyak orang salah kaprah menganggap bahwa hanya heading dan paragraf saja yang penting, padahal elemen formatting lain sama krusialnya. Penelitian menunjukkan bahwa presentasi teks yang jelas meningkatkan pemahaman hingga 40% (Miller, 2019). Oleh karena itu, memahami semua jenis text formatting di luar heading dan paragraf menjadi skill penting bagi pengembang web.
 
@@ -59,9 +59,9 @@ Selain itu, text formatting juga memiliki peran penting dalam pendidikan dan dok
 
 ---
 
-## **2. Kenapa Penting**
+## 2. Kenapa Penting
 
-### **Meningkatkan Keterbacaan Teks**
+### Meningkatkan Keterbacaan Teks
 
 Text formatting membantu pembaca menangkap informasi penting dengan lebih cepat. Dengan menekankan kata atau frasa tertentu menggunakan bold atau italic, pembaca bisa langsung fokus pada poin utama. Studi oleh Miller (2019) menunjukkan bahwa penggunaan format teks yang jelas meningkatkan kecepatan membaca hingga 20%. Selain itu, formatting yang rapi membuat halaman web terlihat profesional dan nyaman di mata pembaca. Misalnya, penggunaan list atau blockquote membuat informasi lebih mudah dipindai tanpa kehilangan makna. Tanpa text formatting, teks panjang bisa membuat pembaca cepat bosan atau melewatkan informasi penting. Oleh karena itu, pemahaman tentang text formatting sangat penting untuk membuat konten yang mudah dibaca dan dipahami.
 
@@ -69,7 +69,7 @@ Text formatting juga membantu membedakan informasi utama dan tambahan. Misalnya,
 
 Selain itu, text formatting mempermudah pembaca untuk memindai konten. Banyak pengguna internet lebih cenderung memindai daripada membaca seluruh teks. Dengan penggunaan elemen formatting seperti bold, italic, atau strikethrough, pembaca bisa menemukan informasi yang dicari tanpa membaca seluruh teks. Smith & Lee (2020) menegaskan bahwa pembaca yang menghadapi teks yang dipindai dengan baik menunjukkan tingkat keterlibatan lebih tinggi. Dengan cara ini, text formatting membantu menjaga perhatian pembaca lebih lama. Pemahaman yang baik tentang elemen formatting meningkatkan kualitas pengalaman membaca secara keseluruhan.
 
-### **Meningkatkan Aksesibilitas Konten**
+### Meningkatkan Aksesibilitas Konten
 
 Text formatting memengaruhi bagaimana screen reader dan alat bantu membaca menafsirkan teks. Misalnya, screen reader akan mengumumkan teks tebal atau miring sebagai penekanan tertentu, yang membantu pengguna memahami konteks lebih baik. Menurut Chen (2018), penggunaan elemen HTML yang tepat meningkatkan pengalaman pengguna dengan disabilitas visual. Tanpa formatting yang benar, konten bisa sulit dipahami dan membuat pengguna kehilangan informasi penting. Text formatting juga memudahkan navigasi menggunakan keyboard atau alat bantu lainnya. Dengan memastikan elemen teks digunakan secara semantik, pengembang web membantu semua pembaca mengakses informasi secara setara.
 
@@ -77,7 +77,7 @@ Elemen formatting juga membantu pembaca dengan gangguan kognitif memahami strukt
 
 Selain itu, text formatting mendukung pembaca non-native yang belajar bahasa baru. Penekanan kata atau istilah asing menggunakan italic atau underline membantu pembaca memahami konteks kata. Studi oleh Miller (2019) menunjukkan bahwa penekanan visual mempermudah pemahaman kosakata baru. Tanpa formatting, pembaca bisa salah menafsirkan arti kata atau istilah teknis. Dengan demikian, elemen formatting tidak hanya mempercantik tampilan, tetapi juga menjadi alat pembelajaran yang efektif.
 
-### **Meningkatkan Profesionalitas Konten**
+### Meningkatkan Profesionalitas Konten
 
 Konten yang diformat dengan baik memberikan kesan profesional dan terstruktur. Penggunaan bold, italic, dan list yang konsisten menunjukkan perhatian pada detail. Menurut Johnson (2021), pengguna lebih mempercayai website yang menyajikan konten dengan format teks yang jelas dan teratur. Konten yang tidak diformat dengan baik cenderung terlihat asal-asalan dan sulit dipahami. Formatting juga membantu menyampaikan hierarki informasi dengan jelas. Dengan memisahkan teks penting menggunakan elemen formatting, pembaca lebih mudah menavigasi informasi. Hal ini meningkatkan kredibilitas konten dan membuat pembaca kembali lagi ke website.
 
@@ -88,11 +88,11 @@ Selain itu, penggunaan formatting yang tepat membantu pengembang web mengikuti s
 
 ---
 
-## **3. Konsep Dasar**
+## 3. Konsep Dasar
 
-Text formatting di luar heading dan paragraf memungkinkan pengembang web memberikan penekanan dan struktur visual pada teks. Elemen dasar yang umum digunakan meliputi **bold**, **italic**, **underline**, **strikethrough**, **subscript**, dan **superscript**. Setiap elemen memiliki fungsi spesifik dalam komunikasi teks. Misalnya, bold digunakan untuk menekankan kata penting, sedangkan italic menandai istilah asing atau kata yang ingin ditekankan secara halus. Subscript dan superscript sering digunakan dalam konteks ilmiah atau matematika untuk menunjukkan notasi tertentu. Dengan memahami konsep ini, pengembang dapat menyusun teks yang jelas dan mudah dipahami. Penelitian oleh Miller (2019) menegaskan bahwa penggunaan formatting yang tepat meningkatkan pemahaman pembaca hingga 40%.
+Text formatting di luar heading dan paragraf memungkinkan pengembang web memberikan penekanan dan struktur visual pada teks. Elemen dasar yang umum digunakan meliputi bold, italic, underline, strikethrough, subscript, dan superscript. Setiap elemen memiliki fungsi spesifik dalam komunikasi teks. Misalnya, bold digunakan untuk menekankan kata penting, sedangkan italic menandai istilah asing atau kata yang ingin ditekankan secara halus. Subscript dan superscript sering digunakan dalam konteks ilmiah atau matematika untuk menunjukkan notasi tertentu. Dengan memahami konsep ini, pengembang dapat menyusun teks yang jelas dan mudah dipahami. Penelitian oleh Miller (2019) menegaskan bahwa penggunaan formatting yang tepat meningkatkan pemahaman pembaca hingga 40%.
 
-HTML menyediakan tag semantik untuk masing-masing format tersebut. **Tag `<b>`** digunakan untuk bold, **`<i>`** untuk italic, **`<u>`** untuk underline, **`<s>`** untuk strikethrough, **`<sub>`** untuk subscript, dan **`<sup>`** untuk superscript. Penggunaan tag semantik membantu browser menampilkan teks sesuai maksud pengembang. Selain itu, elemen ini tetap bisa dibaca oleh screen reader, sehingga mendukung aksesibilitas. Berikut contoh sederhana:
+HTML menyediakan tag semantik untuk masing-masing format tersebut. Tag `<b>` digunakan untuk bold, `<i>` untuk italic, `<u>` untuk underline, `<s>` untuk strikethrough, `<sub>` untuk subscript, dan `<sup>` untuk superscript. Penggunaan tag semantik membantu browser menampilkan teks sesuai maksud pengembang. Selain itu, elemen ini tetap bisa dibaca oleh screen reader, sehingga mendukung aksesibilitas. Berikut contoh sederhana:
 
 ```html
 <p>Ini adalah <b>teks tebal</b> dan ini <i>teks miring</i>.</p>
@@ -111,9 +111,9 @@ Text formatting juga mempermudah pengembangan konten edukatif dan dokumentasi. D
 
 ---
 
-## **4. Jenis dan Contoh**
+## 4. Jenis dan Contoh
 
-### **Bold (`<b>`)**
+### Bold `<b>`
 
 Bold digunakan untuk menekankan kata atau frasa yang dianggap penting. Misalnya, dalam teks informatif, kata kunci dapat dicetak tebal agar langsung terlihat oleh pembaca. Bold tidak memberi arti tambahan selain visual, tetapi tetap meningkatkan keterbacaan teks (Miller, 2019). Penggunaan yang berlebihan dapat membuat teks terlihat penuh dan membingungkan, sehingga harus digunakan secara selektif. Berikut contoh HTML untuk bold:
 
@@ -123,9 +123,9 @@ Bold digunakan untuk menekankan kata atau frasa yang dianggap penting. Misalnya,
 
 Dalam contoh di atas, kata "penting" akan tampil tebal, sehingga pembaca langsung fokus pada informasi inti. Bold efektif untuk menyoroti istilah atau instruksi penting tanpa mengubah arti kalimat. Penelitian Johnson (2021) menyebutkan bahwa teks tebal memandu mata pembaca lebih cepat ke poin utama.
 
-Selain kata tunggal, bold juga bisa digunakan untuk menyoroti frasa atau istilah tertentu dalam kalimat. Misalnya, instruksi seperti “Klik tombol <b>Submit</b> untuk melanjutkan” membuat tindakan lebih jelas. Penggunaan ini juga membantu pembaca memindai teks dengan lebih efisien. Dengan begitu, teks tetap informatif sekaligus mudah dibaca.
+Selain kata tunggal, bold juga bisa digunakan untuk menyoroti frasa atau istilah tertentu dalam kalimat. Misalnya, instruksi seperti “Klik tombol `<b>Submit</b>` untuk melanjutkan” membuat tindakan lebih jelas. Penggunaan ini juga membantu pembaca memindai teks dengan lebih efisien. Dengan begitu, teks tetap informatif sekaligus mudah dibaca.
 
-### **Italic (`<i>`)**
+### Italic `<i>`
 
 Italic digunakan untuk menandai istilah asing, penekanan halus, atau kutipan ringan. Teks miring memberi penekanan tanpa terlihat terlalu dominan dibandingkan bold (Smith & Lee, 2020). Misalnya, kata-kata bahasa asing atau istilah teknis bisa dicetak miring agar berbeda dari teks utama. Berikut contoh penggunaan italic:
 
@@ -135,9 +135,9 @@ Italic digunakan untuk menandai istilah asing, penekanan halus, atau kutipan rin
 
 Kata "HTML" dicetak miring untuk menandai istilah teknis. Penggunaan italic membantu pembaca membedakan konteks kata tanpa mengganggu alur kalimat. Penelitian Chen (2018) menyatakan bahwa penggunaan italic secara tepat membantu pembaca memahami istilah baru lebih cepat.
 
-Italic juga bisa digunakan untuk menekankan kata atau frasa tertentu dalam narasi. Misalnya, “Pastikan Anda <i>selalu</i> memeriksa kode sebelum publish” menekankan kata “selalu” agar pembaca memperhatikan instruksi. Dengan penggunaan yang konsisten, italic meningkatkan keterbacaan dan profesionalitas teks.
+Italic juga bisa digunakan untuk menekankan kata atau frasa tertentu dalam narasi. Misalnya, “Pastikan Anda selalu memeriksa kode sebelum publish” menekankan kata “selalu” agar pembaca memperhatikan instruksi. Dengan penggunaan yang konsisten, italic meningkatkan keterbacaan dan profesionalitas teks.
 
-### **Underline (`<u>`)**
+### Underline `<u>`
 
 Underline biasanya digunakan untuk menandai teks penting atau menyoroti istilah tertentu. Dalam HTML, `<u>` membuat garis di bawah teks untuk memberikan penekanan visual. Penggunaan underline harus hati-hati agar tidak membingungkan dengan hyperlink (Miller, 2019). Berikut contoh sederhana:
 
@@ -149,7 +149,7 @@ Teks “panduan penggunaan” akan muncul dengan garis bawah, menarik perhatian 
 
 Underline juga bisa dipakai pada teks yang menandai revisi atau catatan khusus. Misalnya, di dokumen edukatif, istilah yang sedang dibahas bisa diberi underline agar mudah diidentifikasi. Dengan begitu, pembaca lebih mudah mengikuti alur teks dan memahami konten.
 
-### **Strikethrough (`<s>`)**
+### Strikethrough `<s>`
 
 Strikethrough digunakan untuk menandai teks yang sudah tidak berlaku atau dibatalkan. Tag `<s>` memberi efek garis pada teks, menunjukkan revisi atau penghapusan informasi (Smith & Lee, 2020). Berikut contoh HTML:
 
@@ -161,7 +161,7 @@ Tanggal lama dicoret untuk menunjukkan pembaruan informasi. Strikethrough efekti
 
 Strikethrough juga bisa digunakan untuk menekankan bahwa opsi tertentu sudah tidak valid. Misalnya, dalam daftar harga atau panduan lama, teks yang dicoret menunjukkan informasi kadaluarsa. Penggunaan yang tepat menjaga teks tetap informatif dan jelas.
 
-### **Subscript (`<sub>`) dan Superscript (`<sup>`)**
+### Subscript `<sub>` dan Superscript `<sup>`
 
 Subscript dan superscript digunakan dalam konteks ilmiah, matematika, atau notasi kimia. `<sub>` menampilkan teks di bawah garis dasar, sedangkan `<sup>` menempatkan teks di atas garis dasar (Tanenbaum & Wetherall, 2021). Contoh HTML:
 
@@ -177,9 +177,9 @@ Subscript dan superscript juga meningkatkan profesionalitas teks ilmiah. Misalny
 
 ---
 
-## **5. Implementasi dari Setiap Contoh**
+## 5. Implementasi dari Setiap Contoh
 
-### **Bold (`<b>`)**
+### Bold 
 
 Bold digunakan untuk menekankan kata penting dalam dokumen web agar mudah terlihat pembaca. Implementasinya bisa diterapkan pada instruksi, kata kunci, atau istilah yang ingin ditekankan. Berikut contoh HTML implementasinya:
 
@@ -189,9 +189,9 @@ Bold digunakan untuk menekankan kata penting dalam dokumen web agar mudah terlih
 
 Dalam contoh di atas, kata “petunjuk penggunaan” dicetak tebal sehingga pembaca langsung mengetahui fokus utama kalimat. Bold efektif untuk mengarahkan perhatian pembaca ke informasi yang penting. Implementasi yang konsisten meningkatkan keterbacaan teks dan membantu pembaca memindai halaman lebih cepat. Bold juga bisa digunakan dalam daftar instruksi atau langkah-langkah agar tiap poin penting terlihat jelas. Penelitian Johnson (2021) menunjukkan bahwa teks yang ditebalkan membimbing mata pembaca untuk menemukan informasi lebih cepat.
 
-Selain kata tunggal, bold bisa digunakan untuk menekankan frasa atau kalimat pendek. Misalnya, “Klik tombol <b>Submit</b> untuk melanjutkan proses” membuat tindakan lebih jelas. Dengan begitu, teks tidak hanya rapi tetapi juga efektif dalam menyampaikan instruksi. Bold juga mendukung pengalaman membaca yang lebih terstruktur pada halaman web panjang.
+Selain kata tunggal, bold bisa digunakan untuk menekankan frasa atau kalimat pendek. Misalnya, “Klik tombol Submit untuk melanjutkan proses” membuat tindakan lebih jelas. Dengan begitu, teks tidak hanya rapi tetapi juga efektif dalam menyampaikan instruksi. Bold juga mendukung pengalaman membaca yang lebih terstruktur pada halaman web panjang.
 
-### **Italic (`<i>`)**
+### Italic 
 
 Italic digunakan untuk menandai istilah asing, kutipan ringan, atau memberi penekanan halus pada kata tertentu. Implementasinya bisa pada istilah teknis atau kata yang ingin diperjelas konteksnya. Contoh HTML:
 
@@ -201,9 +201,9 @@ Italic digunakan untuk menandai istilah asing, kutipan ringan, atau memberi pene
 
 Kata “HyperText” dicetak miring untuk membedakan dari teks biasa, sehingga pembaca tahu bahwa istilah ini memiliki arti khusus. Italic membantu membedakan konteks kata tanpa mengganggu alur narasi. Penelitian Smith & Lee (2020) menunjukkan bahwa teks miring membuat pembaca lebih cepat memahami istilah baru. Implementasi italic efektif dalam dokumen edukatif atau artikel online.
 
-Selain istilah tunggal, italic juga bisa diterapkan pada frase atau kata yang ingin ditekankan secara halus. Misalnya, “Pastikan Anda <i>selalu</i> memeriksa kode sebelum publish” menekankan kata “selalu”. Dengan penerapan ini, teks menjadi lebih mudah dipahami dan profesional.
+Selain istilah tunggal, italic juga bisa diterapkan pada frase atau kata yang ingin ditekankan secara halus. Misalnya, “Pastikan Anda selalu memeriksa kode sebelum publish” menekankan kata “selalu”. Dengan penerapan ini, teks menjadi lebih mudah dipahami dan profesional.
 
-### **Underline (`<u>`)**
+### Underline 
 
 Underline digunakan untuk menyoroti teks penting yang membutuhkan perhatian khusus. Implementasi umum misalnya menandai istilah atau bagian yang harus dibaca lebih teliti. Contoh HTML:
 
@@ -215,7 +215,7 @@ Teks “panduan penggunaan” muncul dengan garis bawah, memberi sinyal visual p
 
 Selain itu, underline dapat menandai istilah atau kalimat yang sedang dibahas secara khusus. Misalnya, dalam catatan revisi, teks yang perlu diperhatikan diberi underline untuk menonjol. Dengan penggunaan yang tepat, teks tetap jelas, rapi, dan mudah dipahami pembaca.
 
-### **Strikethrough (`<s>`)**
+### Strikethrough 
 
 Strikethrough digunakan untuk menandai teks yang telah diubah atau tidak berlaku. Implementasinya bisa pada revisi tanggal, harga, atau instruksi lama. Contoh HTML:
 
@@ -227,7 +227,7 @@ Tanggal lama dicoret untuk menunjukkan pembaruan informasi. Strikethrough memban
 
 Selain itu, strikethrough bisa digunakan untuk menekankan opsi yang sudah tidak valid. Misalnya, dalam daftar fitur produk lama, teks yang dicoret menandakan pembaruan informasi. Penggunaan yang tepat menjaga kejelasan konten sekaligus memberi konteks sejarah teks.
 
-### **Subscript (`<sub>`) dan Superscript (`<sup>`)**
+### Subscript  dan Superscript 
 
 Subscript dan superscript digunakan untuk menampilkan notasi ilmiah atau matematika. Implementasi umum misalnya pada rumus kimia atau persamaan matematika. Contoh HTML:
 
@@ -243,9 +243,9 @@ Subscript dan superscript juga meningkatkan profesionalitas teks dan mempermudah
 
 ---
 
-## **6. Kesalahan**
+## 6. Kesalahan
 
-### **Penggunaan Bold yang Berlebihan (`<b>`)**
+### Penggunaan Bold yang Berlebihan 
 
 Penggunaan bold yang berlebihan dapat membuat teks terlihat padat dan membingungkan pembaca. Banyak pemula cenderung menebalkan banyak kata sekaligus tanpa mempertimbangkan konteks pentingnya kata tersebut. Hal ini justru mengurangi efektivitas penekanan, karena pembaca sulit menentukan informasi inti (Miller, 2019). Bold sebaiknya digunakan hanya pada kata atau frasa yang benar-benar penting. Berikut contoh yang salah:
 
@@ -263,7 +263,7 @@ Hanya kata kunci yang ditebalkan, membuat fokus pembaca jelas. Implementasi yang
 
 ---
 
-### **Italic yang Tidak Konsisten (`<i>`)**
+### Italic yang Tidak Konsisten `<i>`
 
 Penggunaan italic yang tidak konsisten membuat pembaca bingung mengenai konteks istilah atau penekanan. Pemula sering mencetak miring kata tanpa alasan jelas atau berbeda-beda dalam satu dokumen (Smith & Lee, 2020). Hal ini menurunkan profesionalitas dan keterbacaan teks. Berikut contoh salah:
 
@@ -281,7 +281,7 @@ Italic hanya digunakan pada istilah penting, membantu pembaca memahami konteks. 
 
 ---
 
-### **Subscript dan Superscript yang Salah (`<sub>` & `<sup>`)**
+### Subscript dan Superscript yang Salah `<sub>` & `<sup>`
 
 Kesalahan umum dalam subscript dan superscript adalah menempatkan teks biasa ke dalam tag tanpa tujuan notasi ilmiah atau matematika. Banyak pemula menggunakan `<sub>` atau `<sup>` untuk tujuan estetika, sehingga teks menjadi tidak sesuai konteks (Tanenbaum & Wetherall, 2021). Contoh salah:
 
@@ -300,7 +300,7 @@ Subscript dan superscript digunakan sesuai konteks ilmiah, menjaga kejelasan tek
 
 ---
 
-### **Tabel Perbandingan Kesalahan dan Implementasi Benar**
+### Tabel Perbandingan Kesalahan dan Implementasi Benar
 
 | Jenis Formatting                        | Kesalahan Umum                            | Implementasi Benar                                          | Penjelasan                                    |
 | --------------------------------------- | ----------------------------------------- | ----------------------------------------------------------- | --------------------------------------------- |
@@ -312,9 +312,9 @@ Subscript dan superscript digunakan sesuai konteks ilmiah, menjaga kejelasan tek
 
 ---
 
-## **7. Best Practice**
+## 7. Best Practice
 
-### **Gunakan Bold Secara Selektif**
+### Gunakan Bold Secara Selektif
 
 Bold sebaiknya digunakan hanya untuk menyoroti kata atau frasa yang benar-benar penting. Penggunaan yang berlebihan membuat teks sulit dibaca dan membingungkan pembaca (Miller, 2019). Dengan menebalkan kata kunci atau istilah penting, pembaca dapat langsung menangkap informasi inti. Misalnya, dalam instruksi langkah demi langkah, bold pada kata tindakan seperti “Klik” atau “Submit” sangat membantu. Penelitian Johnson (2021) menunjukkan bahwa bold yang selektif memandu mata pembaca lebih cepat ke poin utama. Selain itu, penggunaan bold yang tepat membuat halaman web terlihat profesional dan terstruktur. Menguasai teknik ini meningkatkan keterbacaan teks dan pengalaman pengguna secara keseluruhan.
 
@@ -324,17 +324,17 @@ Selain itu, kombinasikan bold dengan elemen formatting lain bila perlu. Misalnya
 
 ---
 
-### **Gunakan Italic untuk Penekanan Halus dan Istilah Khusus**
+### Gunakan Italic untuk Penekanan Halus dan Istilah Khusus
 
 Italic paling efektif untuk menandai istilah asing, kutipan ringan, atau kata yang membutuhkan penekanan halus. Penggunaan yang konsisten membantu pembaca memahami konteks kata tertentu tanpa mengganggu alur bacaan (Smith & Lee, 2020). Misalnya, istilah teknis seperti “HyperText” bisa dicetak miring agar berbeda dari teks utama. Penelitian Chen (2018) menunjukkan bahwa pembaca lebih cepat memahami istilah baru jika menggunakan italic secara tepat.
 
-Selain istilah tunggal, italic dapat diterapkan pada frase atau kata yang ingin ditekankan secara halus. Misalnya, “Pastikan Anda <i>selalu</i> memeriksa kode sebelum publish” membantu pembaca memahami pentingnya tindakan. Penggunaan yang tepat meningkatkan keterbacaan teks dan menekankan fokus tanpa mengganggu keseluruhan narasi.
+Selain istilah tunggal, italic dapat diterapkan pada frase atau kata yang ingin ditekankan secara halus. Misalnya, “Pastikan Anda selalu memeriksa kode sebelum publish” membantu pembaca memahami pentingnya tindakan. Penggunaan yang tepat meningkatkan keterbacaan teks dan menekankan fokus tanpa mengganggu keseluruhan narasi.
 
 Italic juga sebaiknya tidak digunakan secara berlebihan. Terlalu banyak kata miring dapat mengurangi profesionalitas teks dan membuat halaman terlihat tidak rapi. Kombinasi italic yang konsisten dengan bold atau underline dapat meningkatkan struktur visual dan pengalaman membaca.
 
 ---
 
-### **Gunakan Underline dengan Hati-Hati**
+### Gunakan Underline dengan Hati-Hati
 
 Underline efektif untuk menyoroti teks yang membutuhkan perhatian khusus, tetapi jangan sampai membingungkan dengan hyperlink (Miller, 2019). Gunakan underline hanya pada istilah penting atau teks yang ingin diperjelas. Misalnya, dalam dokumen edukatif, kata yang sedang dibahas bisa diberi underline untuk memudahkan pembaca mengidentifikasi fokus utama. Penelitian Johnson (2021) menunjukkan bahwa underline yang selektif meningkatkan daya tangkap pembaca terhadap istilah penting.
 
@@ -344,7 +344,7 @@ Underline juga dapat digabung dengan elemen lain, misalnya bold atau italic, unt
 
 ---
 
-### **Gunakan Strikethrough untuk Teks yang Direvisi**
+### Gunakan Strikethrough untuk Teks yang Direvisi
 
 Strikethrough sebaiknya digunakan hanya untuk menandai teks yang telah diubah, dibatalkan, atau kadaluarsa (Smith & Lee, 2020). Penggunaan yang tepat membantu pembaca memahami revisi tanpa kehilangan konteks. Misalnya, tanggal atau harga lama bisa dicoret agar pembaca tahu informasi terbaru. Penelitian Chen (2018) menunjukkan bahwa visual cue melalui strikethrough mempermudah pembaca menangkap perubahan konten.
 
@@ -354,7 +354,7 @@ Strikethrough juga dapat dikombinasikan dengan bold atau italic untuk menekankan
 
 ---
 
-### **Gunakan Subscript dan Superscript Sesuai Konteks**
+### Gunakan Subscript dan Superscript Sesuai Konteks
 
 Subscript dan superscript harus digunakan hanya dalam konteks ilmiah, matematika, atau notasi tertentu. Misalnya, rumus kimia atau persamaan matematika menggunakan `<sub>` dan `<sup>` untuk menampilkan notasi yang benar (Tanenbaum & Wetherall, 2021). Penggunaan yang tepat membantu pembaca memahami informasi teknis tanpa kebingungan.
 
@@ -365,13 +365,13 @@ Subscript dan superscript juga bisa digabung dengan elemen lain bila dibutuhkan,
 
 ---
 
-## **8. Kesimpulan**
+## 8. Kesimpulan
 
 Text formatting di luar heading dan paragraf adalah elemen penting dalam menyajikan konten web yang jelas, profesional, dan mudah dipahami. Penggunaan elemen seperti bold, italic, underline, strikethrough, subscript, dan superscript memungkinkan pengembang web menekankan informasi penting, membedakan istilah, dan menyajikan notasi teknis secara akurat. Pemahaman konsep dasar dan implementasi yang tepat dari setiap elemen formatting meningkatkan keterbacaan, aksesibilitas, dan pengalaman pengguna secara keseluruhan. Penelitian oleh Miller (2019) dan Chen (2018) menunjukkan bahwa penggunaan format teks yang tepat meningkatkan pemahaman dan retensi pembaca hingga 30-40%. Oleh karena itu, setiap pengembang web perlu memahami cara menggunakan elemen formatting ini secara konsisten dan efektif.
 
 Selain itu, kesalahan umum seperti penggunaan bold atau italic berlebihan, strikethrough yang tidak tepat, serta subscript dan superscript yang salah konteks dapat mengurangi profesionalitas dan keterbacaan teks. Best practice yang konsisten, selektif, dan sesuai konteks membantu menyajikan teks yang rapi, informatif, dan profesional. Dengan menerapkan prinsip-prinsip ini, pembaca dapat menangkap informasi penting dengan cepat dan akurat. Hal ini juga mendukung praktik web development yang sesuai standar, ramah pengguna, dan profesional.
 
-**Gagasan Utama:**
+Gagasan Utama:
 
 * Text formatting meningkatkan keterbacaan dan fokus pembaca.
 * Bold digunakan untuk menekankan kata atau frasa penting secara selektif.
@@ -384,7 +384,7 @@ Selain itu, kesalahan umum seperti penggunaan bold atau italic berlebihan, strik
 
 ---
 
-## **9. Referensi**
+## 9. Referensi
 
 Chen, L. (2018). *Enhancing reading comprehension through visual cues in digital texts*. Journal of Educational Technology, 15(2), 45–60. [https://doi.org/10.1016/j.jedt.2018.02.004](https://doi.org/10.1016/j.jedt.2018.02.004)
 

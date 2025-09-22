@@ -38,7 +38,7 @@ require:
       icon: "code"
       desc: "Alat yang digunakan untuk menuliskan dan menguji kode CSS."
     - prop: "peramban web"
-      name: "Google Chrome atau Firefox"
+      name: "Chrome / Firefox"
       icon: "globe"
       desc: "Diperlukan untuk menampilkan hasil implementasi CSS pada halaman web."
 metadata:
