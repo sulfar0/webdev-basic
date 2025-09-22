@@ -37,10 +37,6 @@ require:
       name: "Visual Code Editor"
       icon: ""
       desc: "Digunakan untuk menulis kode HTML dan CSS dengan mudah."
-    - prop: "browser"
-      name: "Web Browser"
-      icon: ""
-      desc: "Menguji hasil implementasi selector child secara langsung."
 metadata:
     index: false
     thumb: "cover.jpg"

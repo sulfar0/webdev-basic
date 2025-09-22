@@ -34,7 +34,7 @@ outcome:
       desc: "Mampu menggunakan block, inline, semantic, dan void element secara tepat dalam sebuah halaman web." 
 require:
     - prop: ""
-      name: "Konseptual"
+      name: ""
       icon: ""
       desc: ""
 metadata:

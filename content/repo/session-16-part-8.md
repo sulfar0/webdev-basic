@@ -37,10 +37,6 @@ require:
       name: "Visual Code Editor"
       icon: ""
       desc: "Digunakan untuk menulis dan menguji kode CSS secara langsung."
-    - prop: "browser"
-      name: "Web Browser Modern"
-      icon: ""
-      desc: "Diperlukan untuk melihat hasil implementasi clear floating secara real-time."
 metadata:
     index: false
     thumb: "cover.jpg"

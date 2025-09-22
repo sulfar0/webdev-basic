@@ -37,10 +37,6 @@ require:
       name: "Visual Code Editor"
       icon: ""
       desc: "Digunakan untuk menulis dan menguji kode CSS."
-    - prop: "browser"
-      name: "Web Browser Modern"
-      icon: ""
-      desc: "Diperlukan untuk melihat hasil implementasi float pada CSS secara langsung."
 metadata:
     index: false
     thumb: "cover.jpg"

@@ -37,10 +37,6 @@ require:
       name: "Visual Studio Code"
       icon: "code"
       desc: "Dibutuhkan untuk menuliskan dan menguji kode CSS secara langsung."
-    - prop: "peramban web"
-      name: "Google Chrome atau Firefox"
-      icon: "globe"
-      desc: "Digunakan untuk melihat hasil implementasi position pada halaman web."
 metadata:
     index: false
     thumb: "cover.jpg"

@@ -34,7 +34,7 @@ outcome:
       desc: "Mampu mengimplementasikan struktur dokumen HTML minimal yang berisi DOCTYPE, head, meta, title, dan body."
 require:
     - prop: ""
-      name: "Konseptual"
+      name: ""
       icon: ""
       desc: ""
 metadata:
