@@ -169,4 +169,3 @@ Peluang karir di bidang web development luas dan beragam; penguasaan best practi
 * Pressman, R. S., & Maxim, B. R. (2014). *Software Engineering: A Practitioner’s Approach*. McGraw-Hill.
 * Robbins, J. N. (2018). *Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics*. O’Reilly Media.
 * W3C. (2017). *HTML5: A vocabulary and associated APIs for HTML and XHTML*. World Wide Web Consortium.
-
