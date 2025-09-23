@@ -12,7 +12,7 @@ weight: 2
 lister: 2
 format:
     media: "article"
-    model: "concept-practice"
+    model: ""
     datum:
         data: ""
 outcome:
@@ -49,19 +49,6 @@ Selain itu, internet bukan hanya sekadar alat komunikasi, melainkan juga platfor
 
 Internet juga memiliki peran strategis dalam keamanan, pemerintahan, dan pertumbuhan ekonomi. Sistem perbankan, layanan kesehatan, hingga sistem transportasi modern kini sangat bergantung pada koneksi internet. Setiap transaksi yang terjadi di dunia maya melibatkan perpindahan data yang terstruktur dan aman. Seperti dinyatakan oleh Leiner et al. (2009), keberlanjutan internet didasarkan pada kolaborasi global yang menjaga kestabilan dan keandalannya. Maka, memahami cara kerja internet membantu kita mengerti mengapa teknologi ini tidak bisa digantikan dengan mudah. Hal ini juga membuat internet menjadi topik yang selalu relevan untuk dipelajari.
 
----
-
-Baik, saya akan lanjutkan artikel **“Bagaimana Internet Bekerja”** sesuai kerangka yang saya tawarkan:
-
-1. Pendahuluan
-2. Komponen Utama Internet
-3. Proses Pengiriman Data
-4. Peran Protokol
-5. Infrastruktur Fisik
-6. Keamanan Internet
-7. Kesimpulan
-
-
 
 ## Komponen Utama Internet
 
@@ -70,8 +57,6 @@ Internet terdiri dari sejumlah komponen utama yang saling melengkapi untuk memun
 Komponen lain yang penting dalam internet adalah penyedia layanan internet atau Internet Service Provider (ISP). ISP berperan sebagai pintu gerbang yang menghubungkan pengguna individu atau organisasi dengan jaringan global. Tanpa ISP, seseorang tidak dapat mengakses sumber daya yang tersedia di seluruh dunia. Menurut Lehr et al. (2006), ISP juga memiliki tanggung jawab untuk memastikan kualitas layanan dan menjaga kecepatan akses bagi para pelanggan. ISP memanfaatkan teknologi jaringan seperti DSL, fiber optik, dan nirkabel untuk memberikan koneksi. Peran mereka sangat vital dalam menjembatani pengguna dengan infrastruktur besar internet. Maka, ISP adalah bagian dari komponen yang tidak bisa diabaikan dalam arsitektur internet.
 
 Selain perangkat keras dan ISP, komponen penting lainnya adalah server dan pusat data. Server berfungsi sebagai penyedia layanan, seperti situs web, email, dan penyimpanan cloud. Data yang diakses pengguna biasanya tersimpan di pusat data yang terhubung secara global melalui jaringan internet. Menurut Barroso, Clidaras, & Hölzle (2013), pusat data modern dirancang untuk menangani miliaran permintaan setiap detiknya dengan tingkat keandalan tinggi. Tanpa server dan pusat data, internet tidak dapat memberikan konten atau layanan kepada pengguna. Ketersediaan server yang selalu aktif membuat layanan tetap bisa diakses kapan saja. Dengan demikian, server adalah inti yang menggerakkan seluruh pengalaman pengguna di internet.
-
-
 
 
 # Bagaimana Internet Bekerja
@@ -92,7 +77,7 @@ Internet juga menciptakan peluang dalam bidang pendidikan dan penelitian. Sumber
 
 Internet terdiri dari perangkat keras, perangkat lunak, dan aturan komunikasi yang saling terhubung. Perangkat keras meliputi komputer, server, router, kabel, dan satelit yang menjadi jalur transportasi data. Tanpa perangkat ini, internet tidak dapat berfungsi sebagai jaringan global. Menurut Comer (2019), perangkat keras hanyalah alat; internet bekerja karena ada aturan komunikasi yang universal. Protokol komunikasi memastikan bahwa data dikirim, diterima, dan dimengerti oleh semua perangkat. Setiap komponen bekerja dalam ekosistem yang saling bergantung. Oleh karena itu, internet bisa dipandang sebagai kombinasi sistem fisik dan aturan digital.
 
-Peran penting lainnya dimainkan oleh Internet Service Provider (ISP). ISP bertindak sebagai perantara yang menghubungkan pengguna individu maupun organisasi ke jaringan global. Menurut Lehr et al. (2006), ISP tidak hanya menyediakan akses, tetapi juga mengelola kualitas layanan agar tetap stabil. ISP menggunakan berbagai teknologi, seperti kabel serat optik, DSL, dan jaringan nirkabel. Dengan teknologi ini, koneksi bisa menjangkau berbagai wilayah dengan kecepatan berbeda. ISP juga mengatur lalu lintas data untuk memastikan efisiensi jaringan. Tanpa ISP, pengguna tidak dapat mengakses layanan internet yang luas.
+Peran penting lainnya dimainkan oleh Internet Service Provider (ISP). ISP bertindak sebagai perantara yang menghubungkan pengguna individu maupun organisasi ke jaringan global. Menurut Lehr et al. (2006), ISP tidak hanya menyediakan akses, tetapi juga mengelola kualitas layanan agar tetap stabil. Dalam prakteknya ISP menggunakan berbagai teknologi, seperti kabel serat optik, DSL, dan jaringan nirkabel. Karena perbedaan teknologi yang digunakan akan berdampak kepada koneksi perbedaan kecepatan di berbagai wilayah. ISP juga mengatur lalu lintas data untuk memastikan efisiensi jaringan. Tanpa ISP, pengguna tidak dapat mengakses layanan internet yang luas.
 
 Selain itu, server dan pusat data merupakan komponen inti dalam internet. Server berfungsi menyimpan dan menyediakan layanan digital, seperti email, situs web, dan penyimpanan cloud. Data yang diakses pengguna biasanya disimpan dalam pusat data berskala besar yang terhubung melalui internet. Barroso, Clidaras, dan Hölzle (2013) menekankan bahwa pusat data dirancang agar mampu melayani miliaran permintaan dengan keandalan tinggi. Tanpa server dan pusat data, internet tidak dapat menyediakan konten kepada pengguna. Keberadaan server yang aktif membuat layanan tetap tersedia setiap saat. Oleh karena itu, server dan pusat data dapat disebut sebagai jantung internet.
 
@@ -110,7 +95,7 @@ Ketika paket data tiba di tujuan, sistem penerima akan menyusun ulang paket-pake
 
 ## 4. Peran Protokol
 
-Protokol internet adalah seperangkat aturan yang memastikan perangkat bisa berkomunikasi dengan bahasa yang sama. Tanpa protokol, data yang dikirim akan sulit dipahami oleh perangkat tujuan. Menurut Comer (2019), protokol ibarat tata bahasa yang membuat komunikasi dapat dimengerti di seluruh dunia. Protokol utama yang digunakan adalah TCP/IP (Transmission Control Protocol/Internet Protocol). TCP mengatur keandalan, sedangkan IP mengatur alamat tujuan. Kombinasi ini adalah fondasi yang membuat internet dapat berjalan. Tanpa keduanya, komunikasi digital akan kacau.
+Protokol internet adalah seperangkat aturan yang memastikan perangkat bisa berkomunikasi dengan bahasa yang sama. Tanpa protokol, data yang dikirim akan sulit dipahami oleh perangkat tujuan. Menurut Comer (2019), protokol ibarat tata bahasa yang membuat komunikasi dapat dimengerti di seluruh dunia. Protokol utama yang digunakan adalah TCP/IP (Transmission Control Protocol/Internet Protocol). TCP mengatur keandalan, sedangkan IP mengatur alamat tujuan. Kombinasi ini adalah fondasi yang membuat internet dapat berjalan. 
 
 Selain TCP/IP, protokol lain juga memiliki peran penting. Protokol HTTP digunakan untuk pertukaran data di web, sedangkan FTP digunakan untuk transfer file. Menurut Kurose dan Ross (2017), keberadaan berbagai protokol memungkinkan internet mendukung beragam layanan. Email, misalnya, menggunakan protokol SMTP, IMAP, atau POP3. Dengan pembagian tugas ini, internet dapat melayani kebutuhan yang sangat luas. Protokol juga memudahkan pengembangan aplikasi baru di atas jaringan yang sudah ada. Inilah sebabnya internet bisa berkembang dengan cepat.
 
@@ -150,9 +135,6 @@ Gagasan utama yang dapat diambil adalah:
 * Keamanan internet melibatkan enkripsi dan autentikasi.
 * Internet adalah ekosistem global yang mendukung aspek sosial, ekonomi, dan pendidikan.
 
----
-
-Baik, saya akan melengkapi artikel **“Bagaimana Internet Bekerja”** dengan daftar **referensi ilmiah (format APA)** di bagian akhir.
 
 ---
 

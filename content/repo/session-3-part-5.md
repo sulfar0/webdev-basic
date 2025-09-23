@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T11:00:00+07:00"
 draft: false
-title: "Struktur Dasar HTML: Pondasi Penting untuk Membangun Halaman Web yang Valid dan Konsisten"
+title: "Struktur Dasar HTML"
 short: "elemen"
 thumb:
     image: "cover.jpg"
@@ -9,7 +9,7 @@ thumb:
     video: ""
 layout: ""
 weight: 3
-lister: 3
+lister: 5
 format:
     media: "article"
     model: ""

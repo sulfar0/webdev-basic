@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "pengantar"
+title: "Pengantar HTML"
 short: "pengantar"
 thumb:
     image: "cover.jpg"
@@ -28,8 +28,6 @@ metadata:
 description: "Memahami struktur dasar html dan konsep konsep yang terkait."
 ---
 
-
-# Pengantar HTML: Fondasi Struktur, Estetika, dan Interaktivitas Web
 
 
 ![interaktifitas dalam html](hero.png)

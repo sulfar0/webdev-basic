@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Sejarah HTML dan Evolusi Web: Dari CERN hingga Era HTML Living Standard"
+title: "Sejarah HTML"
 short: "sejarah"
 thumb:
     image: "cover.jpg"

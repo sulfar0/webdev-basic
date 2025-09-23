@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Tag Paragraf: Konsep, Jenis, dan Praktik Terbaik dalam HTML"
+title: "Element paragraf"
 short: "elemen"
 thumb:
     image: "cover.jpg"

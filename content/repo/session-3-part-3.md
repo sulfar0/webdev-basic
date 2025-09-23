@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Mengenal Element HTML: Fondasi Semantik untuk Web yang Terstruktur dan Aksesibel"
+title: "Mengenal Element pada HTML"
 short: "elemen"
 thumb:
     image: "cover.jpg"

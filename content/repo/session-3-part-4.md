@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "attribute"
+title: "Mengenal Attribute pada HTML"
 short: "attribute"
 thumb:
     image: "cover.jpg"
