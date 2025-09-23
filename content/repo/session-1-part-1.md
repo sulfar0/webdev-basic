@@ -15,6 +15,15 @@ format:
     model: ""
     datum:
         data: ""
+outcome:
+    - prop: "konseptual"
+      name: ""
+      icon: ""
+      desc: ""
+    - prop: "praktikal"
+      name: ""
+      icon: ""
+      desc: ""
 require:
     - prop: ""
       name: ""
