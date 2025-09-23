@@ -59,7 +59,7 @@ Tujuan modul ini adalah untuk membawa Anda dari pemahaman dasar ke praktik baik 
 
 ## 3. Kenapa Penting
 
-### ### Keharmonisan dengan Aksesibilitas
+### Keharmonisan dengan Aksesibilitas
 
 Aksesibilitas adalah kemampuan sebuah website agar bisa digunakan oleh berbagai kalangan pengguna, termasuk mereka yang memiliki ketidakupayaan seperti gangguan penglihatan atau masalah motorik. Atribut HTML seperti `alt` pada gambar, `lang` pada elemen `<html>`, atau `label` dan `for` pada formulir, secara langsung mendukung teknologi pembaca layar (screen readers) dalam menginterpretasikan konten. Dengan atribut yang tepat, pengguna juga lebih mudah memahami konteks ketika elemen visual tidak tampil sempurna.
 
@@ -67,7 +67,7 @@ Misalnya, `alt` membantu jika gambar gagal dimuat atau bagi pengguna tunanetra y
 
 Atribut aksesibilitas juga membantu SEO, karena mesin pencari semakin memperhatikan bagaimana konten bisa diakses oleh semua pengguna. Atribut yang jelas dan semantik membantu bot pencarian memahami konten dengan lebih baik sehingga potensi muncul lebih tinggi di hasil pencarian.
 
-### ### Pengaruh terhadap SEO dan Metadata
+### Pengaruh terhadap SEO dan Metadata
 
 Atribut HTML bukan sekadar hiasan: mereka menyampaikan metadata penting kepada mesin pencari. Contoh: atribut `meta name="description"` menjelaskan ringkasan konten halaman; `rel="canonical"` mencegah duplikat konten; `hreflang` menentukan versi bahasa. Penggunaan atribut yang tepat bisa meningkatkan relevansi dan visibilitas situs web.
 
@@ -75,13 +75,13 @@ Selain itu, link atribut seperti `title`, `alt`, dan atribut global lainnya memb
 
 Atribut juga dapat digunakan untuk kontrol bagaimana search engines mengenali elemen seperti link nofollow, meta robots, dan penanganan tautan antar domain. Kesalahan dalam menggunakan atribut-atribut metadata bisa menghambat visibilitas situs.
 
-### ### Fleksibilitas dan Interaktivitas
+### Fleksibilitas dan Interaktivitas
 
 Atribut memberi elemen HTML fleksibilitas tambahan—baik dari sisi tampilan maupun fungsi. Contohnya, atribut `class` dan `id` membantu CSS/JavaScript memilih elemen untuk styling dan manipulasi DOM. Atribut event seperti `onclick`, `onmouseover` memungkinkan interaksi tanpa harus selalu menulis skrip eksternal jika perlu.
 
 Contohnya, dengan `data-*` kita bisa menambahkan data custom untuk dipakai dalam JavaScript, tanpa harus menggunakan pola non-standar. Atribut boolean seperti `disabled`, `checked` mudah digunakan untuk kontrol status form. Semua ini menjadikan HTML lebih dari hanya markup statis; berubah menjadi fondasi interaktivitas.
 
-### ### Konsistensi, Maintainability, dan Standar Web
+### Konsistensi, Maintainability, dan Standar Web
 
 Saat attribute digunakan secara konsisten dan berdasarkan standar, proyek lebih mudah dipelihara dan diperluas. Kode yang konsisten memudahkan pengembang lain memahami dan mengedit. Dokumentasi resmi (seperti WHATWG HTML Standard, MDN) mengatur cara attribute global, event, boolean, dan spesifik elemen diharapkan bekerja. ([web.dev][1])
 
@@ -223,7 +223,7 @@ Implementasi yang baik memperhatikan bahwa event inline mungkin tidak ideal untu
 
 Berikut beberapa kesalahan umum dalam penggunaan attribute HTML, dengan contoh salah dan benar, serta penjelasan.
 
-### ### Mengabaikan Atribut `alt` pada Gambar
+### Mengabaikan Atribut `alt` pada Gambar
 
 Banyak pengembang lupa menulis `alt` pada `<img>`, atau menulis `alt` kosong tanpa mempertimbangkan konteks. Kesalahan ini merugikan pengguna pembaca layar dan SEO. Contoh SALAH:
 
@@ -239,7 +239,7 @@ Contoh BENAR:
 
 Penjelasan: Atribut `alt` diperlukan oleh WCAG untuk mendukung aksesibilitas. Ia membantu ketika gambar tidak muncul atau untuk pengguna tunanetra yang mengandalkan screen reader. Tanpa `alt`, konten menjadi ambigu atau hilang dalam konteks non-visual.
 
-### ### Duplikasi `id` atau `for` yang Tidak Tepat
+### Duplikasi `id` atau `for` yang Tidak Tepat
 
 Penggunaan `id` yang sama pada lebih dari satu elemen atau `for` pada label yang tidak cocok dengan `id` input bisa menyebabkan interaksi tidak bekerja (contoh klik label tidak memfokus input) dan gangguan pada aksesibilitas & scripting. Contoh SALAH:
 
@@ -263,7 +263,7 @@ Contoh BENAR:
 
 Penjelasan: `id` harus unik dalam satu dokumen HTML; `for` harus merujuk ke `id` yang ada. Atribut ini penting untuk aksesibilitas, form interaktif, scripting, dan validasi. Duplikasi bisa membuat behavior tidak terduga.
 
-### ### Penggunaan Inline Event atau Style Secara Berlebihan
+### Penggunaan Inline Event atau Style Secara Berlebihan
 
 Menempatkan JavaScript via atribut inline (`onclick`, `onmouseover`, dll.) atau CSS inline (`style="..."`) terlalu banyak membuat kode sulit dirawat. Contoh SALAH:
 
@@ -301,19 +301,19 @@ Penjelasan: Kode terpisah (JS dan CSS eksternal) membuat struktur lebih bersih, 
 
 Berikut beberapa best practice dalam penggunaan attribute HTML beserta penjelasan:
 
-### ### Gunakan Global Attributes Bila Sesuai
+### Gunakan Global Attributes Bila Sesuai
 
 Global attributes seperti `id`, `class`, `lang`, `title`, `tabindex` sebaiknya dipakai ketika elemen membutuhkan identifikasi, styling, fokus keyboard, atau metadata tambahan. Penggunaan yang tepat membuat markup lebih konsisten, mudah dimengerti, dan ramah aksesibilitas. Misalnya `lang` di elemen `<html>` memandu bahasa konten untuk screen reader dan search engine. `tabindex` memberikan kontrol aksesibilitas keyboard.
 
-### ### Hindari Inline Event dan Style Kecuali Perlu
+### Hindari Inline Event dan Style Kecuali Perlu
 
 Semakin besar proyek, semakin penting pemisahan antara struktur (HTML), presentasi (CSS), dan perilaku (JavaScript). Menempatkan event dan style inline bisa membuat kode sulit dipelihara, kurang aman (berpotensi XSS), dan sulit dioptimasi. Gunakan event listener di JavaScript eksternal dan styling lewat CSS eksternal atau internal sesuai kebutuhan.
 
-### ### Pastikan Atribut Aksesibilitas Lengkap
+### Pastikan Atribut Aksesibilitas Lengkap
 
 Gunakan atribut seperti `alt` pada gambar, `for` + `id` pada label input, `lang`, `aria-*` bila perlu, agar pengguna dengan kebutuhan khusus tetap bisa menggunakan situs Anda. Ini bukan hanya “tambahan” tetapi mulai menjadi standar dalam pengembangan web modern.
 
-### ### Validasi dan Gunakan Standar
+### Validasi dan Gunakan Standar
 
 Selalu periksa bahwa HTML Anda valid menurut standar (misalnya menggunakan validator W3C) dan ikuti dokumentasi resmi seperti WHATWG HTML Standard. Gunakan format atribut dengan benar: nama huruf kecil, nilai diapit petik, boolean attribute ditulis hanya dengan nama jika memenuhi. Hal ini membantu kompatibilitas dan mengurangi bug lintas browser. ([web.dev][1])
 

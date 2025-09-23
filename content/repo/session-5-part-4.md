@@ -2,7 +2,7 @@
 date: "2025-09-22T13:00:00+07:00"
 draft: false
 title: "Panduan Lengkap Tag <audio> HTML: Konsep, Implementasi, dan Best Practice"
-short: "elemen"
+short: "audio"
 thumb:
     image: "cover.jpg"
     anima: ""

@@ -2,7 +2,7 @@
 date: 2025-09-22T13:00:00+07:00
 draft: false
 title: "Memahami Tag Code Block HTML: Konsep, Jenis, Kesalahan, dan Best Practice"
-short: "elemen"
+short: "code block"
 thumb:
     image: "cover.jpg"
     anima: ""

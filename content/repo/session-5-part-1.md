@@ -2,7 +2,7 @@
 date: 2025-09-22T12:00:00+07:00
 draft: false
 title: "Panduan Lengkap Tag Gambar HTML: Konsep, Jenis, Implementasi, dan Best Practice"
-short: "elemen"
+short: "gambar"
 thumb:
     image: "cover.jpg"
     anima: ""

@@ -2,7 +2,7 @@
 date: 2025-09-22T16:00:00+07:00
 draft: false
 title: "Implementasi Semantik HTML untuk Blog, Landing Page, dan Website Komunitas"
-short: "elemen"
+short: "implementasi"
 thumb:
     image: "cover.jpg"
     anima: ""

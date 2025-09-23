@@ -2,7 +2,7 @@
 date: 2025-09-22T13:00:00+07:00
 draft: false
 title: "Panduan Lengkap Tag Video HTML: Konsep, Implementasi, dan Praktik Terbaik"
-short: "elemen"
+short: "video"
 thumb:
     image: "cover.jpg"
     anima: ""
