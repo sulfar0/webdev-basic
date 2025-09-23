@@ -134,7 +134,7 @@ Sesuai kerangka Anda, setiap jenis dibahas dalam **minimal 3 paragraf (7 kalimat
 
 ## 4. Jenis dan Contoh
 
-### 1. Jenis: `<!DOCTYPE html>`
+### 1. DOCTYPE
 
 Deklarasi `<!DOCTYPE html>` adalah baris pertama yang harus selalu ditulis pada dokumen HTML (W3C, 2017). Elemen ini bukanlah tag HTML biasa, melainkan instruksi bagi browser mengenai aturan rendering. Dengan deklarasi ini, browser diarahkan untuk menggunakan standar HTML5 yang saat ini berlaku. Tanpa adanya deklarasi ini, browser dapat masuk ke mode quirks, yaitu cara lama menafsirkan dokumen dengan standar HTML lama. Mode quirks bisa menyebabkan tampilan halaman tidak konsisten antar browser. Hal ini tentu merugikan, apalagi jika halaman ditujukan untuk keperluan bisnis atau publikasi. Oleh sebab itu, DOCTYPE menjadi fondasi utama yang tidak boleh diabaikan.
 
@@ -150,7 +150,7 @@ Jika kita melewatkan DOCTYPE, maka konsekuensinya bisa serius meski tidak langsu
 
 ---
 
-### 2. Jenis: `<head>` dan Elemen Penting di Dalamnya
+### 2. Head dan Elemen Penting di Dalamnya
 
 Bagian `<head>` berfungsi sebagai wadah metadata yang mendeskripsikan dokumen HTML, meskipun tidak ditampilkan langsung di layar (Deng et al., 2022). Elemen ini biasanya berisi informasi seperti judul halaman, encoding teks, hingga instruksi tambahan untuk mesin pencari. Misalnya, `<title>` digunakan untuk menampilkan judul di tab browser, sedangkan `<meta charset="UTF-8">` memastikan teks tampil dengan benar. Tanpa elemen-elemen ini, halaman bisa saja tetap terbuka, tetapi tidak optimal bagi pengguna maupun mesin pencari. Jadi, bagian `<head>` dapat diibaratkan sebagai otak dari sebuah halaman. Ia tidak terlihat, tetapi mengendalikan banyak hal penting.
 
@@ -169,7 +169,7 @@ Tanpa `<head>` yang benar, banyak masalah bisa muncul, baik teknis maupun strate
 
 ---
 
-### 3. Jenis: `<body>` sebagai Wadah Konten Utama
+### 3. Body sebagai Wadah Konten Utama
 
 Elemen `<body>` adalah bagian dari struktur HTML yang berisi semua konten yang akan dilihat pengguna di layar (Rao, 2018). Semua teks, gambar, tautan, tabel, atau elemen interaktif harus berada di dalam `<body>`. Tanpa bagian ini, halaman akan tampak kosong meskipun metadata sudah lengkap. Secara sederhana, `<body>` dapat diibaratkan sebagai tubuh manusia yang menampilkan semua aktivitas luar. Dengan adanya bagian ini, browser tahu apa yang harus ditampilkan kepada pengguna. Hal ini membuat `<body>` menjadi salah satu elemen paling vital dalam struktur HTML. Tanpa `<body>`, halaman web kehilangan maknanya.
 
@@ -193,7 +193,7 @@ Sesuai kerangka Anda: setiap jenis (`<!DOCTYPE html>`, `<head>`, `<body>`) dibah
 
 ## 5. Implementasi dari Setiap Contoh
 
-### 1. Implementasi `<!DOCTYPE html>`
+### 1. Implementasi DOCTYPE
 
 Deklarasi `<!DOCTYPE html>` harus selalu ditempatkan di baris paling atas sebuah file HTML sebelum elemen `<html>` (W3C, 2017). Implementasi ini memastikan browser menggunakan standar rendering modern, yaitu HTML5. Jika baris ini dilewatkan, browser dapat menggunakan mode quirks, yang menyebabkan halaman dirender dengan aturan lama. Mode quirks sering membuat tata letak berbeda antar browser, sehingga pengalaman pengguna menjadi tidak konsisten. Menuliskan `<!DOCTYPE html>` adalah cara paling sederhana untuk menghindari masalah ini. Oleh karena itu, baris ini bisa dianggap sebagai tiket masuk agar dokumen dikenali secara valid. Dengan langkah sederhana ini, halaman sudah memenuhi standar global.
 
@@ -217,7 +217,7 @@ Kode di atas menunjukkan bagaimana DOCTYPE ditempatkan sebagai baris pertama. Br
 
 ---
 
-### 2. Implementasi `<head>` dan Elemen Penting
+### 2. Implementasi Head
 
 Bagian `<head>` biasanya diisi dengan informasi metadata yang dibutuhkan browser maupun mesin pencari (Deng et al., 2022). Implementasi minimal biasanya mencakup `<meta charset="UTF-8">` dan `<title>`. `<meta charset="UTF-8">` penting agar teks dengan berbagai karakter dapat ditampilkan dengan benar. Sementara `<title>` menentukan judul halaman yang muncul pada tab browser. Tanpa dua elemen ini, halaman bisa kehilangan identitas dan mengalami masalah teks. Oleh karena itu, setiap file HTML sebaiknya selalu memiliki keduanya. Dengan langkah ini, halaman sudah siap digunakan secara fungsional maupun informatif.
 
@@ -234,7 +234,7 @@ Kode di atas memperlihatkan dua elemen dasar yang sangat penting. Jika halaman d
 
 ---
 
-### 3. Implementasi `<body>` sebagai Wadah Konten
+### 3. Implementasi Body sebagai Wadah Konten
 
 Bagian `<body>` adalah tempat menampilkan semua konten utama yang dapat dilihat oleh pengguna (Rao, 2018). Implementasi sederhana biasanya melibatkan elemen teks seperti `<h1>` untuk judul dan `<p>` untuk paragraf. Semua elemen visual harus berada di dalam `<body>`, karena di luar itu halaman akan dianggap tidak valid. Browser membaca bagian ini untuk menentukan apa yang muncul di layar. Tanpa `<body>`, meskipun metadata sudah lengkap, halaman tetap terlihat kosong. Oleh karena itu, menuliskan `<body>` dengan rapi adalah langkah penting dalam pembuatan dokumen HTML. Dengan demikian, konten halaman bisa dinikmati dengan baik oleh pengguna.
 
@@ -269,7 +269,7 @@ Kesalahan yang akan kita bahas:
 
 ## 6. Kesalahan
 
-### 1. Lupa Menuliskan `<!DOCTYPE html>`
+### 1. Lupa Menuliskan DOCTYPE 
 
 Salah satu kesalahan paling umum yang dilakukan pemula adalah tidak menuliskan `<!DOCTYPE html>` pada awal dokumen (W3C, 2017). Tanpa baris ini, browser tidak tahu standar mana yang harus digunakan untuk menampilkan halaman. Akibatnya, browser bisa masuk ke mode quirks yang menggunakan aturan lama. Mode quirks sering membuat tampilan halaman berbeda antar browser, meski kode sama. Hal ini tentu menyulitkan pengembang yang ingin konsistensi tampilan. Masalah seperti ini biasanya baru disadari ketika halaman dibuka di perangkat berbeda. Karena itu, menuliskan DOCTYPE bukan formalitas, melainkan kewajiban.
 
@@ -308,7 +308,7 @@ Narasi: Pada contoh salah, halaman mungkin tetap terbuka, tetapi browser bisa me
 
 ---
 
-### 2. `<head>` Tidak Lengkap
+### 2. Head Tidak Lengkap
 
 Kesalahan kedua adalah menuliskan `<head>` yang tidak lengkap atau bahkan dikosongkan (Deng et al., 2022). Banyak pemula hanya membuat `<head>` dengan `<title>` tanpa menambahkan `<meta charset="UTF-8">`. Akibatnya, teks yang ditulis bisa berubah menjadi karakter aneh jika menggunakan simbol atau huruf non-Latin. Masalah ini sering terjadi ketika halaman menggunakan aksara asing atau emoji. Selain itu, `<title>` yang kosong juga membuat halaman kehilangan identitas. Hal ini bisa merugikan ketika halaman ditampilkan di mesin pencari. Oleh sebab itu, `<head>` harus selalu diisi minimal dengan `<meta charset>` dan `<title>`.
 
@@ -345,7 +345,7 @@ Narasi: Pada contoh salah, judul halaman di tab browser hanya kosong, membuat pe
 
 ---
 
-### 3. Konten Ditulis di Luar `<body>`
+### 3. Konten Ditulis di Luar body
 
 Kesalahan berikutnya adalah menuliskan konten di luar elemen `<body>` (Rao, 2018). Hal ini sering terjadi ketika pemula lupa menutup tag dengan benar. Akibatnya, elemen seperti `<h1>` atau `<p>` ditempatkan di luar struktur yang semestinya. Meskipun beberapa browser masih bisa menampilkan konten, hal ini membuat dokumen tidak valid. Struktur semacam ini bisa menyebabkan error ketika diperiksa dengan validator HTML. Selain itu, risiko kompatibilitas juga meningkat. Karena itu, semua konten yang ingin ditampilkan harus selalu ditulis di dalam `<body>`.
 
@@ -404,7 +404,7 @@ Sesuai kerangka Anda:
 
 ## 7. Best Practice
 
-### 1. Selalu Tulis `<!DOCTYPE html>` di Baris Pertama
+### 1. Selalu Tulis DOCTYPE di Baris Pertama
 
 Menuliskan `<!DOCTYPE html>` di baris pertama adalah praktik terbaik yang wajib dilakukan (W3C, 2017). Dengan langkah ini, kita memastikan browser menggunakan standar modern HTML5. Hal ini mencegah browser kembali ke mode quirks yang bisa menimbulkan perbedaan tampilan antar perangkat. Praktik sederhana ini membantu menjaga konsistensi visual halaman di semua browser. Selain itu, penggunaan DOCTYPE juga mendukung validitas dokumen saat diuji dengan validator HTML. Validitas dokumen adalah indikator penting bagi profesionalitas sebuah halaman. Jadi, meskipun terlihat sepele, DOCTYPE adalah pondasi penting yang tidak boleh dilupakan.
 
@@ -414,7 +414,7 @@ Implementasi DOCTYPE yang benar sangat sederhana dan tidak membebani pengembang 
 
 ---
 
-### 2. Isi `<head>` dengan Metadata Minimal
+### 2. Isi head dengan Metadata Yang Lengkap
 
 Bagian `<head>` sering diabaikan oleh pemula, padahal fungsinya sangat penting (Deng et al., 2022). Metadata di dalam `<head>` memberi informasi bagi browser dan mesin pencari. Elemen minimal yang harus selalu ada adalah `<meta charset="UTF-8">` dan `<title>`. Dengan adanya meta charset, teks dari berbagai bahasa tampil dengan benar. Sedangkan `<title>` memberikan identitas halaman di tab browser. Hal ini juga membantu mesin pencari memahami isi halaman. Jadi, meski tidak terlihat langsung oleh pengguna, `<head>` sangat berpengaruh terhadap kualitas dokumen.
 
@@ -433,7 +433,7 @@ Dengan struktur ini, halaman sudah memenuhi standar minimal metadata. Hal ini me
 
 ---
 
-### 3. Tulis Semua Konten di Dalam `<body>`
+### 3. Tulis Semua Konten di Dalam body
 
 Konten utama halaman harus selalu ditulis di dalam elemen `<body>` (Rao, 2018). Praktik ini menjaga dokumen tetap valid dan mudah dibaca oleh browser. Menempatkan konten di luar `<body>` bisa menyebabkan error struktur. Walaupun beberapa browser tetap menampilkan konten, hasilnya tidak bisa dijamin konsisten. Jika dokumen diuji dengan validator HTML, kesalahan semacam ini pasti terdeteksi. Oleh karena itu, semua elemen seperti teks, gambar, dan tabel harus ada di dalam `<body>`. Dengan begitu, halaman menjadi lebih rapi dan terstruktur.
 
