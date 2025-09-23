@@ -42,8 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara komprehensif mengenai font family dalam desain web, mulai dari konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice. Disusun dengan gaya santai namun tetap akademis, artikel ini membantu pembaca memaham
-
+description: "Artikel ini membahas secara komprehensif mengenai font family dalam desain web, mulai dari konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice."
 ---
 
 # 1. Pendahuluan

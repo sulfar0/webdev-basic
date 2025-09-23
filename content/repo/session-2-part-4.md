@@ -8,8 +8,8 @@ thumb:
     anima: ""
     video: ""
 layout: "article"
-weight: 16
-lister: 9
+weight: 2
+lister: 4
 format:
     media: "article"
     model: ""
