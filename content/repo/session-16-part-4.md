@@ -45,8 +45,6 @@ metadata:
 description: "Mempelajari position absolute css untuk menempatkan elemen relatif terhadap kontainer."
 ---
 
-### 1. Pendahuluan
-
 *Position absolute* pada CSS adalah salah satu teknik yang memungkinkan pengembang web untuk menempatkan elemen secara presisi dalam sebuah halaman. Dengan menggunakan properti ini, elemen tidak lagi mengikuti alur normal dokumen, tetapi diposisikan berdasarkan elemen induk terdekat yang memiliki properti posisi selain *static*. Hal ini memberikan kontrol penuh dalam menciptakan desain yang lebih fleksibel dan interaktif. Potensi besar dari *position absolute* adalah kemampuannya membentuk antarmuka pengguna yang responsif dengan tata letak yang kompleks. Menurut penelitian, tata letak yang konsisten memengaruhi pengalaman pengguna secara positif (Garrett, 2011). Oleh karena itu, *position absolute* menjadi alat yang sangat penting dalam membangun desain modern.
 
 Selain memberikan kontrol terhadap penempatan elemen, *position absolute* juga mendukung pengembangan komponen antarmuka yang dapat diatur sesuai kebutuhan pengguna. Dengan memanfaatkan properti ini, desainer dapat menempatkan tombol, gambar, atau teks di posisi tertentu yang strategis. Dalam praktik desain, penempatan elemen yang presisi membantu meningkatkan keterbacaan dan aksesibilitas konten. Sebuah studi menyatakan bahwa pengalaman visual yang baik dapat meningkatkan keterlibatan pengguna terhadap halaman web (Norman, 2013). Hal ini menunjukkan bahwa *position absolute* tidak hanya bersifat teknis, tetapi juga berkontribusi pada nilai estetika. Kombinasi antara fungsi dan estetika inilah yang membuat *position absolute* semakin relevan.

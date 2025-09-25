@@ -45,8 +45,6 @@ metadata:
 description: "Mempelajari position fixed css untuk elemen tetap terlihat saat menggulir."
 ---
 
-### 1. Pendahuluan
-
 `Position: fixed` pada CSS merupakan salah satu properti penting yang memengaruhi tata letak elemen dalam halaman web. Properti ini membuat elemen selalu berada di posisi tertentu pada viewport, bahkan ketika pengguna menggulir halaman. Menurut Robbins (2018), kehadiran properti ini menjawab kebutuhan desain antarmuka yang dinamis dan interaktif. Penggunaan `fixed` sering dijumpai pada navigasi, tombol aksi cepat, atau notifikasi. Potensinya sangat besar untuk menjaga visibilitas elemen penting yang harus selalu tersedia. Hal ini membuat pengalaman pengguna lebih efisien dan konsisten.
 
 Penerapan `position: fixed` dapat mempermudah akses terhadap fitur penting dalam sebuah website. Sebagai contoh, tombol kembali ke atas atau "back to top" biasanya selalu terlihat dengan memanfaatkan properti ini. Menurut Nielsen (2020), aksesibilitas yang baik bergantung pada kemampuan pengguna menemukan fungsi utama tanpa hambatan. Dengan `fixed`, elemen kunci bisa ditampilkan di mana saja tanpa hilang saat pengguna menggulir konten panjang. Hal ini juga membantu mengurangi friksi dalam interaksi pengguna. Oleh karena itu, fixed tidak hanya berguna tetapi juga strategis dalam pengalaman digital.

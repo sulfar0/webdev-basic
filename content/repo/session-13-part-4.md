@@ -45,7 +45,6 @@ metadata:
 description: "Memahami properti font-style css untuk mengatur gaya kemiringan teks."
 ---
 
-# 1. Pendahuluan
 
 "Font style" merupakan salah satu elemen paling penting dalam desain web maupun media digital modern, karena memiliki pengaruh besar terhadap keterbacaan dan persepsi visual pengguna. Dalam dunia tipografi, font style tidak hanya sekadar gaya huruf, tetapi juga menjadi medium komunikasi visual yang dapat membentuk emosi dan pesan tertentu (Bringhurst, 2013). Misalnya, penggunaan font serif sering diasosiasikan dengan kesan formal dan tradisional, sedangkan sans-serif dianggap lebih modern dan minimalis (Lupton, 2010). Kehadiran font style yang tepat dapat membantu memperkuat identitas merek dalam sebuah website atau aplikasi. Dalam konteks ini, font style bukan hanya alat teknis, tetapi juga aspek strategis dalam user experience. Dengan demikian, membahas font style berarti membicarakan aspek estetika sekaligus fungsionalitas.
 

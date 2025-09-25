@@ -43,12 +43,11 @@ metadata:
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami tag table untuk menyajikan data terstruktur bagu laman web."
-
 ---
 
-# 1. Pendahuluan
 
-**Paragraf 1**
+
+
 Tag `<table>` dalam HTML merupakan salah satu elemen paling klasik namun tetap relevan hingga saat ini dalam penyajian data berbentuk tabular di web. Banyak orang beranggapan bahwa tag ini hanya digunakan di era lama ketika desain web masih sederhana, padahal kegunaannya masih sangat luas hingga kini (W3C, 2023). Dengan tabel, data numerik, daftar produk, hingga laporan akademis bisa ditampilkan secara lebih rapi dan mudah dipahami. Selain itu, struktur tabel juga membantu pembaca awam dalam memahami informasi yang terorganisir. Oleh karena itu, mempelajari tag `<table>` bukan hanya tentang sejarah, melainkan juga tentang potensi yang masih relevan. Hal ini membuat `<table>` tetap menjadi bagian penting dari HTML standar (MDN Web Docs, 2024).
 
 **Paragraf 2**

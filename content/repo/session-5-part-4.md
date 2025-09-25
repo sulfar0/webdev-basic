@@ -46,8 +46,6 @@ description: "Menggunakan tag audio untuk layanan suara pada website."
 
 ---
 
-## 1. Pendahuluan
-
 Tag `<audio>` dalam HTML adalah elemen yang dirancang untuk menambahkan file suara secara langsung ke halaman web. Elemen ini memungkinkan pengembang menampilkan media suara tanpa harus mengandalkan plugin eksternal atau perangkat lunak tambahan. Dengan dukungan luas dari semua browser modern, pengguna dapat memutar audio dengan kontrol sederhana seperti play, pause, dan volume. Kemampuan ini membuat pengalaman pengguna lebih interaktif dan dinamis dibandingkan hanya teks dan gambar. Audio juga dapat digunakan untuk kebutuhan edukasi, hiburan, maupun promosi dalam berbagai bidang. Dalam praktiknya, penggunaan audio dapat meningkatkan daya tarik situs web dan memperpanjang waktu kunjungan pengunjung. Menurut W3C (2023), tag `<audio>` merupakan bagian standar dari HTML5 yang bertujuan memperkaya konten multimedia di web.
 
 Meskipun sejarah awal audio di web sering dikaitkan dengan plugin seperti Flash, perkembangan HTML5 telah menggantikan kebutuhan tersebut. Flash dikenal berat dan kurang aman, sehingga `<audio>` menjadi alternatif yang lebih ringan dan standar. Evolusi ini menjadikan pengalaman mendengarkan audio lebih inklusif bagi pengguna di berbagai perangkat. Audio sekarang dapat diakses baik melalui komputer, tablet, maupun smartphone dengan stabil. Perubahan ini menandai era baru di mana akses konten multimedia tidak lagi bergantung pada teknologi tambahan. Kemajuan ini juga membuka peluang besar bagi pengembang konten kreatif. Menurut Lubbers dan Greco (2010), HTML5 merevolusi cara konten multimedia disajikan secara native di browser.

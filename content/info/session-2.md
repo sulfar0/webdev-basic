@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pengenalan teknologi web"
+title: "pengantar website"
 weight: 2
 parted:
     name: ""

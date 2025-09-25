@@ -46,9 +46,6 @@ description: "Menjelaskan struktur dasar HTML sebagai kerangka utama halaman web
 ---
 
 
-# Struktur Dasar HTML
-
-## 1. Pendahuluan
 
 HTML atau **HyperText Markup Language** adalah bahasa standar yang digunakan untuk membangun halaman web dan menjadi fondasi dari seluruh konten digital di internet (Berners-Lee et al., 2019). Dalam dunia pengembangan web, HTML berfungsi untuk menyusun elemen-elemen dasar seperti teks, gambar, tautan, dan struktur navigasi. Tanpa adanya HTML, halaman web tidak akan memiliki bentuk yang dapat dipahami baik oleh manusia maupun mesin. Keberadaannya menjadi pintu masuk bagi siapa saja yang ingin memahami teknologi web. Oleh karena itu, belajar struktur dasar HTML menjadi langkah pertama yang sangat penting sebelum melangkah lebih jauh ke CSS atau JavaScript. Dengan pemahaman awal ini, seseorang dapat membuat halaman sederhana yang dapat dibuka di browser manapun.
 

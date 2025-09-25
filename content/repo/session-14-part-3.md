@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti background css untuk mengatur latar belakang elemen halaman."
 ---
 
-### 1. Pendahuluan
 
 Latar belakang dalam desain web adalah salah satu elemen fundamental yang membentuk estetika dan pengalaman pengguna pada halaman. Warna dan gambar latar dapat memengaruhi keterbacaan, fokus, dan suasana visual secara keseluruhan (Meyer, 2017). Pemahaman tentang latar belakang memungkinkan pengembang mengatur elemen visual yang harmonis dan mendukung konten utama. CSS menyediakan property `background-color`, `background-image`, dan `background-position` untuk mengatur tampilan latar belakang dengan fleksibel. Potensi penggunaan latar belakang sangat luas, mulai dari memperkuat identitas brand hingga menciptakan nuansa tertentu pada halaman web. Pemilihan latar belakang yang tepat dapat meningkatkan engagement dan kenyamanan pengguna. Latar belakang yang efektif menjadi fondasi untuk halaman web yang profesional dan menarik.
 

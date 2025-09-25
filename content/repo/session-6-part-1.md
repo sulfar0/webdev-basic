@@ -46,9 +46,6 @@ description: "Mempelajari tag link untuk menghubungkan halaman dan sumber daya."
 ---
 
 
-
-# 1. Pendahuluan
-
 Tag `<link>` dalam HTML merupakan elemen penting yang digunakan untuk menghubungkan dokumen HTML dengan sumber daya eksternal. Tag ini biasanya ditempatkan di dalam bagian `<head>` dan berfungsi sebagai penghubung formal antara halaman dan file tambahan. Meskipun terlihat sederhana, fungsi `<link>` memiliki dampak besar terhadap struktur, aksesibilitas, dan identitas halaman web. Penggunaannya memungkinkan sebuah situs memiliki ikon, metadata, atau relasi dengan dokumen lain yang menunjang pemahaman pengguna. Dengan kata lain, `<link>` membantu membangun jembatan antara konten utama dan informasi tambahan yang bersifat penting. Tanpa adanya tag ini, sebuah halaman akan kehilangan banyak fleksibilitas dalam pengelolaan sumber daya eksternal. Menurut W3C (2021), `<link>` termasuk bagian fundamental dalam arsitektur HTML yang berperan menjaga konsistensi dokumen.
 
 Seiring dengan perkembangan web, `<link>` mengalami penyesuaian agar mampu memenuhi kebutuhan modern. Pada awalnya, penggunaannya sangat sederhana untuk menunjuk file tambahan, namun sekarang perannya meluas pada aspek metadata dan keterhubungan antar dokumen. Potensi ini menjadikan `<link>` lebih dari sekadar alat teknis, melainkan bagian dari ekosistem web yang saling terintegrasi. Dalam dunia pengembangan, elemen ini memudahkan pembuat situs untuk menambah identitas visual berupa favicon. Selain itu, `<link>` juga berperan dalam mendefinisikan hubungan antarhalaman, misalnya dalam navigasi atau sistem dokumentasi. Dengan demikian, kehadiran `<link>` tidak hanya historis, tetapi juga fungsional dan strategis. Sebagaimana dicatat oleh Berners-Lee (2010), keberlanjutan standar web bergantung pada elemen yang mampu menjaga keterhubungan antar dokumen.

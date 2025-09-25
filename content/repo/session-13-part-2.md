@@ -43,10 +43,8 @@ metadata:
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami properti font-size css untuk mengatur ukuran teks halaman web."
-
 ---
 
-## 1. Pendahuluan
 
 Ukuran huruf atau *font size* adalah salah satu elemen penting dalam desain digital yang sering kali dianggap sepele oleh banyak orang. Padahal, pemilihan ukuran huruf yang tepat mampu menentukan seberapa mudah suatu teks dapat dibaca oleh audiens yang beragam. Dalam konteks digital, *font size* tidak hanya sekadar estetika, melainkan juga berkaitan dengan aksesibilitas pengguna. Misalnya, teks yang terlalu kecil dapat menyulitkan pengguna dengan keterbatasan penglihatan. Sebaliknya, teks yang terlalu besar bisa mengganggu tata letak keseluruhan halaman. Oleh karena itu, *font size* harus dipahami sebagai keputusan desain yang berdampak pada kenyamanan interaksi. Beberapa penelitian menyatakan bahwa ukuran huruf berpengaruh signifikan terhadap kecepatan membaca dan tingkat pemahaman (Bernard et al., 2003).
 

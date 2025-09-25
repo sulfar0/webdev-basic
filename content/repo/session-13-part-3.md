@@ -43,10 +43,8 @@ metadata:
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mempelajari properti font-weight css untuk mengatur ketebalan teks halaman."
-
 ---
 
-# 1. Pendahuluan
 
 “Font weight” adalah istilah yang digunakan untuk menggambarkan tingkat ketebalan huruf dalam suatu font yang ditampilkan pada layar atau media cetak. Dalam praktik desain, font weight sering ditentukan oleh angka atau kata kunci seperti normal, bold, atau light. Penentuan ketebalan huruf ini sangat memengaruhi keterbacaan teks yang disajikan dalam berbagai media. Misalnya, teks dengan font weight tipis bisa terlihat elegan, tetapi sulit dibaca jika ukuran huruf kecil. Sebaliknya, teks dengan font weight tebal memberikan penekanan, namun bisa terasa berat jika digunakan berlebihan. Dalam tipografi digital, pemilihan font weight menjadi bagian penting dari strategi komunikasi visual. Oleh karena itu, pemahaman tentang font weight menjadi kompetensi dasar bagi desainer modern (Bringhurst, 2012).
 

@@ -45,7 +45,6 @@ metadata:
 description: "Memahami konsep box-sizing css untuk mengatur perhitungan dimensi elemen."
 ---
 
-# 1. Pendahuluan
 
 **Box sizing** adalah konsep penting dalam CSS yang mengatur bagaimana dimensi sebuah elemen dihitung, baik width maupun height (MDN Web Docs, 2024). Konsep ini menentukan apakah padding dan border termasuk dalam perhitungan ukuran total elemen atau dihitung terpisah. Pemahaman box sizing membantu pengembang mengatur layout dengan presisi dan mencegah masalah overflow atau layout yang tidak konsisten. Konsep ini semakin penting ketika membangun halaman web responsif dan kompleks, karena elemen harus menyesuaikan dengan ukuran layar yang berbeda.
 

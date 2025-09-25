@@ -46,8 +46,6 @@ description: "Memahami selector general sibling css untuk menargetkan elemen gro
 ---
 
 
-## 1. Pendahuluan
-
 General sibling pada CSS merupakan selector yang secara khusus digunakan untuk menargetkan elemen saudara sejajar dalam struktur HTML, dengan syarat elemen tersebut berada setelah elemen yang dijadikan acuan. Selector ini ditulis menggunakan tanda tilde `~`, dan sering kali dianggap sepele oleh banyak pengembang karena jarang dibahas secara mendalam. Namun, dalam kenyataannya, selector ini memiliki kekuatan dalam menciptakan keterhubungan antar elemen tanpa memerlukan intervensi JavaScript. Dengan pemahaman yang tepat, general sibling mampu menyederhanakan kode serta memperkaya variasi desain (Meyer & Weyl, 2018).
 
 Keunikan general sibling terletak pada sifatnya yang fleksibel namun tetap spesifik dalam konteks hubungan antar elemen. Tidak seperti adjacent sibling yang hanya berlaku pada elemen setelahnya secara langsung, general sibling mencakup semua elemen setelah acuan dalam level yang sama. Hal ini memberikan ruang kreasi yang lebih luas bagi desainer untuk mengatur hierarki visual pada halaman web. Dengan kata lain, selector ini memungkinkan adanya “efek berantai” yang elegan dan terkontrol dalam styling (Keith, 2010).

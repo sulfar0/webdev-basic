@@ -45,7 +45,6 @@ metadata:
 description: "Memahami tag iframe untuk menampilkan konten eksternal dalam halaman."
 ---
 
-# 1. Pendahuluan
 
 Tag `<iframe>` dalam HTML adalah salah satu elemen yang digunakan untuk menampilkan sebuah halaman web di dalam halaman web lain, sehingga memberikan fleksibilitas bagi pengembang untuk mengintegrasikan konten eksternal secara langsung (Freeman, Robson, & Bates, 2021). Konsep ini memudahkan pengguna dalam mengakses informasi tanpa harus berpindah halaman, yang pada akhirnya dapat meningkatkan pengalaman pengguna secara keseluruhan (W3C, 2022). Elemen ini sering digunakan untuk menanamkan video, peta, atau bahkan aplikasi pihak ketiga yang berjalan secara mandiri di dalam halaman utama. Dengan cara ini, `<iframe>` menjadi salah satu fitur yang mempermudah komunikasi antar aplikasi web. Namun, penggunaan yang tidak hati-hati juga bisa menimbulkan tantangan, terutama terkait keamanan dan performa (Mozila Developer Network \[MDN], 2022). Oleh karena itu, memahami potensi dan keterbatasannya menjadi hal yang penting bagi setiap praktisi web.
 

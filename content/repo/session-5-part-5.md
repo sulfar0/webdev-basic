@@ -46,7 +46,6 @@ description: "Menampilkan file serta cara implementasi, kompatibilitas, dan prak
 
 ---
 
-## 1. Pendahuluan
 
 Tag `<input type="file">` dalam HTML adalah salah satu elemen penting yang memungkinkan pengguna untuk mengunggah file dari perangkat mereka ke server. Dengan adanya tag ini, interaksi antara pengguna dan aplikasi web menjadi lebih dinamis karena pengguna tidak hanya bisa mengisi teks, tetapi juga mengirimkan dokumen, gambar, atau data lain dalam bentuk file. Potensi penggunaan tag ini sangat luas, mulai dari formulir lamaran kerja online, sistem pengumpulan tugas mahasiswa, hingga layanan berbagi gambar. Dalam praktiknya, keberadaan tag ini sangat membantu pengembang web untuk membangun aplikasi yang fungsional dan responsif. Menurut penelitian oleh Murugesan (2019), fitur interaktif seperti unggah file meningkatkan keterlibatan pengguna dalam platform digital. Oleh karena itu, memahami cara kerja tag file HTML menjadi langkah awal yang penting bagi siapa saja yang ingin serius belajar web development.
 

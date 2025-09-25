@@ -45,7 +45,6 @@ metadata:
 description: "Memahami properti border-radius css untuk membuat sudut elemen lebih membulat."
 ---
 
-# 1. Pendahuluan
 
 Rounded CSS adalah properti yang digunakan untuk membulatkan sudut elemen pada halaman web (Duckett, 2011). Dengan rounded, elemen seperti tombol, kartu, atau gambar terlihat lebih lembut dan estetis. Properti ini membantu menciptakan tampilan modern yang ramah bagi pengguna.
 

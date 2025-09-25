@@ -44,7 +44,7 @@ metadata:
     author: ["null"]
 description: "Memahami properti teks css untuk mengatur tampilan dan estetika tulisan."
 ---
-### 1. Pendahuluan
+
 
 Text color CSS adalah salah satu aspek fundamental dalam desain web yang berfokus pada tampilan teks di halaman. Warna teks tidak hanya menentukan estetika, tetapi juga memengaruhi keterbacaan dan pengalaman pengguna (Meyer, 2017). Dengan pemahaman text color, pengembang dapat menyoroti informasi penting atau menciptakan hierarki visual yang jelas. CSS menyediakan berbagai metode untuk mengatur warna teks, mulai dari nama warna, kode heksadesimal, hingga RGB dan HSL. Potensi penggunaan text color sangat luas, termasuk untuk branding, interaksi pengguna, dan estetika halaman. Pemilihan warna yang tepat juga dapat meningkatkan keterlibatan pengunjung. Pemahaman dasar tentang text color menjadi fondasi untuk praktik desain lebih lanjut.
 

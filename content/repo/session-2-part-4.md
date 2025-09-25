@@ -46,8 +46,6 @@ metadata:
 description: "Menjelaskan peran webserver sebagai fondasi utama akses digital modern"
 ---
 
-## 1. Pendahuluan
-
 
 Webserver merupakan salah satu komponen fundamental dalam ekosistem internet modern. Hampir semua layanan berbasis web, mulai dari situs informasi sederhana, platform e-commerce yang kompleks, hingga aplikasi media sosial yang melibatkan jutaan pengguna, sangat bergantung pada keberadaan webserver sebagai penghubung utama antara pengguna dan konten digital yang mereka akses. Menurut Fielding dan Reschke (2014), webserver berfungsi sebagai perantara yang memastikan permintaan dari client, biasanya melalui browser, dapat diterima dan direspon dengan tepat oleh server. Tanpa keberadaan webserver yang andal, interaksi antara client dan server tidak dapat berjalan secara terstruktur maupun efisien, sehingga seluruh ekosistem layanan online yang kita nikmati sehari-hari akan terganggu atau bahkan tidak dapat berfungsi sama sekali.
 

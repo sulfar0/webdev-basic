@@ -46,7 +46,6 @@ description: "Memahami prinsip dasar css untuk mengatur desain visual halaman we
 ---
 
 
-# 1. Pendahuluan
 
 CSS atau Cascading Style Sheets adalah teknologi inti dalam pengembangan web yang berfungsi untuk mengatur tampilan elemen HTML. Dengan CSS, pengembang dapat memisahkan konten dari desain sehingga halaman web menjadi lebih mudah diatur dan konsisten (Duckett, 2011). Potensi CSS sangat luas, mulai dari menentukan warna, ukuran font, spasi, hingga layout yang kompleks. Pemahaman konsep CSS memungkinkan pengembang menciptakan tampilan profesional tanpa harus menulis kode HTML yang berulang. CSS juga mendukung responsivitas, sehingga halaman web dapat tampil optimal di berbagai perangkat (MDN Web Docs, 2024). Dengan menguasai konsep CSS, desainer web dapat lebih kreatif dalam menyampaikan informasi visual. Hal ini membuat CSS bukan sekadar dekorasi, tetapi juga bagian dari komunikasi informasi yang efektif.
 

@@ -45,7 +45,6 @@ metadata:
 description: "Memahami properti border css untuk membuat dan mengatur garis elemen."
 ---
 
-# 1. Pendahuluan
 
 Garis adalah salah satu elemen visual yang sering digunakan dalam halaman web untuk membagi konten atau memberikan aksen pada desain (Duckett, 2011). Elemen garis membantu pengguna membedakan section atau blok konten, sehingga navigasi lebih mudah dipahami. Penggunaan garis yang tepat meningkatkan keterbacaan dan estetika halaman secara keseluruhan.
 

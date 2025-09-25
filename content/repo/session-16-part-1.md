@@ -46,8 +46,6 @@ description: "Memahami properti position css untuk mengatur penempatan elemen da
 ---
 
 
-## 1. Pendahuluan
-
 Konsep *position* pada CSS merupakan salah satu fondasi penting dalam pengembangan antarmuka web modern. Dengan menggunakan properti ini, seorang pengembang dapat mengatur tata letak elemen secara presisi pada halaman web. Kemampuan ini memberikan fleksibilitas tinggi dalam menentukan apakah suatu elemen berada pada aliran normal dokumen atau ditempatkan secara khusus sesuai kebutuhan desain. Menurut Meyer dan Weyl (2018), penguasaan *position* membantu menghasilkan tata letak yang responsif dan dinamis. Hal ini menjadikan properti ini sangat relevan, terutama ketika web harus beradaptasi dengan berbagai ukuran layar.
 
 Selain itu, *position* memiliki potensi besar untuk menciptakan pengalaman pengguna yang lebih baik. Dengan penempatan elemen yang tepat, navigasi menjadi lebih mudah dipahami oleh pengunjung. Sebagai contoh, menu navigasi dapat dibuat selalu terlihat menggunakan *position: fixed*, sehingga pengguna tidak perlu menggulir kembali ke atas. Marcotte (2011) menyebutkan bahwa pengalaman pengguna adalah faktor utama yang menentukan keberhasilan suatu situs web. Oleh karena itu, pemahaman mendalam mengenai *position* sangat mendukung tercapainya tujuan desain interaktif.

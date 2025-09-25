@@ -45,8 +45,6 @@ metadata:
 description: "Mempelajari properti font-family css untuk menentukan jenis huruf pada teks."
 ---
 
-# 1. Pendahuluan
-
 "Font family" merupakan elemen penting dalam desain digital yang memengaruhi cara orang memahami sebuah teks di layar. Pemilihan font yang tepat bukan hanya soal estetika, tetapi juga soal keterbacaan yang berdampak pada pengalaman pengguna. Studi menunjukkan bahwa keterbacaan font berhubungan langsung dengan tingkat retensi informasi pada pembaca (Shaikh, Chaparro, & Fox, 2006). Artinya, desain teks yang baik bisa membuat orang lebih nyaman dan fokus dalam membaca konten. Di era digital, di mana orang mengonsumsi teks dari berbagai perangkat, konsistensi tampilan menjadi semakin penting. Dengan font family, desainer dapat mengontrol gaya teks yang konsisten di seluruh platform. Oleh karena itu, memahami konsep ini adalah langkah awal yang krusial dalam desain web maupun aplikasi.
 
 Sering kali orang menganggap font hanyalah soal gaya atau tren visual semata. Padahal, font family juga berperan dalam membangun identitas merek yang kuat. Menurut penelitian tipografi, pemilihan font dapat memengaruhi persepsi emosional pembaca terhadap sebuah brand (Poffenberger & Barrows, 1924). Misalnya, font serif sering dianggap lebih formal dan profesional, sedangkan sans-serif memberi kesan modern dan minimalis. Dengan pemahaman ini, desainer bisa menciptakan kesan tertentu hanya dengan memilih font family yang sesuai. Selain itu, pilihan font juga memengaruhi aksesibilitas konten bagi orang dengan keterbatasan visual. Jadi, peran font family lebih luas daripada sekadar estetika.

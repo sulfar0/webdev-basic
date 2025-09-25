@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari tag script untuk menambahkan interaktivitas dan fungsionalitas web."
 ---
 
-### 1. Pendahuluan
 
 Tag `<script>` dalam HTML merupakan elemen penting yang memungkinkan integrasi kode pemrograman ke dalam halaman web. Tag ini memberikan kemampuan untuk menambahkan logika dinamis pada konten statis HTML, sehingga pengalaman pengguna menjadi lebih interaktif (Robson, 2020). Meskipun terlihat sederhana, penggunaan tag `<script>` yang tepat dapat memengaruhi performa dan keamanan situs web. Banyak pengembang awal mengabaikan struktur penempatan tag ini, padahal tata letak yang benar berdampak pada kecepatan loading halaman (Smith & Jones, 2019). Di era modern, integrasi script menjadi standar dalam membangun aplikasi web interaktif dan responsif. Dengan memahami tag ini secara mendalam, pengembang dapat mengoptimalkan interaksi pengguna dengan lebih efektif. Artikel ini akan membahas konsep, jenis, implementasi, kesalahan umum, hingga praktik terbaik penggunaan tag `<script>`.
 

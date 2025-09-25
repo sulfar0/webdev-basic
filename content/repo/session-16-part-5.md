@@ -45,9 +45,6 @@ metadata:
 description: "Memahami position sticky css untuk elemen yang menempel saat digulir halaman."
 ---
 
-
-### 1. Pendahuluan
-
 *Position sticky* pada CSS adalah salah satu fitur tata letak yang relatif baru dibandingkan dengan properti posisi lainnya seperti *absolute* atau *relative*. Properti ini dirancang untuk menggabungkan perilaku *relative* dan *fixed*, sehingga elemen dapat menempel sementara pada posisi tertentu ketika pengguna menggulir halaman. Menurut Robbins (2018), fitur ini hadir untuk menjawab kebutuhan desain web modern yang semakin menuntut navigasi dan interaksi yang lebih intuitif. Dengan kemampuan menempel secara dinamis, *position sticky* memungkinkan desainer menciptakan pengalaman pengguna yang lebih interaktif. Hal ini menjadikannya elemen penting dalam desain antarmuka yang adaptif.
 
 Selain itu, *position sticky* memiliki potensi besar dalam mempermudah navigasi pengguna di dalam halaman yang panjang. Elemen-elemen seperti judul tabel, menu navigasi, atau label kategori dapat tetap terlihat meskipun pengguna menggulir ke bawah. Menurut Marcotte (2011), desain responsif membutuhkan elemen-elemen yang memandu perhatian pengguna tanpa mengganggu alur membaca. Sticky positioning sangat membantu dalam konteks ini karena tetap menjaga elemen relevan berada dalam pandangan pengguna. Dengan demikian, fitur ini memberikan kontribusi besar dalam membangun keterlibatan pengguna.

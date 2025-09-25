@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari aspek konseptual css untuk memahami prinsip desain dan styling."
 ---
 
-### 1. Pendahuluan
 
 Konseptual warna pada CSS adalah aspek penting dalam mendesain tampilan halaman web. Warna tidak hanya menentukan estetika, tetapi juga memengaruhi keterbacaan dan pengalaman pengguna (Meyer, 2017). Dengan pemahaman konsep warna, pengembang dapat menciptakan halaman yang harmonis dan profesional. Potensi penggunaan warna sangat luas, termasuk untuk branding, tema visual, dan interaksi pengguna. Warna dapat membimbing fokus pengguna pada elemen penting atau menekankan hierarki konten. CSS menyediakan berbagai metode untuk mengatur warna, seperti nama warna, kode heksadesimal, RGB, dan HSL. Pemahaman dasar warna menjadi fondasi untuk praktik desain yang lebih kompleks.
 

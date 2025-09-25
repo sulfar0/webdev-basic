@@ -45,7 +45,6 @@ metadata:
 description: "Memahami properti margin css untuk mengatur jarak luar antar elemen."
 ---
 
-# 1. Pendahuluan
 
 Margin adalah ruang di luar elemen yang memisahkan elemen tersebut dari elemen lain di sekitarnya. Properti ini sangat penting dalam CSS karena membantu menciptakan layout yang rapi dan proporsional (Duckett, 2011). Dengan margin, developer dapat mengontrol jarak antar elemen tanpa menambah elemen tambahan atau menggunakan padding internal.
 

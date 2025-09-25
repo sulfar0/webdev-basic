@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti box dimensions css untuk mengatur ukuran elemen halaman."
 ---
 
-# 1. Pendahuluan
 
 Box dimension adalah konsep fundamental dalam CSS yang mengatur bagaimana ukuran elemen ditentukan (MDN Web Docs, 2024). Setiap elemen HTML dianggap sebagai box, yang memiliki properti width, height, padding, border, dan margin. Memahami box dimension membantu pengembang mengontrol layout halaman dengan presisi. Konsep ini penting untuk membuat halaman web responsif dan modular. Banyak masalah layout muncul karena kurang memahami bagaimana setiap elemen dihitung dimensinya. Dengan pengetahuan box dimension, pengembang bisa menghindari overflow, tumpang tindih, dan layout pecah. Konsep ini menjadi fondasi sebelum menerapkan styling lanjutan atau framework CSS.
 

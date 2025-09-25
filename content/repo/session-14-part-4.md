@@ -44,7 +44,8 @@ metadata:
     author: ["null"]
 description: "Memahami color guideline css untuk konsistensi dan harmoni tampilan desain web."
 ---
-### 1. Pendahuluan
+
+
 
 Memahami panduan warna atau color guideline adalah langkah penting dalam desain visual dan pengembangan web. Panduan warna memberikan aturan tentang penggunaan warna agar desain konsisten, harmonis, dan mudah dikenali (Lidwell, Holden, & Butler, 2010). Dengan panduan warna yang tepat, sebuah brand dapat membangun identitas visual yang kuat, sehingga pengguna lebih mudah mengingat dan mengenali produk. Panduan ini tidak hanya mencakup pemilihan warna utama, tetapi juga warna sekunder, aksen, dan nuansa untuk elemen interaktif. Selain itu, panduan warna mendukung aksesibilitas, memastikan kombinasi warna memiliki kontras yang memadai agar teks dan elemen visual tetap terbaca. Dalam konteks web, panduan warna membantu pengembang menerapkan CSS yang konsisten pada seluruh halaman. Potensi panduan warna juga mencakup pengaturan mood dan emosional pengguna melalui pilihan warna yang tepat.
 

@@ -45,7 +45,6 @@ metadata:
 description: "Memahami elemen footer untuk menutup dan melengkapi informasi halaman."
 ---
 
-# 1. Pendahuluan
 
 Elemen `<footer>` dalam HTML adalah salah satu komponen semantik yang sering digunakan untuk memberikan informasi tambahan pada bagian bawah halaman web. Keberadaannya bukan sekadar hiasan, melainkan memiliki fungsi struktural dalam memberikan kejelasan bagi pengguna dan mesin pencari. Penggunaan `<footer>` memungkinkan pengembang menyajikan informasi penting seperti hak cipta, navigasi tambahan, atau kontak. Hal ini membuat website terasa lebih profesional sekaligus ramah bagi pengguna yang mencari informasi akhir. Sejak diperkenalkan dalam HTML5, `<footer>` langsung menjadi standar baru untuk pembuatan halaman web modern. Standarisasi ini membantu menjaga konsistensi dalam desain antar situs yang berbeda. Dengan demikian, `<footer>` tidak hanya sekadar ruang kosong di bagian bawah, melainkan bagian vital dari pengalaman pengguna (W3C, 2017).
 

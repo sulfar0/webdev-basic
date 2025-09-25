@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti box-shadow css untuk menambahkan efek bayangan pada elemen."
 ---
 
-# 1. Pendahuluan
 
 Shadow CSS adalah efek bayangan yang diterapkan pada elemen HTML untuk memberikan kedalaman dan dimensi visual (Duckett, 2011). Efek ini membantu elemen terlihat lebih nyata dan menonjol di halaman web. Dengan bayangan, developer dapat memisahkan elemen dari latar belakang sehingga tampilan lebih menarik.
 

@@ -46,9 +46,6 @@ description: "Mempelajari Open Graph untuk optimalkan pratinjau konten halaman p
 ---
 
 
-
-### Pendahuluan
-
 OpenGraph adalah protokol metadata yang diperkenalkan oleh Facebook untuk meningkatkan tampilan konten saat dibagikan di media sosial (Facebook Developers, 2022). Metadata ini memungkinkan sebuah halaman web mengontrol judul, deskripsi, gambar, dan jenis konten yang muncul saat link dibagikan. Penerapan OpenGraph bukan hanya untuk Facebook, tetapi juga berpengaruh pada platform sosial lain seperti LinkedIn dan Twitter. Dengan OpenGraph, pengembang web dapat memastikan tampilan link lebih menarik dan konsisten dengan branding situs. Konten yang ditandai dengan OpenGraph meningkatkan interaksi pengguna, seperti klik dan engagement, karena snippet lebih informatif dan visual. Metadata ini menjadi elemen penting dalam strategi digital marketing modern. Selain itu, OpenGraph juga membantu mesin pencari dan crawler memahami konteks halaman secara lebih akurat.
 
 Selain fungsi visual, OpenGraph memiliki potensi meningkatkan SEO tidak langsung karena snippet yang lebih menarik meningkatkan klik dan interaksi (Manning, Raghavan, & Schütze, 2008). Mesin pencari memperhatikan engagement sebagai salah satu indikator kualitas halaman. Oleh karena itu, metadata OpenGraph berkontribusi pada strategi optimisasi halaman web. Penggunaan OpenGraph yang tepat membantu membangun identitas digital yang profesional dan konsisten. Implementasi yang salah dapat mengakibatkan tampilan link di media sosial menjadi tidak menarik. Metadata ini bersifat fleksibel dan dapat disesuaikan dengan berbagai jenis halaman, mulai dari artikel, produk, hingga video. Penerapan standar OpenGraph yang konsisten mendukung keberhasilan kampanye online secara menyeluruh.

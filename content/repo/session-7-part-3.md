@@ -46,8 +46,6 @@ description: "Memahami teknik spanning cell untuk menggabungkan sel secara fleks
 ---
 
 
-# 1. Pendahuluan
-
 Spanning cell HTML adalah teknik dalam pemrograman web yang digunakan untuk menggabungkan beberapa sel tabel menjadi satu kesatuan yang lebih besar. Konsep ini memudahkan desainer web untuk menyajikan data dalam bentuk tabel yang lebih fleksibel dan mudah dipahami pengguna. Dalam praktiknya, spanning cell diimplementasikan menggunakan atribut `rowspan` dan `colspan` pada elemen `<td>` atau `<th>`. Atribut ini memungkinkan data yang memiliki keterkaitan disajikan dalam struktur tabel yang lebih ringkas. Dengan demikian, spanning cell dapat meningkatkan keterbacaan data secara signifikan. Menurut Nielsen (1994), penyajian data yang baik berkontribusi pada pengalaman pengguna yang lebih baik. Hal ini menjadikan spanning cell tidak hanya relevan secara teknis, tetapi juga penting secara praktis.
 
 Penerapan spanning cell HTML sering terlihat dalam pembuatan laporan, jadwal, maupun tabel data akademik. Misalnya, pada tabel jadwal kuliah, satu mata kuliah yang berlangsung selama dua jam berturut-turut dapat digambarkan dengan `rowspan` sehingga tidak terjadi pengulangan baris yang membingungkan. Hal ini menunjukkan bahwa spanning cell mendukung efisiensi penyajian data. Sebuah penelitian tentang user interface menegaskan bahwa penyajian data yang ringkas membantu mengurangi beban kognitif pembaca (Norman, 2013). Dengan spanning cell, desainer dapat lebih kreatif dalam mengatur informasi. Potensi ini menjadi alasan mengapa topik ini penting dipelajari oleh pemula maupun praktisi web. Tanpa memahami spanning cell, tabel akan cenderung kaku dan sulit dikembangkan.

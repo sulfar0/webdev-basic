@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari selector adjacent sibling css untuk menargetkan elemen dalam sebuah group."
 ---
 
-### Pendahuluan
 
 Adjacent sibling selector pada CSS adalah teknik untuk memilih elemen yang muncul tepat setelah elemen tertentu dalam hierarki HTML (Meyer, 2017). Selector ini menggunakan simbol `+` untuk menandai hubungan antar elemen yang berdekatan. Dengan memahami selector ini, desainer web dapat memberikan gaya spesifik hanya pada elemen yang berada tepat setelah elemen tertentu. Potensi penggunaannya cukup luas, termasuk mengatur margin, warna, atau tampilan teks pada elemen berikutnya. Selector ini berbeda dengan general sibling selector yang memilih semua elemen saudara setelah elemen acuan. Penerapan yang tepat membantu meminimalkan penggunaan class tambahan. Dengan demikian, CSS menjadi lebih efisien dan terstruktur.
 

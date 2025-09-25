@@ -44,7 +44,8 @@ metadata:
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Mempelajari penggunaan css untuk mempercantik dan menata tampilan halaman."
 ---
-### 1. Pendahuluan
+
+
 
 Penggunaan CSS adalah kunci untuk menata tampilan dan estetika halaman web secara efektif. CSS memungkinkan pengembang mengubah warna, ukuran, layout, dan font elemen HTML tanpa merubah struktur konten (Meyer, 2017). Dengan CSS, halaman web menjadi lebih menarik, mudah dibaca, dan profesional. Potensi penggunaan CSS sangat luas, termasuk pembuatan desain responsif untuk berbagai perangkat dan layar. Selain itu, CSS mendukung modularitas, memungkinkan pengembang menggunakan class dan selector untuk menata banyak elemen sekaligus. Penggunaan CSS yang tepat juga mempermudah integrasi dengan framework dan template modern. Dengan penguasaan CSS, pengembang dapat menciptakan halaman web yang estetis dan fungsional.
 

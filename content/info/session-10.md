@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pengenalan CSS"
+title: "Pengantar CSS"
 weight: 10
 parted:
     name: ""

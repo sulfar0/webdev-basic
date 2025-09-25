@@ -45,7 +45,6 @@ metadata:
 description: "Memahami position relative css untuk mengatur pergeseran elemen dari posisi normal."
 ---
 
-### 1. Pendahuluan
 
 Properti *position relative* pada CSS merupakan salah satu mekanisme penting dalam mengatur tata letak elemen pada halaman web. Dengan properti ini, elemen dapat dipindahkan dari posisi normalnya tanpa kehilangan ruang yang telah dialokasikan di dalam aliran dokumen. Hal ini memungkinkan pengembang untuk mengatur penempatan elemen secara lebih fleksibel dibandingkan hanya mengandalkan posisi normal. Penerapan *position relative* sering kali menjadi dasar sebelum menggunakan teknik lanjutan seperti *absolute* atau *fixed*. Dengan kata lain, konsep ini bukan sekadar teori, melainkan pondasi praktis dalam membangun struktur web modern (Meyer, 2006).
 

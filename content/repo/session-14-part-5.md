@@ -44,8 +44,7 @@ metadata:
     author: ["MUhammad Haydar Ilham kamil"]
 description: "Mempelajari properti visibility css untuk mengatur tampil atau tersembunyi elemen."
 ---
----
-### 1. Pendahuluan
+
 
 Visibilitas adalah aspek krusial dalam desain web dan antarmuka digital. Konsep ini berkaitan dengan sejauh mana elemen dapat dikenali dan dibedakan oleh pengguna pada halaman web (Norman, 2013). Visibilitas tidak hanya memengaruhi estetika, tetapi juga pengalaman pengguna secara keseluruhan. Elemen yang mudah terlihat membantu pengguna menavigasi konten dengan efisien dan memahami hierarki informasi. Penerapan visibilitas yang tepat juga berperan dalam meningkatkan aksesibilitas bagi pengguna dengan gangguan penglihatan. Selain itu, visibilitas yang baik meningkatkan efektivitas komunikasi visual dan mendukung tujuan bisnis atau edukasi dari website tersebut. Dengan kata lain, visibilitas adalah fondasi desain yang menghubungkan estetika dengan fungsi.
 

@@ -45,7 +45,6 @@ metadata:
 description: "Memahami markup css untuk mendefinisikan gaya visual elemen halaman."
 ---
 
-### 1. Pendahuluan
 
 Markup pada dokumen HTML adalah cara untuk memberi struktur dan makna pada konten di halaman web. Dengan markup, pengembang dapat menandai elemen seperti heading, paragraf, daftar, atau gambar sehingga browser dapat menampilkan konten dengan benar (Robbins, 2018). Memahami markup HTML memungkinkan pengembang membuat halaman yang terstruktur, mudah dibaca, dan ramah mesin pencari. Selain itu, markup yang tepat membantu alat bantu seperti screen reader menafsirkan konten dengan baik, mendukung aksesibilitas (Keith, 2010). Potensi penggunaan markup juga mencakup pengembangan aplikasi web modern yang responsif dan terintegrasi dengan teknologi lain seperti CSS dan API. Struktur markup yang konsisten mempermudah kolaborasi tim, karena setiap anggota dapat memahami tata letak halaman dengan cepat. Dengan demikian, markup HTML bukan hanya soal penampilan, tetapi juga pondasi bagi fungsionalitas dan pengalaman pengguna yang baik.
 

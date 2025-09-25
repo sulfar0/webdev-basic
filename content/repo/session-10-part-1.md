@@ -45,7 +45,6 @@ metadata:
 description: "Menelusuri sejarah perkembangan css dari awal hingga modern."
 ---
 
-## 1. Pendahuluan
 
 CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mendesain dan mengatur tampilan halaman web. CSS memungkinkan pemisahan antara struktur konten (HTML) dan presentasi visualnya. Pemisahan ini mempermudah pengelolaan dan pemeliharaan situs web. CSS pertama kali diusulkan oleh Håkon Wium Lie pada tahun 1994 saat bekerja di CERN bersama Tim Berners-Lee. Tujuan utama dari CSS adalah untuk memberikan kontrol yang lebih besar atas tampilan halaman web tanpa mengubah struktur kontennya. CSS memungkinkan penggunaan berbagai gaya seperti warna, font, dan layout yang konsisten di seluruh halaman. Dengan CSS, pengembang dapat membuat desain yang responsif dan menarik secara visual. CSS juga mendukung prinsip desain yang terpisah antara konten dan presentasi, yang memudahkan kolaborasi antara pengembang dan desainer. 
 

@@ -46,8 +46,6 @@ description: "Mempelajari selector descendant css untuk menargetkan elemen turun
 ---
 
 
-## 1. Pendahuluan
-
 Selector descendant pada CSS adalah salah satu selector paling sering digunakan dalam mengatur tampilan elemen pada dokumen HTML. Selector ini memungkinkan developer untuk menargetkan elemen turunan dari elemen induk, tanpa terbatas pada anak langsung saja. Artinya, selector descendant dapat bekerja pada level hierarki yang lebih dalam, bahkan hingga beberapa lapisan elemen. Dengan hanya menuliskan spasi antar selector, developer bisa memilih elemen tertentu dalam sebuah struktur kompleks (Meyer & Weyl, 2018).
 
 Potensi besar dari selector descendant adalah kemampuannya untuk menyederhanakan kode CSS dalam tata letak yang rumit. Banyak struktur website modern memiliki nested element yang cukup dalam, misalnya pada sistem navigasi atau grid. Selector descendant membantu menargetkan elemen tersebut tanpa perlu menambahkan class atau id tambahan pada setiap level. Hal ini mendukung efisiensi dalam penulisan kode dan mengurangi redundansi dalam markup HTML (Keith, 2010).

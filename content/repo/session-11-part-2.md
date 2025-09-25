@@ -45,8 +45,6 @@ description: "Mempelajari class css untuk memberikan gaya khusus pada elemen ter
 ---
 
 
-# 1. Pendahuluan
-
 Class CSS adalah salah satu cara paling umum untuk memberikan styling pada elemen HTML. Dengan menggunakan class, pengembang dapat menargetkan satu atau beberapa elemen secara spesifik tanpa memengaruhi elemen lain di halaman (Duckett, 2011). Konsep class memungkinkan pemisahan antara struktur konten dan tampilan visual, sehingga HTML tetap bersih dan mudah dibaca. Penggunaan class juga mendukung prinsip reusable, di mana satu class dapat diterapkan ke banyak elemen yang memiliki karakteristik serupa. Dengan pemahaman ini, pengembang bisa mengelola tampilan halaman web secara lebih efisien dan konsisten. Selain itu, class membantu kolaborasi tim antara desainer dan pengembang. Potensi class sangat besar karena dapat mendukung desain modular dan sistematis pada proyek berskala besar.
 
 Dalam praktik sehari-hari, class CSS sering digunakan untuk mengatur layout, warna, tipografi, dan spacing. Dengan menambahkan class, perubahan styling bisa diterapkan ke banyak elemen sekaligus, tanpa perlu menulis ulang kode (MDN Web Docs, 2024). Class juga mendukung penggunaan selector kompleks, sehingga desain halaman web lebih presisi. Misalnya, kombinasi class dapat digunakan untuk menargetkan elemen tertentu dalam sebuah layout grid. Pemahaman konsep ini membantu pengembang menghindari styling yang tumpang tindih atau tidak konsisten. Class memberikan fleksibilitas lebih dibandingkan ID atau selector tag tunggal. Dengan begitu, pengembang memiliki kontrol yang lebih baik atas tampilan setiap elemen.

@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti display css untuk menentukan peran dan perilaku elemen."
 ---
 
-# 1. Pendahuluan
 
 Display roles CSS adalah properti yang menentukan bagaimana elemen ditampilkan dan berinteraksi dengan elemen lain di halaman web (Duckett, 2011). Properti ini mempengaruhi layout dasar dan posisi elemen dalam container.
 

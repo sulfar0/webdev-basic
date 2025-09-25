@@ -47,8 +47,6 @@ description: "Mengenal elemen HTML sebagai komponen dasar penyusun struktur hala
 
 
 
-## 2. Pendahuluan
-
 Element HTML merupakan pondasi utama dalam pembangunan halaman web modern. Setiap element memiliki fungsi tertentu yang membantu browser dalam menafsirkan konten agar dapat ditampilkan dengan benar. Tanpa adanya element, halaman web hanya berupa teks polos tanpa struktur yang jelas. Element memberikan kerangka yang memudahkan pengguna dan mesin pencari memahami isi sebuah situs. Pemahaman ini penting karena HTML adalah bahasa markup yang digunakan secara luas di seluruh dunia. Dengan kata lain, element adalah bahan dasar dari semua website yang kita kunjungi setiap hari. Menurut Duckett (2011), HTML membentuk struktur dasar web yang menjadi tulang punggung internet.
 
 Selain memiliki fungsi praktis, element HTML juga memiliki potensi besar dalam meningkatkan pengalaman pengguna. Misalnya, element heading dapat digunakan untuk menyoroti bagian penting dari sebuah artikel, sedangkan element paragraf membuat teks lebih mudah dibaca. Potensi ini semakin kuat ketika element digunakan bersama CSS dan JavaScript, meskipun pembahasan kita saat ini hanya terbatas pada HTML. Element menjadi dasar yang menentukan kualitas penyajian konten pada tahap berikutnya. Dengan menguasai element, seorang pembelajar dapat dengan mudah melanjutkan ke tahap desain dan interaktivitas. Hal ini menunjukkan bahwa HTML bukan sekadar teori, melainkan keterampilan praktis yang bermanfaat. Menurut Robbins (2018), pemahaman struktur HTML adalah syarat mutlak sebelum melangkah ke teknologi web lainnya.

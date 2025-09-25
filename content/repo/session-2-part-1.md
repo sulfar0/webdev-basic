@@ -45,13 +45,8 @@ metadata:
 description: "Memahami dasar pemrograman web untuk membangun solusi digital masa kini."
 ---
 
-Baik, saya akan menyusun ulang artikel **“Pengantar Pemrograman Web”** dalam format yang lebih rapi dengan **subheading jelas** sesuai kerangka, lalu menambahkan **referensi ilmiah bergaya APA** di akhir.
 
----
 
-# Pengantar Pemrograman Web
-
-## 1. Pendahuluan
 
 Pemrograman web adalah kegiatan menulis instruksi dan struktur yang membuat konten digital dapat ditampilkan dan berinteraksi di peramban web. Secara praktis, pemrograman web menggabungkan bahasa markup untuk struktur, gaya untuk tampilan, dan logika untuk interaksi, sehingga halaman yang awalnya statis menjadi dinamis dan berguna bagi pengguna (Robbins, 2018). Dalam konteks modern, pemrograman web tidak hanya soal halaman informatif, tetapi juga platform aplikasi, layanan, dan sistem yang mendukung pekerjaan sehari-hari. Pemahaman dasar tentang bagaimana komponen-komponen ini berkolaborasi adalah langkah awal yang penting bagi siapa saja yang ingin berkecimpung di dunia pengembangan web (Marcotte, 2011).
 

@@ -29,7 +29,6 @@ description: "Menelusuri sejarah HTML sebagai fondasi utama pembangunan halaman 
 ---
 
 
-## 1. Pendahuluan
 
 Sejarah HyperText Markup Language (HTML) merupakan sebuah kisah panjang tentang evolusi teknologi yang telah mengubah peradaban digital manusia. HTML bermula dari sebuah proyek internal di laboratorium penelitian nuklir di Eropa, yang kemudian hari menjadi fondasi internet global yang kita gunakan setiap hari. HTML tidak hanya mewakili sebuah standar teknis, melainkan juga katalisator dari revolusi budaya, sosial, dan ekonomi.  
 

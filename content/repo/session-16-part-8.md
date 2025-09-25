@@ -45,9 +45,6 @@ metadata:
 description: "Mempelajari properti clear css untuk mengatur perilaku elemen setelah float."
 ---
 
-
-### 1. Pendahuluan
-
 Floating pada CSS telah menjadi salah satu teknik dasar dalam tata letak web, namun penggunaannya sering kali menimbulkan masalah jika tidak diikuti dengan teknik "clear floating". Clear floating berfungsi untuk mengatasi perilaku aneh pada elemen kontainer yang gagal menyesuaikan tinggi akibat elemen anak yang difloat. Tanpa penggunaan clear floating, tata letak bisa menjadi berantakan dan menimbulkan inkonsistensi tampilan antar perangkat (W3C, 2017). Dengan demikian, clear floating tidak hanya penting dari segi teknis, tetapi juga dari sisi konsistensi desain.
 
 Penggunaan clear floating juga membuka potensi besar bagi pengembang dalam menjaga stabilitas layout. Sebagai contoh, ketika membuat navigasi horizontal menggunakan float, elemen setelahnya sering kali terdorong naik ke samping. Dengan clear floating, masalah ini dapat diselesaikan dengan elegan tanpa harus menggunakan trik tambahan seperti menambahkan elemen kosong. Potensi ini sangat relevan dalam pengembangan antarmuka modern, terutama ketika fleksibilitas dan kejelasan struktur kode menjadi prioritas (Duckett, 2014).

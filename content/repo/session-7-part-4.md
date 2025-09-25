@@ -46,8 +46,6 @@ description: "Mempelajari tag input untuk membuat elemen formulir interaktif pen
 ---
 
 
-# 1. Pendahuluan
-
 Input HTML adalah elemen inti dalam pengembangan web yang memungkinkan pengguna memasukkan data melalui formulir. Dengan menggunakan input, pengembang bisa menerima berbagai jenis data seperti teks, angka, email, dan tanggal secara langsung dari pengguna (Robbins, 2018). Elemen ini mempermudah interaksi antara pengguna dan aplikasi web tanpa membutuhkan teknologi tambahan. Selain itu, input HTML adalah dasar dari fitur penting seperti pendaftaran akun, pengisian survei, dan pencarian data. Kemudahan implementasinya membuat elemen ini sangat populer di hampir semua website modern. Input HTML juga mendukung validasi sederhana melalui atribut bawaan sehingga mengurangi kesalahan pengguna. Pemahaman mendalam tentang input HTML akan membuka potensi pengembangan web yang lebih interaktif dan responsif.
 
 Selain mempermudah pengumpulan data, input HTML membantu pengembang menciptakan pengalaman pengguna yang lebih baik. Pengguna dapat langsung memberikan informasi tanpa hambatan yang rumit, sehingga interaksi menjadi lebih efisien (Duckett, 2014). Berbagai tipe input memungkinkan penyesuaian dengan kebutuhan spesifik, seperti input password untuk keamanan atau input date untuk tanggal. Hal ini membuat form web lebih intuitif dan ramah pengguna. Input HTML juga dapat diintegrasikan dengan sistem backend untuk memproses data secara real-time. Dengan fitur-fitur ini, input HTML menjadi fondasi penting bagi aplikasi web dinamis. Keunggulan ini menunjukkan bahwa input HTML bukan sekadar elemen statis, melainkan bagian vital dari user experience modern.

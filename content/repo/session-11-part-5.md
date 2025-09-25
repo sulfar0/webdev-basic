@@ -45,7 +45,6 @@ metadata:
 description: "Memahami selector universal css untuk menerapkan gaya pada semua elemen."
 ---
 
-# 1. Pendahuluan
 
 **Universal CSS** adalah konsep yang memungkinkan pengembang menerapkan aturan CSS ke seluruh elemen di halaman web secara global (Duckett, 2011). Teknik ini membantu menjaga konsistensi tampilan tanpa harus menulis styling untuk setiap elemen secara individu. Dengan pendekatan universal, pengembang dapat membuat dasar styling yang rapi, seperti margin, padding, dan font default. Hal ini mempermudah manajemen halaman yang kompleks dan mempercepat proses pengembangan. Universal CSS sering digunakan sebagai reset atau base styling untuk meminimalkan perbedaan tampilan antar browser. Pemahaman konsep ini penting agar halaman web terlihat seragam dan profesional. Teknik ini juga memudahkan kolaborasi antar pengembang karena semua elemen mengikuti aturan global yang sama.
 

@@ -41,7 +41,6 @@ description: "Memahami fondasi website sebagai pintu utama menuju dunia digital.
 
 ---
 
-#### Pendahuluan
 
 Website adalah salah satu inovasi teknologi yang membentuk wajah dunia digital saat ini. Sejak diperkenalkan pada awal 1990-an, website telah berkembang dari sekadar media berbagi informasi menjadi tulang punggung hampir seluruh aktivitas manusia di dunia maya. Keberadaannya tidak hanya memengaruhi komunikasi antarindividu, tetapi juga mendukung aktivitas ekonomi, pendidikan, hingga layanan publik. Menurut Berners-Lee (2010), pencipta World Wide Web, website menjadi medium yang memungkinkan informasi dapat diakses secara terbuka oleh siapa pun di dunia.
 

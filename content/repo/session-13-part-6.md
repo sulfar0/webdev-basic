@@ -45,7 +45,6 @@ metadata:
 description: "Memahami shorthand css untuk menyingkat penulisan beberapa properti gaya sekaligus."
 ---
 
-# 1. Pendahuluan
 
 Shorthand CSS adalah cara penulisan aturan CSS yang lebih singkat dibandingkan bentuk panjangnya, namun tetap memberikan efek visual yang sama pada elemen web. Tujuan utama shorthand CSS adalah membuat kode lebih ringkas, lebih mudah dibaca, dan lebih cepat ditulis tanpa kehilangan makna atau fungsionalitas. Misalnya, alih-alih menuliskan properti margin untuk setiap sisi secara terpisah, kita bisa menggunakan satu baris shorthand margin. Konsep ini sejalan dengan prinsip efisiensi dalam desain web modern, di mana waktu pengembangan dan keterbacaan kode menjadi faktor penting (Meyer, 2017). Potensi shorthand CSS juga besar dalam mengurangi jumlah baris kode sehingga lebih hemat sumber daya. Oleh karena itu, shorthand CSS bukan hanya trik penulisan, tetapi strategi praktis dalam pengembangan web. Dengan begitu, pembahasan mengenai shorthand CSS sangat relevan untuk dipahami oleh developer pemula maupun profesional.
 

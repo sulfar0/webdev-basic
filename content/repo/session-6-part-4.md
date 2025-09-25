@@ -46,7 +46,6 @@ description: "Memahami tag style untuk mengatur tampilan visual halaman web."
 ---
 
 
-## **1. Pendahuluan**
 
 Tag `<style>` dan atribut `style` pada HTML adalah mekanisme dasar untuk menambahkan gaya visual pada halaman web. Meskipun sederhana, kedua fitur ini memungkinkan pengembang mengontrol tampilan elemen HTML secara langsung tanpa harus menggunakan file CSS eksternal. Dengan tag `<style>`, kita dapat menulis aturan CSS di dalam dokumen HTML, sementara atribut `style` memungkinkan kita memberi gaya langsung pada elemen tertentu. Potensi dari kedua fitur ini sangat besar, terutama bagi pemula yang ingin melihat perubahan tampilan halaman secara cepat. Misalnya, warna teks, ukuran font, dan latar belakang bisa diubah hanya dengan beberapa baris kode. Secara akademis, pendekatan inline maupun internal style memberikan pemahaman awal tentang cascading dan spesifikasi gaya pada HTML (W3C, 2018). Dengan pemahaman ini, pembaca dapat mulai bereksperimen secara langsung untuk meningkatkan visual halaman web mereka.
 

@@ -43,10 +43,7 @@ metadata:
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami semantik HTML untuk struktur konten yang lebih bermakna."
-
 ---
-
-# 1. Pendahuluan
 
 HTML atau *HyperText Markup Language* merupakan bahasa markup standar yang digunakan untuk membangun struktur dasar dari halaman web di seluruh dunia. Dalam perkembangannya, HTML mengalami banyak transformasi mulai dari versi awal hingga HTML5 yang saat ini banyak digunakan secara luas. Salah satu aspek penting dari HTML5 adalah hadirnya elemen semantik yang memberikan arti khusus pada bagian tertentu dari konten web. Elemen semantik memungkinkan browser dan mesin pencari untuk memahami makna konten, bukan sekadar tampilannya. Hal ini membuat web menjadi lebih terstruktur, mudah diakses, dan ramah terhadap teknologi bantu seperti pembaca layar. Menurut W3C (2019), elemen semantik mendukung interoperabilitas konten di berbagai platform digital. Dengan demikian, pengenalan semantik HTML menjadi sangat penting dalam dunia pengembangan web modern (W3C, 2019).
 

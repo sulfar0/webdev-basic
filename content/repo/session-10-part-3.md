@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari sintaks css untuk mengatur gaya dan tampilan elemen."
 ---
 
-### 1. Pendahuluan
 
 Sintaks pada CSS merujuk pada struktur dasar dan aturan penulisan kode yang memungkinkan elemen HTML dapat diberikan gaya visual secara tepat. Memahami sintaks ini membantu pengembang menulis kode yang lebih efisien, rapi, dan mudah dipelihara (Meyer, 2017). Setiap aturan CSS terdiri dari selector, properti, dan nilai, yang bekerja sama untuk menentukan bagaimana elemen ditampilkan di halaman web. Dengan penguasaan sintaks yang baik, pengembang dapat mengontrol aspek visual seperti warna, margin, padding, dan font dengan presisi tinggi. Selain itu, struktur sintaks yang jelas mempermudah kolaborasi antar anggota tim dan mengurangi risiko konflik atau redundansi kode. Potensi pemahaman sintaks CSS juga mencakup kemampuan menciptakan desain yang responsif dan adaptif di berbagai perangkat. Hal ini menjadikan penguasaan sintaks CSS sebagai fondasi penting dalam pengembangan web modern yang profesional.
 

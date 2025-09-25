@@ -45,7 +45,6 @@ metadata:
 description: "Memahami metadata native untuk mendeskripsikan informasi bawaan halaman web."
 ---
 
-### Pendahuluan
 
 Metadata HTML native adalah informasi tambahan yang terdapat secara langsung di dalam dokumen HTML untuk mendeskripsikan halaman atau elemen di dalamnya (W3C, 2022). Metadata ini tidak terlihat langsung oleh pengguna, tetapi sangat penting untuk mesin pencari, browser, dan perangkat lain yang memproses halaman. Potensi penggunaan metadata native sangat luas, mulai dari optimisasi SEO hingga pengaturan tampilan konten di platform sosial. Elemen ini memungkinkan pengembang menambahkan informasi tentang karakter encoding, deskripsi halaman, kata kunci, dan pengaturan viewport. Dengan metadata native, halaman web menjadi lebih mudah diakses, diindeks, dan diintegrasikan dengan berbagai alat digital. Metadata native mendukung pengelolaan halaman web yang lebih profesional dan efisien. Penerapan yang tepat meningkatkan kualitas, keterbacaan, dan visibilitas halaman di berbagai platform.
 

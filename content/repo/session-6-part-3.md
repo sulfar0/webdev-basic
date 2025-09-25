@@ -46,7 +46,6 @@ description: "Mempelajari tag embed untuk menyisipkan konten multimedia interakt
 ---
 
 
-## 1. Pendahuluan
 
 Tag `<embed>` dalam HTML adalah elemen yang digunakan untuk menampilkan konten eksternal secara langsung ke dalam halaman web. Elemen ini memungkinkan developer menambahkan file multimedia seperti audio, video, atau aplikasi berbasis plug-in dengan mudah. Penggunaannya populer pada era awal web karena memberi fleksibilitas dalam menampilkan konten yang tidak didukung secara native oleh browser. Saat ini, meskipun HTML5 telah membawa banyak tag baru, `<embed>` tetap memiliki fungsi yang relevan. Keberadaannya sering dipilih karena kemudahan sintaks dan dukungan lintas platform. Dengan memahami `<embed>`, seseorang dapat memaksimalkan interaktivitas sebuah website. Hal ini menunjukkan bahwa elemen sederhana ini memiliki dampak besar dalam pengalaman pengguna (Pilgrim, 2010).
 

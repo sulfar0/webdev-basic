@@ -46,7 +46,6 @@ description: "Website sebagai medium transformasi sosial, ekonomi, politik, sert
 ---
 
 
-## Pendahuluan
 
 Website telah menjadi salah satu instrumen paling signifikan dalam perkembangan dunia digital. Pada masa awal kemunculannya, website berfungsi terutama sebagai sarana untuk menampilkan informasi sederhana dalam bentuk teks dan gambar statis, yang memungkinkan pengguna internet untuk mengakses konten dasar tanpa interaksi lebih lanjut. Namun, seiring kemajuan teknologi web, terutama dengan hadirnya teknologi seperti JavaScript, AJAX, dan HTML5, website mengalami evolusi menjadi platform yang jauh lebih interaktif dan dinamis. Kini, website tidak hanya berfungsi sebagai media penyampaian informasi pasif, melainkan juga sebagai ruang aktif untuk berbagai bentuk interaksi, mulai dari komunikasi dua arah, kolaborasi daring, hingga transaksi bisnis online. Berners-Lee (2010) menekankan bahwa transformasi ini mengubah website menjadi pusat aktivitas digital yang esensial, yang menyatukan berbagai fungsi dalam satu ekosistem yang kaya dan multifungsi.
 

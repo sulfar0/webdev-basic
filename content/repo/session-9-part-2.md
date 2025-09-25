@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari elemen header HTML untuk menandai bagian atas konten halaman."
 ---
 
-# 1. Pendahuluan
 
 Elemen `<header>` dalam HTML adalah salah satu komponen semantik yang dirancang untuk memberikan struktur yang lebih jelas pada sebuah halaman web. Tujuan utama dari penggunaan elemen ini adalah untuk mengelompokkan konten pembuka atau navigasi yang relevan dengan sebuah bagian tertentu. Hal ini memudahkan mesin pencari maupun pembaca untuk memahami konteks dari informasi yang disajikan. Dengan adanya elemen `<header>`, web developer dapat membangun halaman yang lebih terorganisir dan mudah dipahami. Menurut W3C, struktur semantik semacam ini meningkatkan keterbacaan kode secara signifikan (W3C, 2019). Selain itu, elemen ini juga memfasilitasi proses aksesibilitas bagi pengguna dengan keterbatasan tertentu. Oleh karena itu, memahami fungsi dasar `<header>` menjadi bagian penting dalam penguasaan HTML.
 

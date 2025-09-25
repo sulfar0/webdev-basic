@@ -39,7 +39,6 @@ description: "Menjelajahi mekanisme internet, memahami cara kerja jaringan globa
 
 
 
-## Pendahuluan
 
 Internet adalah jaringan global yang memungkinkan komputer, perangkat mobile, dan sistem lain saling terhubung untuk bertukar informasi. Konsep dasar dari internet bermula dari penelitian militer dan akademik pada tahun 1960-an, lalu berkembang menjadi ekosistem besar yang mendukung hampir semua aspek kehidupan manusia saat ini. Saat seseorang membuka sebuah situs web, data sebenarnya sedang berpindah melewati banyak jaringan yang saling terhubung di seluruh dunia. Mekanisme ini tampak sederhana di mata pengguna, namun sebenarnya melibatkan protokol komunikasi yang kompleks. Menurut Kurose & Ross (2017), keberhasilan internet terletak pada kemampuannya menyatukan standar terbuka yang digunakan oleh semua pihak. Oleh karena itu, internet bukan hanya infrastruktur teknis, melainkan fondasi sosial-ekonomi global. Kemampuan internet menjembatani komunikasi membuatnya menjadi teknologi paling berpengaruh di era digital.
 

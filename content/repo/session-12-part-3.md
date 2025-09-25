@@ -45,9 +45,6 @@ metadata:
 description: "Menguasai selector child css untuk presisi menata hierarki struktur DOM."
 ---
 
----
-
-## 1. Pendahuluan
 
 Selector child pada CSS adalah salah satu combinator yang digunakan untuk menargetkan elemen secara spesifik berdasarkan hubungan langsung antara induk dan anak. Selector ini ditulis dengan simbol `>`, dan hanya berlaku pada elemen anak langsung, bukan cucu atau keturunan lebih dalam. Hal ini membedakan selector child dari descendant selector yang lebih umum karena descendant selector berlaku untuk semua level keturunan. Dengan kata lain, selector child memberikan kontrol yang lebih presisi dalam mengatur gaya elemen (Meyer & Weyl, 2018).
 

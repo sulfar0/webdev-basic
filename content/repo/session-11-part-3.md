@@ -45,7 +45,6 @@ metadata:
 description: "Memahami identifier css untuk menargetkan elemen spesifik dalam halaman web."
 ---
 
-# 1. Pendahuluan
 
 Identifier CSS adalah atribut unik yang diberikan pada elemen HTML untuk membedakannya dari elemen lain (Duckett, 2011). Dengan identifier, pengembang dapat menargetkan elemen tertentu secara spesifik untuk diterapkan styling tertentu. Identifier biasanya digunakan untuk elemen yang hanya muncul satu kali di halaman, seperti header, footer, atau tombol khusus. Penggunaan identifier mempermudah pengelolaan tampilan halaman dan meningkatkan presisi styling. Identifier berbeda dari class karena sifatnya unik, sehingga tidak boleh diterapkan pada lebih dari satu elemen. Pemahaman tentang identifier menjadi fondasi penting sebelum mempelajari konsep CSS lebih lanjut. Dengan identifier yang tepat, halaman web dapat dikelola secara lebih terstruktur dan profesional.
 

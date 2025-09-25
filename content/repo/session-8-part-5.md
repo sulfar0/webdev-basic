@@ -46,8 +46,6 @@ description: "Metadata EAD untuk representasi arsip digital secara terstruktur d
 ---
 
 
-### Pendahuluan
-
 Metadata EAD (Encoded Archival Description) adalah standar XML yang digunakan untuk mendeskripsikan koleksi arsip secara sistematis (Society of American Archivists, 2010). Standar ini memungkinkan arsip digital dan fisik dicatat dengan detail sehingga memudahkan pengelolaan. EAD mempermudah pencarian koleksi berdasarkan judul, pengarang, tanggal, dan konteks arsip. Dengan EAD, institusi dapat membuat katalog online yang terstruktur dan mudah diakses oleh peneliti. Kesalahan umum dalam pengelolaan arsip dapat diminimalkan melalui penerapan EAD. Potensi EAD juga mencakup integrasi dengan sistem perpustakaan dan repositori digital lainnya. Penggunaan EAD mendukung transparansi dan akurasi informasi arsip.
 
 EAD menyediakan struktur hierarkis yang fleksibel, sehingga setiap unit arsip dapat dijelaskan mulai dari koleksi hingga item individu (Society of American Archivists, 2010). Elemen `<archdesc>` dan `<did>` menjadi inti struktur untuk mendeskripsikan informasi administratif dan konten. Kesalahan pencatatan manual sering terjadi tanpa standar seperti EAD. Dengan EAD, metadata arsip menjadi lebih konsisten dan interoperabel. Implementasi standar ini meningkatkan efisiensi digitalisasi arsip. Peneliti dapat menavigasi koleksi dengan mudah. EAD memungkinkan dokumentasi riwayat dan konteks arsip yang akurat.

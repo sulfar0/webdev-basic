@@ -45,9 +45,6 @@ metadata:
 description: "Memahami pseudo-class dan pseudo-element css untuk gaya dinamis serta fleksibel."
 ---
 
-
-## 1. Pendahuluan
-
 Pseudo pada CSS adalah sebuah konsep penting yang memungkinkan developer menargetkan keadaan atau bagian tertentu dari elemen tanpa menambahkan markup tambahan pada HTML. Dengan menggunakan pseudo, kita dapat menambahkan gaya pada elemen seperti tautan yang sedang di-*hover*, elemen pertama dalam daftar, atau bahkan baris ganjil dan genap pada tabel. Fleksibilitas ini membuat CSS lebih efisien karena tidak selalu perlu menambahkan class khusus di HTML. Menurut Meyer dan Weyl (2018), pseudo selector membantu meningkatkan keterbacaan kode dengan cara memisahkan gaya visual dari struktur HTML. Oleh karena itu, pseudo menjadi salah satu aspek paling sering digunakan dalam styling modern.
 
 Penggunaan pseudo tidak hanya terbatas pada aspek visual, tetapi juga bisa mempengaruhi pengalaman pengguna secara keseluruhan. Sebagai contoh, efek hover pada tautan memberikan umpan balik visual yang membuat interaksi lebih jelas dan intuitif. Interaktivitas semacam ini merupakan salah satu faktor penting dalam desain web modern. Keith (2010) menjelaskan bahwa pengalaman pengguna yang baik dapat ditingkatkan dengan detail kecil seperti perubahan gaya menggunakan pseudo. Hal ini menunjukkan bahwa pseudo bukan sekadar alat tambahan, melainkan bagian inti dari desain responsif dan ramah pengguna.

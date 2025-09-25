@@ -46,10 +46,6 @@ description: "Memahami pengantar css untuk mengatur tampilan visual halaman webs
 ---
 
 
-# **Pengantar CSS (Cascading Style Sheets)**
-
-## **1. Definisi CSS**
-
 CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan layout elemen-elemen HTML pada halaman web. Dengan CSS, pengembang dapat mengontrol warna, font, jarak antar elemen, ukuran, dan posisi secara konsisten di seluruh halaman. CSS memungkinkan pemisahan antara konten (HTML) dan presentasi visual, sehingga struktur dan desain bisa dikelola secara terpisah. Hal ini membuat pengelolaan situs web menjadi lebih mudah dan efisien, terutama untuk proyek berskala besar. CSS juga mendukung desain responsif, sehingga tampilan halaman dapat menyesuaikan dengan berbagai perangkat, mulai dari desktop hingga smartphone. CSS adalah standar web yang dikembangkan dan distandarisasi oleh W3C untuk memastikan kompatibilitas di berbagai browser. Tanpa CSS, halaman web akan terlihat polos dan kurang menarik, sehingga pengalaman pengguna menjadi terbatas ([Lie, 1996](https://www.w3.org/Style/CSS/)).
 
 ---

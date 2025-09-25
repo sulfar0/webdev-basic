@@ -49,8 +49,6 @@ metadata:
 description: "Mempelajari position static css sebagai posisi normal default elemen pada halaman."
 ---
 
-### 1. Pendahuluan
-
 Position normal pada CSS adalah aturan tata letak yang menjadi default bagi setiap elemen dalam dokumen web. Elemen yang berada dalam keadaan normal akan mengikuti alur dokumen sebagaimana teks atau blok pada halaman. Mekanisme ini disebut juga sebagai *normal flow*, di mana setiap elemen ditampilkan dari atas ke bawah dan mengikuti hierarki struktur HTML yang ada. Konsep ini tampak sederhana, tetapi memiliki pengaruh besar terhadap keteraturan tampilan halaman web. Jika tidak dipahami dengan baik, normal flow dapat menghasilkan tata letak yang berantakan dan sulit diprediksi (Duckett, 2011).
 
 Selain menjadi posisi default, position normal juga memiliki peran penting sebagai dasar untuk memahami mode tata letak lainnya. Ketika seorang pengembang memutuskan untuk menggunakan posisi absolute, relative, atau fixed, semua itu tetap berawal dari kerangka normal flow. Dengan kata lain, normal position adalah titik awal dalam membangun desain web yang lebih kompleks. Melalui pemahaman ini, pengembang dapat lebih mudah mengontrol aliran elemen ketika berpindah ke mode yang lebih lanjut. Hal ini menegaskan bahwa tanpa pemahaman mendalam tentang posisi normal, penggunaan posisi lain menjadi kurang efektif (Meyer & Winer, 2018).

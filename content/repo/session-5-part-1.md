@@ -43,10 +43,8 @@ metadata:
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mendalami tag img untuk menampilkan ilustrasi dalam media gambar."
-
 ---
 
-# 1. Pendahuluan
 
 Tag gambar HTML adalah salah satu elemen dasar yang digunakan untuk menampilkan gambar di dalam halaman web. Gambar berfungsi sebagai media vsual yang dapat memperkuat pesan yang disampaikan melalui teks. Tanpa adanya gambar, halaman web akan terasa datar dan kurang menarik bagi pengguna. Tag `<img>` memungkinkan pengembang web untuk menyisipkan ilustrasi, foto, atau ikon yang mendukung informasi. Menurut penelitian Mayer (2009), visualisasi memiliki peran penting dalam meningkatkan pemahaman pengguna terhadap konten digital. Dengan demikian, penggunaan gambar pada halaman web bukan sekadar estetika, melainkan bagian dari strategi komunikasi. Tag gambar HTML menjadi jembatan antara informasi tekstual dan representasi visual yang lebih mudah dipahami.
 

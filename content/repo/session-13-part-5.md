@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti font-variant css untuk mengatur tampilan gaya teks." 
 ---
 
-# 1. Pendahuluan
 
 CSS adalah bahasa yang sangat penting dalam pengembangan web karena berfungsi untuk mengatur tampilan elemen di halaman digital. Salah satu properti yang sering digunakan untuk meningkatkan estetika adalah `font-variant`. Properti ini memungkinkan developer mengontrol gaya huruf secara detail, seperti membuat teks kecil kapital atau angka proporsional. Dengan menggunakan `font-variant`, desainer bisa menghadirkan nuansa tipografi yang lebih profesional. Hal ini sangat membantu dalam membangun identitas visual yang konsisten di berbagai platform digital. Menurut penelitian dalam *Journal of Visual Communication*, tipografi yang konsisten meningkatkan keterbacaan dan persepsi profesionalitas. Oleh karena itu, memahami `font-variant` sangat penting bagi pengembang web modern (Lupton, 2019).
 

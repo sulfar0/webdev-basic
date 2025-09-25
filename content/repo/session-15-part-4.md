@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari properti padding css untuk mengatur jarak dalam elemen."
 ---
 
-# 1. Pendahuluan
 
 Padding adalah ruang di dalam elemen antara konten dan border yang membungkusnya. Properti ini sangat penting dalam CSS karena memengaruhi jarak visual dan keterbacaan konten (Duckett, 2011). Dengan padding, developer dapat menciptakan layout yang lebih rapi dan seimbang tanpa menambah elemen tambahan.
 

@@ -45,8 +45,6 @@ metadata:
 description: "Memahami properti float css untuk mengatur posisi elemen secara melayang."
 ---
 
-### 1. Pendahuluan
-
 Konsep *floating pada CSS* merupakan salah satu teknik dasar yang banyak digunakan untuk mengatur tata letak elemen dalam halaman web. Float memungkinkan elemen bergerak ke sisi kiri atau kanan kontainer, sehingga elemen lain dapat mengalir di sekitarnya. Teknik ini awalnya dirancang untuk mengatur tata letak teks di sekitar gambar, namun seiring perkembangan web desain, penggunaannya meluas ke struktur tata letak yang lebih kompleks. Dengan float, desainer dapat menciptakan tampilan yang fleksibel tanpa harus menggunakan tabel. Banyak literatur menyebutkan bahwa float berperan penting dalam fase awal evolusi desain web modern (Robbins, 2018).
 
 Penggunaan float tidak hanya berfokus pada keindahan visual, tetapi juga pada aspek fungsionalitas. Float memungkinkan desainer menciptakan desain kolom sederhana, yang pada masa lalu sangat membantu sebelum hadirnya teknik modern seperti flexbox dan grid. Hal ini menunjukkan bahwa meskipun float dianggap “klasik”, ia tetap memiliki relevansi dalam pembelajaran CSS. Float juga dapat digunakan untuk menyusun elemen navigasi, sidebar, atau konten utama. Kemampuan ini memberikan kebebasan kepada desainer untuk mengatur prioritas informasi. Beberapa penelitian usability menyebutkan bahwa tata letak yang jelas mempercepat pemahaman pengguna terhadap isi halaman (Nielsen, 2020).

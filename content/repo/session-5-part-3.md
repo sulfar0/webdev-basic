@@ -46,7 +46,6 @@ description: "Memutar beranekaragam jenis dan format video dalam laman website."
 
 ---
 
-### 1. Pendahuluan
 
 Tag `<video>` dalam HTML merupakan salah satu elemen penting yang memungkinkan pengembang web menampilkan konten video secara langsung di dalam halaman tanpa perlu plugin tambahan. Perkembangan ini menjawab kebutuhan pengguna internet modern yang semakin bergantung pada konten multimedia, khususnya video, sebagai sarana komunikasi dan pembelajaran. Dengan hadirnya tag `<video>`, pengalaman pengguna di web menjadi lebih interaktif dan informatif. Para peneliti menyatakan bahwa penggunaan video dapat meningkatkan retensi informasi hingga 80% lebih baik dibandingkan hanya teks saja (Mayer, 2009). Oleh karena itu, integrasi video langsung melalui HTML bukan sekadar fitur tambahan, melainkan kebutuhan mendasar di era digital saat ini.
 

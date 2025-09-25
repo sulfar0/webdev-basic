@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari selector attribute css untuk menargetkan elemen dengan atribut khusus."
 ---
 
-# 1. Pendahuluan
 
 Attribute CSS adalah cara untuk menargetkan elemen HTML berdasarkan atributnya, sehingga pengembang dapat memberikan styling secara spesifik (Duckett, 2011). Dengan pendekatan ini, styling tidak hanya bergantung pada tag, class, atau ID, tetapi juga pada properti tambahan yang melekat pada elemen. Attribute CSS membuka potensi untuk membuat halaman web lebih fleksibel dan dinamis. Misalnya, elemen input dengan `type="text"` bisa ditargetkan secara khusus tanpa memengaruhi input lain. Pemahaman attribute CSS membantu pengembang membangun halaman web yang lebih modular dan mudah di-maintain. Teknik ini juga meningkatkan presisi styling, sehingga halaman terlihat lebih konsisten. Attribute CSS menjadi alat penting dalam pengembangan web modern yang kompleks.
 

@@ -45,7 +45,6 @@ metadata:
 description: "Mempelajari elemen main untuk menandai konten utama halaman."
 ---
 
-# 1. Pendahuluan
 
 Elemen `<main>` dalam HTML adalah sebuah elemen semantik yang digunakan untuk menandai konten utama dari sebuah halaman web. Elemen ini membantu pengguna dan mesin pencari memahami bagian inti dari isi dokumen HTML yang sedang dibuka. Dalam praktiknya, `<main>` biasanya digunakan untuk membungkus konten yang langsung berkaitan dengan tujuan utama halaman tersebut. Dengan adanya elemen ini, struktur halaman menjadi lebih jelas dan lebih mudah dipahami oleh teknologi pendukung seperti screen reader. Menurut penelitian Nielsen (2012), struktur semantik yang baik meningkatkan pengalaman pengguna dalam navigasi web. Oleh karena itu, `<main>` hadir sebagai solusi penting dalam meningkatkan aksesibilitas dan keteraturan kode HTML.
 

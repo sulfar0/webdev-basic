@@ -46,9 +46,6 @@ description: "Mempelajari quotation dalam penyajian kutipan profesional dalam ha
 ---
 
 
-
-### Pendahuluan
-
 Quotation pada HTML merupakan elemen penting yang digunakan untuk menandai kutipan teks dari sumber lain. Elemen ini membantu pembaca memahami bahwa sebuah teks bukanlah pendapat penulis, tetapi berasal dari pihak lain (W3C, 2022). Penggunaan quotation yang tepat juga meningkatkan kredibilitas sebuah konten, terutama pada tulisan akademik maupun artikel informatif. Selain itu, quotation mempermudah pembaca untuk membedakan konten asli dan kutipan, sehingga struktur teks menjadi lebih jelas. Dalam praktiknya, quotation pada HTML sering digunakan dalam berita, blog, dan dokumen online yang mengutip pernyataan atau referensi. Potensi penggunaan elemen ini sangat luas, karena bisa diterapkan pada berbagai jenis konten digital. Dengan memahami quotation, seorang pengembang web dapat membuat halaman yang lebih terstruktur dan mudah dipahami.
 
 Secara teknis, HTML menyediakan dua elemen utama untuk quotation, yaitu `<q>` untuk kutipan inline dan `<blockquote>` untuk kutipan blok. Kedua elemen ini memiliki peran berbeda dalam menyajikan kutipan, namun tujuannya tetap sama, yaitu menandai teks yang dikutip (Robson, 2020). `<q>` biasanya digunakan ketika kutipan menyatu dalam alur kalimat, sedangkan `<blockquote>` digunakan untuk kutipan yang berdiri sendiri dalam paragraf. Pemahaman kedua elemen ini penting agar tampilan dan makna teks sesuai dengan konteks yang diinginkan. Selain memudahkan pembaca, penggunaan quotation juga mendukung standar web yang baik, karena search engine dapat mengenali kutipan dengan lebih mudah. Potensi lain dari elemen ini adalah integrasi dengan teknologi assistive, sehingga pengguna screen reader juga dapat memahami kutipan dengan lebih baik. Oleh karena itu, mempelajari quotation menjadi bagian penting dalam pengembangan konten web yang profesional.
