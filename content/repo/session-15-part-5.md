@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhans"]
-description: "Memahami properti margin CSS untuk mengatur jarak luar antar elemen."
+description: "Memahami properti margin css untuk mengatur jarak luar antar elemen."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari tag video HTML: konsep, implementasi, kompatibilitas, dan praktik terbaik."
+description: "Memutar beranekaragam jenis dan format video dalam laman website."
 
 ---
 

@@ -6,7 +6,7 @@ weight: 12
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempelajari kombinator CSS untuk menentukan hubungan antar elemen serta mengatur gaya secara lebih mudah sekaligus presisi."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari kombinator CSS untuk menentukan hubungan antar elemen dan mengatur gaya secara lebih presisi."
 ---

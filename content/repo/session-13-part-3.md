@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari properti font-weight CSS untuk mengatur ketebalan teks halaman."
+description: "Mempelajari properti font-weight css untuk mengatur ketebalan teks halaman."
 
 ---
 

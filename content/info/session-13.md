@@ -6,7 +6,7 @@ weight: 13
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami format teks CSS untuk mengatur tipografi dari font, gaya tulisan, serta meningkatkan keterbacaan konten pada halaman web."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami format teks CSS untuk mengatur tipografi, gaya tulisan, serta meningkatkan keterbacaan konten halaman."
 ---

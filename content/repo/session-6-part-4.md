@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami tag style HTML untuk mengatur tampilan visual halaman web."
+description: "Memahami tag style untuk mengatur tampilan visual halaman web."
 ---
 
 

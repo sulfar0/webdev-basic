@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Memahami tag gambar HTML untuk konsep, jenis, implementasi, dan praktik."
+description: "Mendalami tag img untuk menampilkan ilustrasi dalam media gambar."
 
 ---
 

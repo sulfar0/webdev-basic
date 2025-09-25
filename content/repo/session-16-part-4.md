@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari position absolute CSS untuk menempatkan elemen relatif terhadap kontainer."
+description: "Mempelajari position absolute css untuk menempatkan elemen relatif terhadap kontainer."
 ---
 
 ### 1. Pendahuluan

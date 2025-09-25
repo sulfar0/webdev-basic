@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Konsep file, implementasi, kompatibilitas, dan praktik terbaik."
+description: "Menampilkan file serta cara implementasi, kompatibilitas, dan praktik terbaik."
 
 ---
 

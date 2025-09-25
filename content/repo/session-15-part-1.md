@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami konsep box-sizing CSS untuk mengatur perhitungan dimensi elemen."
+description: "Memahami konsep box-sizing css untuk mengatur perhitungan dimensi elemen."
 ---
 
 # 1. Pendahuluan

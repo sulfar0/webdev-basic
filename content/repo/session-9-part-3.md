@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Memahami elemen footer HTML untuk menutup dan melengkapi informasi halaman."
+description: "Memahami elemen footer untuk menutup dan melengkapi informasi halaman."
 ---
 
 # 1. Pendahuluan

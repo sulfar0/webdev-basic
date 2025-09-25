@@ -2,7 +2,7 @@
 date: "2025-09-22T15:00:00+07:00"
 draft: false
 title: "Pengantar Pemrograman Web: Dasar, Konsep, dan Peran di Era Digital"
-short: "pengantar-web"
+short: "pengantar"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -12,9 +12,9 @@ weight: 2
 lister: 1
 format:
     media: "article"
-    model: "teori-dasar"
+    model: ""
     datum:
-        data: "pemrograman-web"
+        data: ""
 outcome:
     - prop: "Konsep"
       name: "Konseptual"

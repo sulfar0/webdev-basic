@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari struktur tabel HTML untuk menyusun data rapi dan terorganisir."
+description: "Mempelajari struktur tabel dalam menyusun data rapi dan terorganisir."
 ---
 
 

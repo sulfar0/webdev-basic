@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami selector universal CSS untuk menerapkan gaya pada semua elemen."
+description: "Memahami selector universal css untuk menerapkan gaya pada semua elemen."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami color guideline CSS untuk konsistensi dan harmoni tampilan desain web."
+description: "Memahami color guideline css untuk konsistensi dan harmoni tampilan desain web."
 ---
 ### 1. Pendahuluan
 

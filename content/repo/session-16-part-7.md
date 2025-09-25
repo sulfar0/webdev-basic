@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami properti float CSS untuk mengatur posisi elemen secara melayang."
+description: "Memahami properti float css untuk mengatur posisi elemen secara melayang."
 ---
 
 ### 1. Pendahuluan

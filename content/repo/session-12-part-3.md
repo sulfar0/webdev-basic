@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Menguasai selector child CSS untuk presisi menata hierarki struktur DOM."
+description: "Menguasai selector child css untuk presisi menata hierarki struktur DOM."
 ---
 
 ---

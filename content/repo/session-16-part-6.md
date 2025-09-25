@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari position fixed CSS untuk elemen tetap terlihat saat menggulir."
+description: "Mempelajari position fixed css untuk elemen tetap terlihat saat menggulir."
 ---
 
 ### 1. Pendahuluan

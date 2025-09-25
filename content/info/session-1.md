@@ -24,18 +24,3 @@ metadata:
     author: [ "null" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---
-
-1. Persiapan Pembelajaran
-2. Pengenalan teknologi web
-3. pengenalan html
-4. implementasi html 1
-5. implementasi html 2
-6. implementasi html 3
-7. implementasi html 4
-8. semantik html
-9. pengenalan css
-10. implementasi css 1
-11. implementasi css 2
-12. implementasi css 3
-13. implementasi css 4
-14. pengenalan layouting 

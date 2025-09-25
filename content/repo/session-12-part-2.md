@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami selector general sibling CSS untuk menargetkan elemen saudara sejenis."
+description: "Memahami selector general sibling css untuk menargetkan elemen group sejenis."
 ---
 
 

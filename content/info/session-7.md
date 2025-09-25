@@ -6,7 +6,7 @@ weight: 7
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempelajari tabel dan formulir HTML yang cocok digunakanuntuk menyajikan data terstruktur serta mengelola input interaktif pengguna."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari tabel dan formulir HTML untuk menyajikan data terstruktur serta mengelola input interaktif pengguna."
 ---

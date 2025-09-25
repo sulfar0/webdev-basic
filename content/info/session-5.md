@@ -6,7 +6,7 @@ weight: 5
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempelajari penggunaan fitur multimedia dalam laman web untuk menyisipkan gambar, audio, video, serta konten interaktif lainnya."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari penggunaan media dalam HTML untuk menyisipkan gambar, audio, video, serta konten interaktif lainnya."
 ---

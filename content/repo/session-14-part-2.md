@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami properti teks CSS untuk mengatur tampilan dan estetika tulisan."
+description: "Memahami properti teks css untuk mengatur tampilan dan estetika tulisan."
 ---
 ### 1. Pendahuluan
 

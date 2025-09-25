@@ -2,7 +2,7 @@
 date: "2025-09-22T13:00:00+07:00"
 draft: false
 title: "Panduan Lengkap Metadata MODS untuk Koleksi Digital"
-short: "metadata mods"
+short: "mods"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami tag mods HTML untuk deskripsi metadata terstandar dalam pengelolaan dokumen."
+description: "Kenli MODS untuk deskripsi metadata terstandar dalam pengelolaan dokumen."
 ---
 
 

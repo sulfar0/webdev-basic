@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Memahami pengantar CSS untuk mengatur tampilan visual halaman website."
+description: "Memahami pengantar css untuk mengatur tampilan visual halaman website."
 ---
 
 

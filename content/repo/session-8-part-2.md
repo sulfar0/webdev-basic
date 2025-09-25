@@ -2,7 +2,7 @@
 date: "2025-09-22T13:00:00+07:00"
 draft: false
 title: "Panduan Lengkap Metadata HTML Native Part 1: Teori dan Praktik"
-short: "metadata native"
+short: "native"
 thumb:
   image: "cover.jpg"
   anima: ""
@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["null"]
-description: "Memahami metadata native HTML untuk mendeskripsikan informasi bawaan halaman web."
+description: "Memahami metadata native untuk mendeskripsikan informasi bawaan halaman web."
 ---
 
 ### Pendahuluan

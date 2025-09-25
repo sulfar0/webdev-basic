@@ -25,7 +25,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami pengantar HTML sebagai bahasa dasar pembangunan struktur halaman web."
+description: "Memahami posisi HTML sebagai bahasa dasar pembangunan struktur halaman web."
 ---
 
 

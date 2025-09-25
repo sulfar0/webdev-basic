@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Mempelajari tag embed HTML untuk menyisipkan konten multimedia interaktif."
+description: "Mempelajari tag embed untuk menyisipkan konten multimedia interaktif."
 ---
 
 

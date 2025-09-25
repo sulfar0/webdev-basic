@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami teknik spanning cell HTML untuk menggabungkan sel tabel secara fleksibel."
+description: "Memahami teknik spanning cell untuk menggabungkan sel secara fleksibel."
 ---
 
 

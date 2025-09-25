@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar ilham Kamil"]
-description: "Memahami markup CSS untuk mendefinisikan gaya visual elemen halaman."
+description: "Memahami markup css untuk mendefinisikan gaya visual elemen halaman."
 ---
 
 ### 1. Pendahuluan

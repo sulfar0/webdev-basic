@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Memahami properti font-style CSS untuk mengatur gaya kemiringan teks."
+description: "Memahami properti font-style css untuk mengatur gaya kemiringan teks."
 ---
 
 # 1. Pendahuluan

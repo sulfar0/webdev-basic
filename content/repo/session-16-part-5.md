@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami position sticky CSS untuk elemen yang menempel saat digulir halaman."
+description: "Memahami position sticky css untuk elemen yang menempel saat digulir halaman."
 ---
 
 

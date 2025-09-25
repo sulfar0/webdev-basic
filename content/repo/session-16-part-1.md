@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami properti position CSS untuk mengatur penempatan elemen dalam layout."
+description: "Memahami properti position css untuk mengatur penempatan elemen dalam layout."
 ---
 
 

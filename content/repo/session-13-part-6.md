@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Memahami shorthand CSS untuk menyingkat penulisan beberapa properti gaya sekaligus."
+description: "Memahami shorthand css untuk menyingkat penulisan beberapa properti gaya sekaligus."
 ---
 
 # 1. Pendahuluan

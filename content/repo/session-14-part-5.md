@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["MUhammad Haydar Ilham kamil"]
-description: "Mempelajari properti visibility CSS untuk mengatur tampil atau tersembunyi elemen."
+description: "Mempelajari properti visibility css untuk mengatur tampil atau tersembunyi elemen."
 ---
 ---
 ### 1. Pendahuluan

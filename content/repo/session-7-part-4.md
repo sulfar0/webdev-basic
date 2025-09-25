@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari tag input HTML untuk membuat elemen formulir interaktif pengguna."
+description: "Mempelajari tag input untuk membuat elemen formulir interaktif pengguna."
 ---
 
 

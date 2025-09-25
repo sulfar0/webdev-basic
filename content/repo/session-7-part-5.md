@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami tag form HTML untuk mengelola input dan interaksi pengguna."
+description: "Memahami tag form untuk mengelola input dan interaksi pengguna."
 ---
 
 

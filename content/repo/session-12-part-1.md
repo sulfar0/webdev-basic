@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["null"]
-description: "Mempelajari selector adjacent sibling CSS untuk menargetkan elemen setelah saudara."
+description: "Mempelajari selector adjacent sibling css untuk menargetkan elemen dalam sebuah group."
 ---
 
 ### Pendahuluan

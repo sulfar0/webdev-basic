@@ -6,7 +6,7 @@ weight: 11
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami selector pada CSS untuk menargetkan elemen tertentu pada laman dalam penerapan gaya sesuai kebutuhan desain."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami selector CSS untuk menargetkan elemen tertentu dan menerapkan gaya sesuai kebutuhan desain."
 ---

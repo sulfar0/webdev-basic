@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari tag meta HTML untuk menyediakan informasi tambahan tentang halaman."
+description: "Mempelajari tag meta untuk menyediakan informasi tambahan tentang halaman."
 ---
 
 

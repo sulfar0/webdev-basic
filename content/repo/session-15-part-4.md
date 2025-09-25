@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari properti padding CSS untuk mengatur jarak dalam elemen."
+description: "Mempelajari properti padding css untuk mengatur jarak dalam elemen."
 ---
 
 # 1. Pendahuluan

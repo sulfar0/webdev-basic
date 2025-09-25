@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami prinsip dasar CSS untuk mengatur desain visual halaman web."
+description: "Memahami prinsip dasar css untuk mengatur desain visual halaman web."
 ---
 
 

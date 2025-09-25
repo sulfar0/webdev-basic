@@ -41,7 +41,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari class CSS untuk memberikan gaya khusus pada elemen tertentu."
+description: "Mempelajari class css untuk memberikan gaya khusus pada elemen tertentu."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari properti display CSS untuk menentukan peran dan perilaku elemen."
+description: "Mempelajari properti display css untuk menentukan peran dan perilaku elemen."
 ---
 
 # 1. Pendahuluan

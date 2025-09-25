@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari elemen main HTML untuk menandai konten utama halaman."
+description: "Mempelajari elemen main untuk menandai konten utama halaman."
 ---
 
 # 1. Pendahuluan

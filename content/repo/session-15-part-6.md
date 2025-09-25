@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari properti box-shadow CSS untuk menambahkan efek bayangan pada elemen."
+description: "Mempelajari properti box-shadow css untuk menambahkan efek bayangan pada elemen."
 ---
 
 # 1. Pendahuluan

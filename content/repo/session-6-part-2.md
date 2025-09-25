@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Memahami tag iframe HTML untuk menampilkan konten eksternal dalam halaman."
+description: "Memahami tag iframe untuk menampilkan konten eksternal dalam halaman."
 ---
 
 # 1. Pendahuluan

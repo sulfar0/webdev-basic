@@ -6,7 +6,7 @@ weight: 10
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Pengenalan CSS, sebuah bahasa yang bertugas untuk mengatur tampilan visual, desain, serta estetika halaman web modern."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Pengenalan CSS untuk mengatur tampilan visual, desain, serta estetika halaman web modern."
 ---

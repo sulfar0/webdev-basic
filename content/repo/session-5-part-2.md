@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari tag code block HTML: konsep, jenis, kesalahan, serta praktik."
+description: "Menampikan potongan source code dengan menggunakan code block."
 ---
 
 

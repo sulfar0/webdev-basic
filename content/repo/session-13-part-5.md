@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari properti font-variant CSS untuk mengatur tampilan gaya teks." 
+description: "Mempelajari properti font-variant css untuk mengatur tampilan gaya teks." 
 ---
 
 # 1. Pendahuluan

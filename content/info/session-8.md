@@ -6,7 +6,7 @@ weight: 8
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami metadata HTML sebagai informasi tambahan penting untuk optimasi, aksesibilitas, serta pengelolaan konten halaman web."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami metadata HTML sebagai informasi tambahan penting untuk optimasi, aksesibilitas, serta pengelolaan konten halaman web."
 ---

@@ -6,7 +6,7 @@ weight: 6
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami tag yang bisa membuat web bisa saling terkoneksi untuk tujuan pertukaran data, komunikasi, serta melakukan interaksi antar aplikasi"
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami tag yang bisa membuat web bisa saling terkoneksi untuk tujuan pertukaran data, komunikasi, serta melakukan interaksi antar aplikasi."
 ---

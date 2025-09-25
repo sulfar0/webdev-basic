@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami position relative CSS untuk mengatur pergeseran elemen dari posisi normal."
+description: "Memahami position relative css untuk mengatur pergeseran elemen dari posisi normal."
 ---
 
 ### 1. Pendahuluan

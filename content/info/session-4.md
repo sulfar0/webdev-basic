@@ -6,7 +6,7 @@ weight: 4
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami penyuntingan teks dengan HTML untuk menampilkan, menekankan, serta memformat tulisan sesuai kebutuhan halaman."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami penyuntingan teks dengan HTML untuk menampilkan, menekankan, serta memformat tulisan sesuai kebutuhan halaman."
 ---

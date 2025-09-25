@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["Muhammad Haydar Ilham kamil"]
-description: "Mempelajari properti background CSS untuk mengatur latar belakang elemen halaman."
+description: "Mempelajari properti background css untuk mengatur latar belakang elemen halaman."
 ---
 
 ### 1. Pendahuluan

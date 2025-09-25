@@ -46,7 +46,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari position static CSS sebagai posisi normal default elemen pada halaman."
+description: "Mempelajari position static css sebagai posisi normal default elemen pada halaman."
 ---
 
 ### 1. Pendahuluan

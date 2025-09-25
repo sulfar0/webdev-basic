@@ -6,7 +6,7 @@ weight: 3
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Mendalami penerapan HTML dalam membangun struktur dasar halaman web."
+    desc: "Pengenalan HTML dasar sebagai bahasa markup yang digunakan untuk membangun struktur halaman website yang konsisten dan handal."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari pengenalan HTML sebagai bahasa markup dasar untuk membangun struktur halaman web yang rapi."
 ---

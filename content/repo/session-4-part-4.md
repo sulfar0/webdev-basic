@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Tag list HTML membantu menyajikan informasi terstruktur, rapi, dan mudah dipahami."
+description: "Menggunakan list untuk menyajikan informasi terstruktur, rapi, dan mudah dipahami."
 ---
 
 

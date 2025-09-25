@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari tag script HTML untuk menambahkan interaktivitas dan fungsionalitas web."
+description: "Mempelajari tag script untuk menambahkan interaktivitas dan fungsionalitas web."
 ---
 
 ### 1. Pendahuluan

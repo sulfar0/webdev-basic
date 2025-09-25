@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari selector attribute CSS untuk menargetkan elemen berdasarkan atribut tertentu."
+description: "Mempelajari selector attribute css untuk menargetkan elemen dengan atribut khusus."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami identifier CSS untuk menargetkan elemen spesifik dalam halaman web."
+description: "Memahami identifier css untuk menargetkan elemen spesifik dalam halaman web."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Mempelajari aspek konseptual CSS untuk memahami prinsip desain dan styling."
+description: "Mempelajari aspek konseptual css untuk memahami prinsip desain dan styling."
 ---
 
 ### 1. Pendahuluan

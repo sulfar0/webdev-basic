@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Menelusuri sejarah perkembangan teknologi web dari awal hingga modern."
+description: "Menelusuri sejarah perkembangan css dari awal hingga modern."
 ---
 
 ## 1. Pendahuluan

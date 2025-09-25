@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari quotation HTML untuk menyajikan kutipan profesional dalam halaman web."
+description: "Mempelajari quotation dalam penyajian kutipan profesional dalam halaman web."
 ---
 
 

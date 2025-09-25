@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Mempelajari properti box dimensions CSS untuk mengatur ukuran elemen halaman."
+description: "Mempelajari properti box dimensions css untuk mengatur ukuran elemen halaman."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari selector descendant CSS untuk menargetkan elemen turunan dalam hierarki."
+description: "Mempelajari selector descendant css untuk menargetkan elemen turunan dalam hierarki."
 ---
 
 

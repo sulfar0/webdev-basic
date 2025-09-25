@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Mempelajari properti clear CSS untuk mengatur perilaku elemen setelah float."
+description: "Mempelajari properti clear css untuk mengatur perilaku elemen setelah float."
 ---
 
 

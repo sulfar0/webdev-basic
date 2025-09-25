@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami properti border-radius CSS untuk membuat sudut elemen lebih membulat."
+description: "Memahami properti border-radius css untuk membuat sudut elemen lebih membulat."
 ---
 
 # 1. Pendahuluan

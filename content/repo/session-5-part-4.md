@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Konsep tag audio, implementasi, kompatibilitas, dan praktik terbaik."
+description: "Menggunakan tag audio untuk layanan suara pada website."
 
 ---
 

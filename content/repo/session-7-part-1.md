@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami tag table HTML untuk menyajikan data terstruktur dalam halaman."
+description: "Memahami tag table untuk menyajikan data terstruktur bagu laman web."
 
 ---
 

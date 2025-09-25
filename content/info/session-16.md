@@ -6,7 +6,7 @@ weight: 16
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Mempersiapkan kebutuhan instrument perkuliahan dan mekanisme belajar."
+    desc: "Memahami peran penting layouting class pada CSS untuk menyusun elemen halaman secara terstruktur, responsif, estetis serta sesuai dengan desain."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami layouting CSS untuk menyusun elemen halaman secara terstruktur, responsif, serta estetis sesuai desain."
 ---

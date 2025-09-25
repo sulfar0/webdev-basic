@@ -6,7 +6,7 @@ weight: 14
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempelajari pewarnaan dalam CSS seperti menentukan palet desain konsisten hingga meningkatkan estetika tampilan halaman web."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari format warna CSS untuk menentukan palet desain konsisten serta meningkatkan estetika tampilan halaman web."
 ---

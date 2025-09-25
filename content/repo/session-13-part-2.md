@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Memahami properti font-size CSS untuk mengatur ukuran teks halaman web."
+description: "Memahami properti font-size css untuk mengatur ukuran teks halaman web."
 
 ---
 

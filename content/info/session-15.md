@@ -6,7 +6,7 @@ weight: 15
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Memahami box model CSS sebagai konsep dasar yang bertugas dalam pengaturan ukuran, jarak, dan tata letak elemen pada halaman website."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami box model CSS sebagai konsep dasar mengatur ukuran, jarak, dan tata letak elemen halaman."
 ---

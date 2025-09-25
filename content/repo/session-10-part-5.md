@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Mempelajari penggunaan CSS untuk mempercantik dan menata tampilan halaman."
+description: "Mempelajari penggunaan css untuk mempercantik dan menata tampilan halaman."
 ---
 ### 1. Pendahuluan
 

@@ -6,7 +6,7 @@ weight: 9
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Memahami konsep dan prinsip dasar perpustakaan digital."
+    desc: "Mempelajari semantik HTML untuk memberikan makna jelas pada elemen, meningkatkan aksesibilitas, serta optimasi mesin pencari."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Mempelajari semantik HTML untuk memberikan makna jelas pada elemen, meningkatkan aksesibilitas, serta optimasi mesin pencari."
 ---

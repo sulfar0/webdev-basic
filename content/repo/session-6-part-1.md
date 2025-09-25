@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Mempelajari tag link HTML untuk menghubungkan halaman dan sumber daya."
+description: "Mempelajari tag link untuk menghubungkan halaman dan sumber daya."
 ---
 
 

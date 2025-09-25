@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Mempelajari properti font-family CSS untuk menentukan jenis huruf pada teks."
+description: "Mempelajari properti font-family css untuk menentukan jenis huruf pada teks."
 ---
 
 # 1. Pendahuluan

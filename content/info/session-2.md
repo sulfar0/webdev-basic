@@ -6,7 +6,7 @@ weight: 2
 parted:
     name: ""
     goal: "Parted 1"
-    desc: "Pengenalan website, cara kerjanya, dan alat yang digunakan dalam pengembangan."
+    desc: "Memahami pengenalan teknologi web sebagai fondasi penting perkembangan komunikasi, informasi, serta interaksi digital modern."
     icon: ""
 tasker:
     name: ""
@@ -22,5 +22,5 @@ metadata:
     index: false
     thumb: "cover.jpg"
     author: [ "null" ]
-description: "Memahami konsep dan prinsip dasar perpustakaan digital."
+description: "Memahami pengenalan teknologi web sebagai fondasi penting perkembangan komunikasi, informasi, serta interaksi digital modern."
 ---

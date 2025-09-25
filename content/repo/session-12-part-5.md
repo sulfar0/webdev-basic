@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami pseudo-class dan pseudo-element CSS untuk gaya dinamis serta fleksibel."
+description: "Memahami pseudo-class dan pseudo-element css untuk gaya dinamis serta fleksibel."
 ---
 
 

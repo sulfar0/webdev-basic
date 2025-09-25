@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Menerapkan elemen semantik HTML untuk struktur, aksesibilitas, dan optimasi."
+description: "Menerapkan elemen semantik untuk struktur, aksesibilitas, dan optimasi."
 
 ---
 

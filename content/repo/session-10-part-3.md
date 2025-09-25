@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Mempelajari sintaks CSS untuk mengatur gaya dan tampilan elemen."
+description: "Mempelajari sintaks css untuk mengatur gaya dan tampilan elemen."
 ---
 
 ### 1. Pendahuluan

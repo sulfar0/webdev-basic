@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Memahami properti border CSS untuk membuat dan mengatur garis elemen."
+description: "Memahami properti border css untuk membuat dan mengatur garis elemen."
 ---
 
 # 1. Pendahuluan
