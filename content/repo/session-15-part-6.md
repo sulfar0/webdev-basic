@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T15:00:00+07:00"
 draft: false
-title: "shadow"
+title: "Tambahkan efek bayangan estetis pada elemen halaman web pada HTML dengan box-shadow CSS"
 short: "shadow"
 thumb:
     image: "cover.jpg"

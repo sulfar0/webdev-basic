@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T10:00:00+07:00
 draft: false
-title: "Memahami dan Menguasai Pseudo pada CSS untuk Desain Web Modern"
+title: "Tambah efek dinamis pada elemen halaman web pada HTML dengan pseudo CSS"
 short: "pseudo"
 thumb:
     image: "cover.jpg"

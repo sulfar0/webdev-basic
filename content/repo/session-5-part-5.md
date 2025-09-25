@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T14:00:00+07:00
 draft: false
-title: "Tag File HTML: Konsep, Jenis, Implementasi, dan Best Practice"
+title: "Menampilkan File di HTML Praktik dan Contoh"
 short: "file"
 thumb:
     image: "cover.jpg"

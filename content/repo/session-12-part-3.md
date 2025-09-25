@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T10:00:00+07:00"
 draft: false
-title: "Menguasai Selector Child pada CSS: Presisi dalam Menata Hierarki DOM"
+title: "Atur gaya khusus elemen turunan langsung pada HTML dengan child selector CSS"
 short: "child"
 thumb:
     image: "cover.jpg"

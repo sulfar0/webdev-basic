@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:30:00+07:00"
 draft: false
-title: "Panduan Lengkap Elemen Footer HTML: Konsep, Jenis, dan Implementasi"
+title: "Lengkapi informasi bagian bawah halaman web pada HTML dengan footer"
 short: "footer"
 thumb:
     image: "cover.jpg"

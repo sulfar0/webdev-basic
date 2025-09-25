@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Metadata HTML Native Part 1: Teori dan Praktik"
+title: "Kelola deskripsi bawaan halaman web pada HTML dengan metadata native"
 short: "native"
 thumb:
   image: "cover.jpg"

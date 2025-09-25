@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
 draft: false
-title: "box dimensions"
+title: "Tentukan ukuran lebar dan tinggi elemen halaman web pada HTML dengan box dimensions CSS"
 short: "box dimensions"
 thumb:
     image: "cover.jpg"

@@ -2,7 +2,7 @@
 date:  "2025-09-22T16:00:00+07:00"
 draft: false
 title: "rounded"
-short: "rounded"
+short: "Buat sudut elemen halaman web lebih membulat pada HTML dengan border-radius CSS"
 thumb:
     image: "cover.jpg"
     anima: ""

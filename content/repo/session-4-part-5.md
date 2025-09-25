@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Quotation pada HTML: Panduan Lengkap untuk Kutipan Profesional"
+title: "Quotation HTML untuk menampilkan kutipan profesional dalam halaman"
 short: "quotation"
 thumb:
     image: "cover.jpg"

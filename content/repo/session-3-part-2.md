@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pengantar HTML"
+title: "Pengantar HTML dasar membangun struktur halaman web"
 short: "pengantar"
 thumb:
     image: "cover.jpg"

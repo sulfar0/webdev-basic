@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Text Formatting di HTML: Beyond Heading dan Paragraf"
+title: "Text formatting HTML untuk menekankan dan memperindah tampilan teks"
 short: "formating"
 thumb:
     image: "cover.jpg"

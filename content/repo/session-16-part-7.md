@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T15:00:00+07:00
 draft: false
-title: "Menguasai Floating pada CSS: Konsep, Contoh, dan Best Practice"
+title: "Atur posisi konten pada HTML dengan float CSS"
 short: "floating"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T10:00:00+07:00
 draft: false
-title: "Menguasai General Sibling CSS: Konsep, Contoh, dan Best Practice"
+title: "Seleksi elemen sibling sejenis setelahnya pada HTML dengan general sibling CSS"
 short: "general sibling"
 thumb:
     image: "cover.jpg"

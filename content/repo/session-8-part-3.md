@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Metadata OpenGraph untuk Optimasi Konten Web"
+title: "Optimalkan pratinjau konten web pada HTML dengan OpenGraph"
 short: "opengraph"
 thumb:
     image: "cover.jpg"

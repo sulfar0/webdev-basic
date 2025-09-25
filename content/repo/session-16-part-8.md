@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T15:00:00+07:00
 draft: false
-title: "Menguasai Clear Floating pada CSS: Konsep, Contoh, dan Best Practice"
+title: "Atur setelah float pada HTML dengan clear CSS"
 short: "clear"
 thumb:
     image: "cover.jpg"

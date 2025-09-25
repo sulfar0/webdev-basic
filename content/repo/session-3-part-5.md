@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T11:00:00+07:00"
 draft: false
-title: "Struktur Dasar HTML"
+title: "Struktur dasar HTML untuk membangun kerangka halaman"
 short: "elemen"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "konseptual warna pada css"
+title: "Tentukan palet dan nuansa desain halaman web pada HTML dengan warna CSS"
 short: "konseptual"
 thumb:
     image: "cover.jpg"

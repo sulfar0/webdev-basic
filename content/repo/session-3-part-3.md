@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Mengenal Element pada HTML"
+title: "Mengenal elemen HTML sebagai dasar struktur halaman"
 short: "elemen"
 thumb:
     image: "cover.jpg"

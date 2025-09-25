@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Metadata EAD: Konsep, Implementasi, dan Best Practice"
+title: "Representasikan arsip digital terstruktur pada HTML dengan metadata EAD"
 short: "metadata EAD"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T14:00:00+07:00"
 draft: false
-title: "input"
+title: "Buat elemen formulir interaktif pada HTML dengan input"
 short: "input"
 thumb:
     image: "cover.jpg"

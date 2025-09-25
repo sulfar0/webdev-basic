@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Markup pada dokumen html"
+title: "Definisikan struktur dan gaya halaman web pada HTML dengan markup CSS"
 short: "markup"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T10:00:00+07:00
 draft: false
-title: "Menguasai Descendant Selector di CSS untuk Desain Web yang Efisien"
+title: "Terapkan gaya pada elemen turunan dalam hierarki HTML dengan descendant selector CSS"
 short: "descendant"
 thumb:
     image: "cover.jpg"

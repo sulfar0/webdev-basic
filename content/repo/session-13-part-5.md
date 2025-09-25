@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T17:45:00+07:00"
 draft: false
-title: "Menguasai CSS Font-Variant: Panduan Lengkap dari Konsep hingga Praktik"
+title: "Atur tampilan gaya khusus teks halaman web pada HTML dengan font variant CSS"
 short: "font variant"
 thumb:
     image: "cover.jpg"

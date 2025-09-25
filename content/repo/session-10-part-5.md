@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "pengunaan"
+title: "Terapkan gaya visual halaman web secara konsisten pada HTML dengan penggunaan CSS"
 short: "pengunaan"
 thumb:
     image: "cover.jpg"

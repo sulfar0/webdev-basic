@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:00:00+07:00"
 draft: false
-title: "padding"
+title: "Atur jarak dalam konten elemen halaman web pada HTML dengan padding CSS"
 short: "padding"
 thumb:
     image: "cover.jpg"

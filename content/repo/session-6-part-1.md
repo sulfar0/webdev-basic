@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
 draft: false
-title: "link"
+title: "Kenali Link untuk Menyambungkan Halaman dan Sumber Daya"
 short: "link"
 thumb:
     image: "cover.jpg"

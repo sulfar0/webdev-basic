@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:00:00+07:00"
 draft: false
-title: "Bagaimana Internet Bekerja: Memahami Mekanisme di Balik Layar"
+title: "Memahami Mekanisme Kerja Internet di Balik Layar"
 short: "internet"
 thumb:
     image: "cover.jpg"

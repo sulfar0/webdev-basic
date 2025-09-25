@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "script"
+title: "Tambah interaktivitas pada HTML dengan script"
 short: "script"
 thumb:
     image: "cover.jpg"

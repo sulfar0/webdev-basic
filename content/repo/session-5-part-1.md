@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T12:00:00+07:00
 draft: false
-title: "Panduan Lengkap Tag Gambar HTML: Konsep, Jenis, Implementasi, dan Best Practice"
+title: "Meggunakan image dalam menyisipkan dan menampilkan media visual"
 short: "gambar"
 thumb:
     image: "cover.jpg"

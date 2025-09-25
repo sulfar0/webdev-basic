@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T12:00:00+07:00"
 draft: false
-title: "attribute"
+title: "Seleksi elemen berdasarkan atribut tertentu pada HTML dengan attribute CSS"
 short: "attribute"
 thumb:
     image: "cover.jpg"

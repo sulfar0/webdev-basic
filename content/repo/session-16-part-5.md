@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T15:00:00+07:00
 draft: false
-title: "Menguasai Position Sticky pada CSS untuk Desain Web Modern"
+title: "Buat elemen menempel saat digulir halaman web pada HTML dengan position sticky CSS"
 short: "sticky"
 thumb:
     image: "cover.jpg"

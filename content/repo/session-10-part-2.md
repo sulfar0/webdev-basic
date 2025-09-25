@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "pengantar"
+title: "Mulai atur tampilan visual halaman web pada HTML dengan CSS"
 short: "pengantar"
 thumb:
     image: "cover.jpg"

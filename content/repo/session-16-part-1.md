@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T10:00:00+07:00"
 draft: false
-title: "Menguasai Position pada CSS: Panduan Lengkap untuk Tata Letak Modern"
+title: "Atur penempatan elemen halaman web secara fleksibel pada HTML dengan position CSS"
 short: "konseptual"
 thumb:
     image: "cover.jpg"

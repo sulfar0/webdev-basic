@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "teks"
+title: "Atur warna teks halaman web secara fleksibel pada HTML dengan text color CSS"
 short: "teks"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T16:00:00+07:00"
 draft: false
-title: "Menguasai Font Family: Panduan Lengkap untuk Tipografi Web yang Konsisten dan Aksesibel"
+title: "Tentukan jenis huruf teks halaman web pada HTML dengan font family CSS"
 short: "font family"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:00:00+07:00"
 draft: false
-title: "Mengenal dan Menguasai Elemen Main HTML: Konsep, Implementasi, dan Best Practice"
+title: "Main sebagai tempat konten utama web pada html"
 short: "main"
 thumb:
     image: "cover.jpg"

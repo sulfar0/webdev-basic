@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:30:00+07:00"
 draft: false
-title: "Pengenalan Website: Fondasi Dunia Digital"
+title: "Website Adalah Fondasi Dunia Digital"
 short: "website"
 thumb:
     image: "cover.jpg"

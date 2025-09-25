@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T10:00:00+07:00"
 draft: false
-title: "Memahami Position Relative pada CSS: Konsep, Implementasi, dan Praktik Terbaik"
+title: "Geser elemen dari posisi normalnya pada HTML dengan position relative CSS"
 short: "relative"
 thumb:
     image: "cover.jpg"

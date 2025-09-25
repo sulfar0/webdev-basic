@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T17:00:00+07:00
 draft: false
-title: "Menguasai Shorthand CSS: Panduan Lengkap untuk Kode yang Ringkas, Efisien, dan Terstruktur"
+title: "Sederhanakan penulisan beberapa properti gaya halaman web pada HTML dengan shorthand CSS"
 short: "shorthand"
 thumb:
     image: "cover.jpg"

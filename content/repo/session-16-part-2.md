@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T10:30:00+07:00"
 draft: false
-title: "Mengenal Position Normal pada CSS: Dasar Tata Letak yang Perlu Dipahami"
+title: "Tetapkan posisi default elemen halaman web pada HTML dengan position static CSS"
 short: "normal"
 thumb:
     image: "cover.jpg"

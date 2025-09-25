@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:30:00+07:00"
 draft: false
-title: "konseptual"
+title: "Atur perhitungan dimensi elemen halaman web secara tepat pada HTML dengan box-sizing CSS"
 short: "konseptual"
 thumb:
     image: "cover.jpg"

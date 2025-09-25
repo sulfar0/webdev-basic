@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
 draft: false
-title: "konseptual"
+title: "Pahami dasar pemikiran desain halaman web modern pada HTML dengan konsep CSS"
 short: "konseptual"
 thumb:
     image: "cover.jpg"

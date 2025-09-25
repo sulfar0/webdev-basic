@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Mengenal Attribute pada HTML"
+title: "Mengenal atribut HTML untuk pengaturan elemen halaman"
 short: "attribute"
 thumb:
     image: "cover.jpg"

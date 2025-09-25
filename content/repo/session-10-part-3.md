@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Sintaks"
+title: "Pahami aturan penulisan gaya halaman web pada HTML dengan sintaks CSS"
 short: "Sintaks"
 thumb:
     image: "cover.jpg"

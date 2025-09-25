@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:00:00+07:00"
 draft: false
-title: "Menguasai Position Absolute pada CSS: Konsep, Contoh, dan Praktik Terbaik"
+title: "Tempatkan elemen relatif terhadap kontainer terdekat pada HTML dengan position absolute CSS"
 short: "absolute"
 thumb:
     image: "cover.jpg"

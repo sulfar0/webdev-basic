@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T12:00:00+07:00"
 draft: false
-title: "display roles"
+title: "Tentukan perilaku tampilan elemen halaman web pada HTML dengan display CSS"
 short: "display roles"
 thumb:
     image: "cover.jpg"

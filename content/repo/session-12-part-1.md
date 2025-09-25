@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Menguasai Adjacent Sibling Selector pada CSS: Panduan Lengkap"
+title: "Targetkan elemen tepat setelah sibling sejenis pada HTML dengan adjacent sibling CSS"
 short: "adjacent sibling"
 thumb:
   image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T15:00:00+07:00"
 draft: false
-title: "Pengantar Pemrograman Web: Dasar, Konsep, dan Peran di Era Digital"
+title: "Dasar Pemrograman Web, Konsep, dan Peran di Era Digital"
 short: "pengantar"
 thumb:
     image: "cover.jpg"

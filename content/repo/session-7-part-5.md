@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T14:30:00+07:00"
 draft: false
-title: "form"
+title: "Kelola data pengguna pada HTML dengan form"
 short: "form"
 thumb:
     image: "cover.jpg"

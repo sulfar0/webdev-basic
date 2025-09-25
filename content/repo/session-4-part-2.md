@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:30:00+07:00"
 draft: false
-title: "Menguasai Tag Heading HTML: Struktur, Praktik, dan Best Practice"
+title: "Heading HTML penting untuk memperjelas struktur konten halaman"
 short: "heading"
 thumb:
     image: "cover.jpg"

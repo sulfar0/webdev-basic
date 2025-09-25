@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T15:00:00+07:00
 draft: false
-title: "Memahami Elemen Header HTML: Konsep, Jenis, Kesalahan, dan Best Practice"
+title: "Tandai bagian atas konten halaman web pada HTML dengan header"
 short: "header"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T17:00:00+07:00
 draft: false
-title: "Mengenal dan Menguasai Font Style dalam Desain Web"
+title: "Ubah gaya kemiringan teks halaman web pada HTML dengan font style CSS"
 short: "font style"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T15:00:00+07:00
 draft: false
-title: "Menguasai Position Fixed pada CSS untuk Navigasi dan Layout Modern"
+title: "Tetapkan elemen selalu terlihat saat menggulir halaman web pada HTML dengan position fixed CSS"
 short: "fixed"
 thumb:
     image: "cover.jpg"

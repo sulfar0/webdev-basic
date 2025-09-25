@@ -1,7 +1,7 @@
 ---
 date: 2025-09-22T16:00:00+07:00
 draft: false
-title: "Menguasai Font Size: Konsep, Implementasi, dan Praktik Terbaik dalam Desain Web"
+title: "Atur ukuran teks halaman web secara proporsional pada HTML dengan font size CSS"
 short: "font size"
 thumb:
     image: "cover.jpg"

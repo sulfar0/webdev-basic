@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:00:00+07:00"
 draft: false
-title: "embed"
+title: "Embed HTML untuk menyisipkan konten multimedia interaktif"
 short: "embed"
 thumb:
     image: "cover.jpg"

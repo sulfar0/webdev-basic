@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "visibilitas"
+title: "Kendalikan tampil atau tersembunyinya elemen halaman web pada HTML dengan visibility CSS"
 short: "visibilitas"
 thumb:
     image: "cover.jpg"

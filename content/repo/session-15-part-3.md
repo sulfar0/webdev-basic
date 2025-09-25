@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:30:00+07:00"
 draft: false
-title: "garis"
+title: "Buat dan kendalikan batas elemen halaman web pada HTML dengan border CSS"
 short: "garis"
 thumb:
     image: "cover.jpg"

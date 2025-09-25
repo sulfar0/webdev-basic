@@ -1,6 +1,6 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
-title: "class"
+title: "Beri gaya khusus pada elemen halaman web pada HTML dengan class CSS"
 short: "class"
 thumb:
     image: "cover.jpg"

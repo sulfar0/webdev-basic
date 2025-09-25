@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Sejarah HTML"
+title: "Sejarah HTML dari awal perkembangan hingga modern"
 short: "sejarah"
 thumb:
     image: "cover.jpg"

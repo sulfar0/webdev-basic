@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
 draft: false
-title: "universal"
+title: "Terapkan gaya ke semua elemen halaman web pada HTML dengan universal selector CSS"
 short: "universal"
 thumb:
     image: "cover.jpg"

@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "mehahami panduan warna - color guideline"
+title: "Jaga konsistensi desain visual halaman web pada HTML dengan color guideline CSS"
 short: "penataan"
 thumb:
     image: "cover.jpg"

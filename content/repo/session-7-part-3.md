@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:45:00+07:00"
 draft: false
-title: "spaning cell"
+title: "Gabungkan sel tabel pada HTML dengan spanning cell"
 short: "spaning cell"
 thumb:
     image: "cover.jpg"

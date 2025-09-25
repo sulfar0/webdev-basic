@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "latar belakang"
+title: "Kustomisasi tampilan elemen halaman web pada HTML dengan background CSS"
 short: "latar belakang"
 thumb:
     image: "cover.jpg"

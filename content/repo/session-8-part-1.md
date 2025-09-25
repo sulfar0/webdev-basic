@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Tag Meta HTML: Panduan Lengkap untuk SEO dan Responsivitas"
+title: "Tambahkan informasi tambahan halaman web pada HTML dengan meta"
 short: "meta"
 thumb:
     image: "cover.jpg"

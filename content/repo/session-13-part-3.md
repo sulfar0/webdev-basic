@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T16:00:00+07:00"
 draft: false
-title: "Menguasai Font Weight: Panduan Lengkap untuk Tipografi Digital"
+title: "Kendalikan ketebalan teks halaman web pada HTML dengan font weight CSS"
 short: "font weight"
 thumb:
     image: "cover.jpg"

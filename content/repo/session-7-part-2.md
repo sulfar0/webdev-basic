@@ -1,7 +1,7 @@
 ---
 date:  "2025-09-22T13:00:00+07:00"
 draft: false
-title: "struktur tabel"
+title: "Atur penyajian data pada HTML dengan struktur tabel"
 short: "struktur tabel"
 thumb:
     image: "cover.jpg"

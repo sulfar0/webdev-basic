@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "sejarah CSS"
+title: "Telusuri perkembangan desain web modern pada HTML dengan sejarah CSS"
 short: "sejarah"
 thumb:
     image: "cover.jpg"

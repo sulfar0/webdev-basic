@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "style"
+title: "Style HTML untuk mengatur tampilan visual halaman"
 short: "style"
 thumb:
     image: "cover.jpg"
