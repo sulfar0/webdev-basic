@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Box sizing adalah properti CSS yang menentukan bagaimana width dan height elemen dihitung, termasuk padding dan border. Modul ini membahas konsep, jenis, implementasi, kesalahan umum, dan best practice agar layout web konsisten, modular, dan responsif."
+description: "Memahami konsep box-sizing CSS untuk mengatur perhitungan dimensi elemen."
 ---
 
 # 1. Pendahuluan

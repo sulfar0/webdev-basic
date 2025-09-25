@@ -42,8 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara mendalam elemen <main> dalam HTML, mulai dari konsep dasar, jenis dan contoh implementasi, kesalahan umum, hingga best practice untuk memastikan struktur halaman web lebih semantik, mudah diakses, dan sesuai standar modern."
-
+description: "Mempelajari elemen main HTML untuk menandai konten utama halaman."
 ---
 
 # 1. Pendahuluan

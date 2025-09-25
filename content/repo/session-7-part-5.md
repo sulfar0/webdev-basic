@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Form HTML adalah elemen dasar untuk mengumpulkan input pengguna, memvalidasi data, dan meningkatkan interaktivitas aplikasi web."
+description: "Memahami tag form HTML untuk mengelola input dan interaksi pengguna."
 ---
 
 

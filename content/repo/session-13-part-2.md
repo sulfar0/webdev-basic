@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas font size sebagai elemen fundamental dalam tipografi web, mencakup konsep dasar, jenis-jenis satuan, implementasi praktis, kesalahan umum, hingga best practice untuk memastikan keterbacaan, aksesibilitas, dan pengalaman pengguna yang optimal."
+description: "Memahami properti font-size CSS untuk mengatur ukuran teks halaman web."
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2025-09-22T13:00:00+07:00"
 draft: false
-title: "Panduan Lengkap Tag <audio> HTML: Konsep, Implementasi, dan Best Practice"
+title: "Panduan Lengkap Tag audio HTML: Konsep, Implementasi, dan Best Practice"
 short: "audio"
 thumb:
     image: "cover.jpg"
@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara menyeluruh tentang tag <audio> HTML, mulai dari konsep dasar, jenis-jenis, contoh implementasi, kesalahan umum, hingga best practice agar audio dapat digunakan secara efektif, kompatibel, dan ramah pengguna."
+description: "Konsep tag audio, implementasi, kompatibilitas, dan praktik terbaik."
 
 ---
 

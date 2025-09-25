@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["Muhammad Haydar Ilham kamil"]
-description: "Modul ini membahas penggunaan latar belakang CSS, mencakup warna solid, gambar latar, dan gradient. Pembahasan termasuk konsep dasar, implementasi, kesalahan umum, serta best practice untuk desain web yang estetis, fungsional, dan responsif."
+description: "Mempelajari properti background CSS untuk mengatur latar belakang elemen halaman."
 ---
 
 ### 1. Pendahuluan

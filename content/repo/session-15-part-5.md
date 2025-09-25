@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhans"]
-description: "Margin CSS adalah properti yang digunakan untuk mengatur jarak antar elemen di halaman web, meningkatkan keterbacaan, layout modular, dan estetika halaman."
+description: "Memahami properti margin CSS untuk mengatur jarak luar antar elemen."
 ---
 
 # 1. Pendahuluan

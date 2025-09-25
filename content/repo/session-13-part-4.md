@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Font style adalah salah satu elemen penting dalam tipografi web yang berfungsi untuk memberi penekanan, variasi visual, serta meningkatkan keterbacaan. Artikel ini membahas konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice penggunaan font style."
+description: "Memahami properti font-style CSS untuk mengatur gaya kemiringan teks."
 ---
 
 # 1. Pendahuluan

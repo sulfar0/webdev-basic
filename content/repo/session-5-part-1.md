@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara lengkap tentang tag gambar HTML mulai dari konsep dasar, jenis dan contoh, implementasi, kesalahan umum, hingga best practice untuk menghasilkan halaman web yang lebih informatif, cepat, dan aksesibel."
+description: "Memahami tag gambar HTML untuk konsep, jenis, implementasi, dan praktik."
 
 ---
 

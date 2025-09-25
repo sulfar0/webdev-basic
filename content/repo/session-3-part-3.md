@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Elemen adalah komponen dasar yang membentuk struktur dan isi setiap halaman web"
+description: "Mengenal elemen HTML sebagai komponen dasar penyusun struktur halaman."
 ---
 
 

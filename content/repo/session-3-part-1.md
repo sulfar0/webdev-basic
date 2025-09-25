@@ -25,7 +25,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Sejarah penemuan html sebagai salah satu format yang merubah wajah internet."
+description: "Menelusuri sejarah HTML sebagai fondasi utama pembangunan halaman web."
 ---
 
 

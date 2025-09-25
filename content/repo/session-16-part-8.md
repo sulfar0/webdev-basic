@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas clear floating pada CSS secara mendalam, mulai dari konsep dasar, jenis dan contoh penggunaan, implementasi, kesalahan umum, hingga best practice yang dapat diterapkan dalam membangun layout web yang rapi dan profesional."
+description: "Mempelajari properti clear CSS untuk mengatur perilaku elemen setelah float."
 ---
 
 

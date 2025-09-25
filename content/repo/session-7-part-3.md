@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Artikel ini membahas secara lengkap teknik spanning cell HTML menggunakan rowspan dan colspan, mulai dari konsep, jenis, contoh implementasi, kesalahan umum, hingga best practice dalam pembuatan tabel HTML."
+description: "Memahami teknik spanning cell HTML untuk menggabungkan sel tabel secara fleksibel."
 ---
 
 

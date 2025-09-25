@@ -34,7 +34,7 @@ metadata:
     thumb: "cover.jpg"
     group: ["Networking", "Web"]
     author: ["null"]
-description: "Artikel ini menjelaskan bagaimana internet bekerja, mulai dari komponen utama, proses pengiriman data, peran protokol, infrastruktur fisik, hingga aspek keamanan, dengan dukungan referensi ilmiah."
+description: "Menjelajahi mekanisme internet, memahami cara kerja jaringan global modern."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Modul ini membahas penggunaan text color dalam CSS secara lengkap, termasuk konsep dasar, jenis warna, implementasi, kesalahan umum, dan best practice untuk membuat halaman web yang terbaca, estetis, dan profesional."
+description: "Memahami properti teks CSS untuk mengatur tampilan dan estetika tulisan."
 ---
 ### 1. Pendahuluan
 

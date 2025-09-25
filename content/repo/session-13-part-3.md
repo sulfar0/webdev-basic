@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Font weight adalah aspek penting dalam tipografi digital yang menentukan ketebalan huruf, memengaruhi hierarki visual, keterbacaan, dan estetika desain web."
+description: "Mempelajari properti font-weight CSS untuk mengatur ketebalan teks halaman."
 
 ---
 

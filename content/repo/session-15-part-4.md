@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Padding CSS adalah properti yang digunakan untuk mengatur jarak internal antara konten dan border elemen, meningkatkan keterbacaan dan estetika halaman web."
+description: "Mempelajari properti padding CSS untuk mengatur jarak dalam elemen."
 ---
 
 # 1. Pendahuluan

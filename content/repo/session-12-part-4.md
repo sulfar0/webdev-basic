@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang descendant selector pada CSS, mulai dari konsep dasar, pentingnya penggunaan, jenis-jenis penerapan, kesalahan umum, hingga best practice. Dengan pendekatan sistematis dan contoh kode, pembaca dapat memahami serta mempraktikkan descendant selector secara efektif dalam pengembangan web."
+description: "Mempelajari selector descendant CSS untuk menargetkan elemen turunan dalam hierarki."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Panduan ini menjelaskan secara lengkap text formatting di HTML di luar heading dan paragraf, meliputi konsep, jenis elemen, implementasi, kesalahan umum, dan best practice untuk membuat konten web profesional."
+description: "Tag list HTML membantu menyajikan informasi terstruktur, rapi, dan mudah dipahami."
 ---
 
 

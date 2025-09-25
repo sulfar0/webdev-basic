@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Identifier CSS adalah atribut unik untuk elemen HTML yang memungkinkan pengembang mengontrol styling dan interaksi secara presisi."
+description: "Memahami identifier CSS untuk menargetkan elemen spesifik dalam halaman web."
 ---
 
 # 1. Pendahuluan

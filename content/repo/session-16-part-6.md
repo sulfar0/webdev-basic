@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang position fixed pada CSS, mulai dari konsep dasar, pentingnya penggunaan, jenis dan contoh, implementasi, kesalahan umum, hingga best practice. Dengan pendekatan sistematis dan didukung referensi akademis, pembaca dapat memahami dan mempraktikkan position fixed untuk meningkatkan navigasi dan tata letak situs web modern."
+description: "Mempelajari position fixed CSS untuk elemen tetap terlihat saat menggulir."
 ---
 
 ### 1. Pendahuluan

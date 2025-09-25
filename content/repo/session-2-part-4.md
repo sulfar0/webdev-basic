@@ -43,7 +43,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas pengenalan webserver, fungsi, jenis, serta perannya sebagai fondasi utama akses digital dalam dunia web modern."
+description: "Menjelaskan peran webserver sebagai fondasi utama akses digital modern"
 ---
 
 ## 1. Pendahuluan

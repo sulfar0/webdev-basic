@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Modul ini membahas tag meta HTML, termasuk konsep, jenis, implementasi, kesalahan umum, dan praktik terbaik untuk membuat halaman web yang optimal, responsif, dan SEO-friendly."
+description: "Mempelajari tag meta HTML untuk menyediakan informasi tambahan tentang halaman."
 ---
 
 

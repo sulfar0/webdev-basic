@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Panduan lengkap tentang elemen footer HTML, mencakup konsep dasar, jenis-jenis, implementasi, kesalahan umum, dan praktik terbaik dalam membuat footer yang efektif dan semantik."
+description: "Memahami elemen footer HTML untuk menutup dan melengkapi informasi halaman."
 ---
 
 # 1. Pendahuluan

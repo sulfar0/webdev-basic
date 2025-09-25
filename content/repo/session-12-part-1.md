@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["null"]
-description: "Artikel ini membahas penggunaan adjacent sibling selector pada CSS, mencakup konsep dasar, jenis, implementasi, kesalahan umum, dan best practice untuk menarget elemen yang berurutan dalam DOM secara efisien."
+description: "Mempelajari selector adjacent sibling CSS untuk menargetkan elemen setelah saudara."
 ---
 
 ### Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Tag heading HTML adalah elemen penting untuk membangun struktur halaman web, membantu navigasi, aksesibilitas, dan optimasi SEO. Artikel ini membahas konsep, jenis, implementasi, kesalahan umum, serta best practice penggunaan heading dari <h1> hingga <h6>."
+description: "Menguasai tag heading HTML untuk struktur konten, praktik, dan standar."
 ---
 
 

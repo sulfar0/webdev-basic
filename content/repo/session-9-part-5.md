@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas implementasi semantik HTML secara praktis pada blog, landing page, dan website komunitas dengan contoh kode dan penjelasan naratif untuk mendukung pemahaman yang komprehensif."
+description: "Menerapkan elemen semantik HTML untuk struktur, aksesibilitas, dan optimasi."
 
 ---
 

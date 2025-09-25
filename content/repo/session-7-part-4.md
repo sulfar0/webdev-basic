@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Input HTML adalah elemen inti yang memungkinkan pengguna memasukkan data melalui formulir. Artikel ini membahas konsep, jenis, implementasi, kesalahan umum, dan best practice input HTML untuk membangun form web yang efektif dan profesional."
+description: "Mempelajari tag input HTML untuk membuat elemen formulir interaktif pengguna."
 ---
 
 

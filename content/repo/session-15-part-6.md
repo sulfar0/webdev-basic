@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Shadow CSS adalah properti yang digunakan untuk menambahkan efek bayangan pada elemen, meningkatkan kedalaman, fokus visual, dan interaksi pengguna di halaman web."
+description: "Mempelajari properti box-shadow CSS untuk menambahkan efek bayangan pada elemen."
 ---
 
 # 1. Pendahuluan

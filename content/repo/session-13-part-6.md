@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara menyeluruh tentang shorthand CSS, mulai dari konsep dasar, jenis-jenis shorthand, implementasi praktis, kesalahan umum yang perlu dihindari, hingga best practice agar kode tetap ringkas namun mudah dipelihara."
+description: "Memahami shorthand CSS untuk menyingkat penulisan beberapa properti gaya sekaligus."
 ---
 
 # 1. Pendahuluan

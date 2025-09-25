@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang position sticky pada CSS, mulai dari konsep dasar, pentingnya penggunaan, contoh penerapan pada berbagai elemen, kesalahan umum, hingga best practice. Dengan pembahasan yang sistematis dan didukung referensi akademis, pembaca dapat memahami dan mempraktikkan sticky dalam desain web modern."
+description: "Memahami position sticky CSS untuk elemen yang menempel saat digulir halaman."
 ---
 
 

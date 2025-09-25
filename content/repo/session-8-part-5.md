@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas metadata EAD secara lengkap, mencakup konsep dasar, jenis dan contoh implementasi, kesalahan umum, serta best practice untuk mendeskripsikan arsip secara sistematis dan efisien."
+description: "Metadata EAD untuk representasi arsip digital secara terstruktur dan standar"
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Menyisipkan kode JavaScript untuk membuat laman yang interaktif."
+description: "Mempelajari tag script HTML untuk menambahkan interaktivitas dan fungsionalitas web."
 ---
 
 ### 1. Pendahuluan

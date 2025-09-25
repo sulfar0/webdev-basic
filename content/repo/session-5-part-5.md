@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Tag file HTML adalah elemen penting dalam pengembangan web modern yang memungkinkan interaksi langsung antara pengguna dan sistem melalui unggahan file. Artikel ini membahas konsep dasar, jenis-jenis, implementasi, kesalahan umum, serta best practice dalam penggunaan tag file HTML."
+description: "Konsep file, implementasi, kompatibilitas, dan praktik terbaik."
 
 ---
 

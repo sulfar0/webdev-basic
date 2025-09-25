@@ -2,7 +2,7 @@
 date: "2025-09-22T15:00:00+07:00"
 draft: false
 title: "Website sebagai Medium Perubahan Sosial, Ekonomi, Politik, dan Budaya"
-short: "website-sosial-ekonomi-politik-budaya"
+short: "peranan"
 thumb:
     image: "cover.jpg"
     anima: ""
@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: ["website", "sosial", "ekonomi", "politik", "budaya"]
     author: ["null"]
-description: "Artikel ini membahas bagaimana website berperan sebagai medium perubahan dalam dimensi sosial, ekonomi, politik, dan budaya, dilengkapi dengan argumentasi ilmiah dan sitasi akademis."
+description: "Website sebagai medium transformasi sosial, ekonomi, politik, serta budaya global."
 ---
 
 

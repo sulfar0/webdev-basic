@@ -42,7 +42,7 @@ metadata:
   thumb: "cover.jpg"
   group: []
   author: ["null"]
-description: "Artikel ini membahas secara lengkap metadata HTML native part 1, mencakup konsep, jenis, implementasi, kesalahan umum, dan praktik terbaik untuk pengembangan halaman web yang profesional dan SEO-friendly."
+description: "Memahami metadata native HTML untuk mendeskripsikan informasi bawaan halaman web."
 ---
 
 ### Pendahuluan

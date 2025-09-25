@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Artikel ini membahas secara mendalam tentang tag <table> HTML, mulai dari konsep dasar, jenis-jenis elemen penyusunnya, implementasi praktis, kesalahan umum yang harus dihindari, hingga best practice untuk membangun tabel yang terstruktur, rapi, dan ramah aksesibilitas."
+description: "Memahami tag table HTML untuk menyajikan data terstruktur dalam halaman."
 
 ---
 

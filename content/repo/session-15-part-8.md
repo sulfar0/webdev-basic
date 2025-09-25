@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Display roles dalam CSS adalah konsep penting yang menentukan bagaimana elemen HTML ditampilkan dan berinteraksi dalam tata letak halaman web. Artikel ini membahas konsep, jenis, implementasi, kesalahan umum, hingga best practice terkait display roles."
+description: "Mempelajari properti display CSS untuk menentukan peran dan perilaku elemen."
 ---
 
 # 1. Pendahuluan

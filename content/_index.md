@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Pemograman Website Dasar"
+title: "Pengembangan Website Dasar"
 terms: [ "frontend" ]
 thumb:
     image: "cover.png"

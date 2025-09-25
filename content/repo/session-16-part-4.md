@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara komprehensif tentang position absolute pada CSS, mulai dari konsep dasar, jenis-jenis penggunaan, contoh implementasi, kesalahan umum, hingga praktik terbaik yang dapat diterapkan dalam desain web modern."
+description: "Mempelajari position absolute CSS untuk menempatkan elemen relatif terhadap kontainer."
 ---
 
 ### 1. Pendahuluan

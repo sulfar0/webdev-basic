@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara komprehensif pseudo pada CSS, termasuk pseudo-class dan pseudo-element. Mulai dari konsep dasar, alasan pentingnya, jenis-jenis dan contoh penerapan, implementasi praktis, kesalahan umum, hingga best practice. Pembahasan dilengkapi dengan contoh kode dan narasi akademis agar mudah dipahami sekaligus dapat dipertanggungjawabkan."
+description: "Memahami pseudo-class dan pseudo-element CSS untuk gaya dinamis serta fleksibel."
 ---
 
 

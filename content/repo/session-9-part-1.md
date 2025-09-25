@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas pengenalan semantik HTML, mulai dari konsep dasar, jenis elemen, implementasi, kesalahan umum, hingga best practice dalam membangun halaman web yang terstruktur, aksesibel, dan ramah mesin pencari."
+description: "Memahami semantik HTML untuk struktur konten yang lebih bermakna."
 
 ---
 

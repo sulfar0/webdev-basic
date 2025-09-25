@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Tag List HTML adalah komponen penting untuk menyusun konten dalam bentuk daftar yang terstruktur, meningkatkan keterbacaan, aksesibilitas, dan pengalaman pengguna pada halaman web."
+description: "Memahami tag list HTML untuk membuat daftar terstruktur dalam website."
 ---
 
 

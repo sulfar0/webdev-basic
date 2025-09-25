@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara komprehensif mengenai font family dalam desain web, mulai dari konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice."
+description: "Mempelajari properti font-family CSS untuk menentukan jenis huruf pada teks."
 ---
 
 # 1. Pendahuluan

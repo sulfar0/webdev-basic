@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang general sibling pada CSS, mulai dari konsep dasar, alasan pentingnya, jenis-jenis penggunaan, contoh implementasi, kesalahan umum, hingga best practice. Dilengkapi dengan contoh kode HTML dan CSS sehingga mudah dipahami dan langsung dipraktikkan."
+description: "Memahami selector general sibling CSS untuk menargetkan elemen saudara sejenis."
 ---
 
 

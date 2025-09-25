@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar ilham Kamil"]
-description: "Artikel ini membahas secara lengkap markup pada dokumen HTML, mulai dari konsep dasar, jenis elemen, implementasi, kesalahan umum, hingga best practice untuk pengembangan web profesional dan responsif."
+description: "Memahami markup CSS untuk mendefinisikan gaya visual elemen halaman."
 ---
 
 ### 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Modul ini membahas konsep warna dalam CSS secara lengkap, mencakup teori, jenis warna, implementasi, kesalahan umum, dan best practice untuk menghasilkan desain web yang profesional, konsisten, dan aksesibel."
+description: "Mempelajari aspek konseptual CSS untuk memahami prinsip desain dan styling."
 ---
 
 ### 1. Pendahuluan

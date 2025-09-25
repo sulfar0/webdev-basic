@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas floating pada CSS mulai dari konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice yang dapat diterapkan dalam pengembangan web modern."
+description: "Memahami properti float CSS untuk mengatur posisi elemen secara melayang."
 ---
 
 ### 1. Pendahuluan

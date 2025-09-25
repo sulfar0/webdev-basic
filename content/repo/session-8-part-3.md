@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara lengkap penggunaan metadata OpenGraph, meliputi konsep, atribut utama, implementasi, best practice, dan contoh penerapannya untuk meningkatkan tampilan konten web di media sosial."
+description: "Mempelajari Open Graph untuk optimalkan pratinjau konten halaman pada media sosial."
 ---
 
 

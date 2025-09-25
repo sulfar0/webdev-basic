@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Materi ini membahas pengantar CSS (Cascading Style Sheets) termasuk definisi, peran dalam pengembangan web, hubungan dengan HTML, konsep dasar CSS, jenis penerapan, dan praktik membuat tampilan web responsif."
+description: "Memahami pengantar CSS untuk mengatur tampilan visual halaman website."
 ---
 
 

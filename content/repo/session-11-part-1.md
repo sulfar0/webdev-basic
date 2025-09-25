@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Artikel ini membahas konsep CSS secara mendalam, meliputi prinsip cascade, inheritance, jenis CSS, implementasi, kesalahan umum, dan best practice untuk pengembangan web profesional."
+description: "Memahami prinsip dasar CSS untuk mengatur desain visual halaman web."
 ---
 
 

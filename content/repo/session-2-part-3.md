@@ -34,7 +34,7 @@ metadata:
     thumb: "cover.jpg"
     group: ["Web Development", "Intro"]
     author: ["null"]
-description: "Artikel ini memperkenalkan konsep dasar website, mulai dari definisi, fungsi, komponen, hingga klasifikasinya. Dilengkapi dengan referensi akademis untuk memberikan pemahaman yang mendalam dan dapat dipertanggungjawabkan."
+description: "Memahami fondasi website sebagai pintu utama menuju dunia digital."
 ---
 
 ### Pengenalan Website: Fondasi Dunia Digital

@@ -1,6 +1,5 @@
 ---
 date:  "2025-09-22T12:00:00+07:00"
-
 title: "class"
 short: "class"
 thumb:
@@ -42,7 +41,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Class CSS adalah atribut penting dalam pengembangan web yang memungkinkan pengelolaan tampilan elemen secara modular, reusable, dan konsisten."
+description: "Mempelajari class CSS untuk memberikan gaya khusus pada elemen tertentu."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Artikel ini membahas secara komprehensif penggunaan tag <iframe> HTML mulai dari konsep dasar, implementasi, kesalahan umum, hingga best practice agar pengembang web dapat menyematkan konten eksternal dengan aman, efektif, dan sesuai standar modern."
+description: "Memahami tag iframe HTML untuk menampilkan konten eksternal dalam halaman."
 ---
 
 # 1. Pendahuluan

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas position relative pada CSS secara komprehensif, mulai dari konsep dasar, contoh penggunaan, implementasi, kesalahan umum, hingga best practice, sehingga pembaca dapat memahami dan menguasai teknik ini dalam mengatur tata letak elemen web."
+description: "Memahami position relative CSS untuk mengatur pergeseran elemen dari posisi normal."
 ---
 
 ### 1. Pendahuluan

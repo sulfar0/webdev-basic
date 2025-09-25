@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara mendalam elemen <header> dalam HTML, mulai dari konsep dasar, jenis dan contoh, implementasi, kesalahan umum, hingga best practice yang dapat diterapkan untuk meningkatkan struktur, keterbacaan, SEO, dan aksesibilitas halaman web."
+description: "Mempelajari elemen header HTML untuk menandai bagian atas konten halaman."
 ---
 
 # 1. Pendahuluan

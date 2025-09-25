@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Artikel ini membahas secara lengkap sintaks CSS, mulai dari konsep dasar, jenis selector, implementasi, kesalahan umum, hingga best practice untuk pengembangan web profesional."
+description: "Mempelajari sintaks CSS untuk mengatur gaya dan tampilan elemen."
 ---
 
 ### 1. Pendahuluan

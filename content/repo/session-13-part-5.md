@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara menyeluruh tentang properti CSS font-variant, mulai dari konsep dasar, jenis dan contohnya, implementasi, kesalahan umum, hingga best practice, dilengkapi dengan referensi akademis dan contoh kode." 
+description: "Mempelajari properti font-variant CSS untuk mengatur tampilan gaya teks." 
 ---
 
 # 1. Pendahuluan

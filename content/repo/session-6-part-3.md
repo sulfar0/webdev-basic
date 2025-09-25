@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Artikel ini membahas tag <embed> HTML secara mendalam, mulai dari konsep dasar, jenis-jenis konten yang dapat ditampilkan, implementasi praktis, kesalahan umum, hingga best practice untuk menghasilkan halaman web yang profesional dan efisien."
+description: "Mempelajari tag embed HTML untuk menyisipkan konten multimedia interaktif."
 ---
 
 

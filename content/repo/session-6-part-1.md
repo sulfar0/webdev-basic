@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Tag link HTML adalah elemen penting yang digunakan untuk menghubungkan halaman dengan sumber eksternal seperti ikon, kanonik, dan metadata. Artikel ini membahas konsep dasar, jenis, contoh, kesalahan umum, serta best practice agar penggunaan tag link lebih efektif dan sesuai standar."
+description: "Mempelajari tag link HTML untuk menghubungkan halaman dan sumber daya."
 ---
 
 

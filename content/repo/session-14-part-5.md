@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["MUhammad Haydar Ilham kamil"]
-description: "Artikel ini membahas prinsip visibilitas dalam desain web, termasuk teks, tombol, dan ikon, dengan panduan implementasi CSS, kesalahan umum, dan best practice untuk meningkatkan pengalaman pengguna dan aksesibilitas."
+description: "Mempelajari properti visibility CSS untuk mengatur tampil atau tersembunyi elemen."
 ---
 ---
 ### 1. Pendahuluan

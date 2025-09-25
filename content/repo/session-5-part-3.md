@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Artikel ini membahas secara lengkap penggunaan tag <video> dalam HTML, mulai dari konsep dasar, jenis-jenis atribut, contoh implementasi, kesalahan umum, hingga praktik terbaik agar video di halaman web lebih interaktif, inklusif, dan efektif."
+description: "Mempelajari tag video HTML: konsep, implementasi, kompatibilitas, dan praktik terbaik."
 
 ---
 

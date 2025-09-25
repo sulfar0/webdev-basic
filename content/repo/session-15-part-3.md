@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Garis CSS adalah elemen visual yang digunakan untuk memisahkan konten, menekankan heading, dan meningkatkan keterbacaan halaman web dengan gaya dan responsivitas yang sesuai desain."
+description: "Memahami properti border CSS untuk membuat dan mengatur garis elemen."
 ---
 
 # 1. Pendahuluan

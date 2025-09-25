@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Tag style HTML adalah elemen penting untuk menekankan teks dan memberikan efek visual di halaman web, mendukung pembelajaran interaktif, eksperimen visual, serta membangun dasar sebelum mempelajari CSS."
+description: "Memahami tag style HTML untuk mengatur tampilan visual halaman web."
 ---
 
 

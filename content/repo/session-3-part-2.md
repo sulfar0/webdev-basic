@@ -25,7 +25,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Memahami struktur dasar html dan konsep konsep yang terkait."
+description: "Memahami pengantar HTML sebagai bahasa dasar pembangunan struktur halaman web."
 ---
 
 

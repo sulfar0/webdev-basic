@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Artikel ini membahas secara komprehensif struktur tabel HTML, mulai dari konsep dasar, jenis, implementasi, kesalahan umum, hingga best practice untuk menghasilkan tabel yang semantik, terstruktur, dan ramah aksesibilitas."
+description: "Mempelajari struktur tabel HTML untuk menyusun data rapi dan terorganisir."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Tag paragraf adalah komponen dasar HTML yang membentuk struktur teks pada halaman web, meningkatkan keterbacaan, aksesibilitas, dan efektivitas komunikasi digital."
+description: "Mempelajari elemen paragraf HTML untuk menyusun teks dalam halaman web."
 ---
 
 

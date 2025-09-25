@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Rounded CSS adalah properti untuk membulatkan sudut elemen, meningkatkan estetika, fokus visual, dan interaksi pengguna di halaman web."
+description: "Memahami properti border-radius CSS untuk membuat sudut elemen lebih membulat."
 ---
 
 # 1. Pendahuluan

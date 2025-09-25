@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Universal CSS adalah teknik styling global yang memungkinkan pengembang mengatur aturan dasar untuk seluruh elemen halaman, menjaga konsistensi, modularitas, dan efisiensi pengembangan web."
+description: "Memahami selector universal CSS untuk menerapkan gaya pada semua elemen."
 ---
 
 # 1. Pendahuluan

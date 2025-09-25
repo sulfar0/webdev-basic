@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Achmad Baihaqi"]
-description: "Tag code block HTML adalah elemen penting untuk menampilkan potongan kode dengan jelas, rapi, dan semantik, sehingga mendukung keterbacaan, aksesibilitas, dan profesionalisme dokumentasi web."
+description: "Mempelajari tag code block HTML: konsep, jenis, kesalahan, serta praktik."
 ---
 
 

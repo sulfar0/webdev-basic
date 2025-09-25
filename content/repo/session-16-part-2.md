@@ -46,7 +46,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang position normal pada CSS. Mulai dari konsep dasar, alasan pentingnya dipahami, jenis, contoh penerapan, kesalahan umum, hingga best practice. Dengan pendekatan konseptual dan praktis, pembaca akan mampu memahami aliran tata letak standar pada CSS sebagai langkah awal membangun struktur halaman web yang konsisten dan rapi."
+description: "Mempelajari position static CSS sebagai posisi normal default elemen pada halaman."
 ---
 
 ### 1. Pendahuluan

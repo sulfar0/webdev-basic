@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Attribute CSS memungkinkan pengembang menargetkan elemen HTML berdasarkan atributnya, meningkatkan presisi, konsistensi, dan modularitas halaman web."
+description: "Mempelajari selector attribute CSS untuk menargetkan elemen berdasarkan atribut tertentu."
 ---
 
 # 1. Pendahuluan

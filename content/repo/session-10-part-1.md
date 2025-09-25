@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
-description: "Materi ini membahas sejarah CSS mulai dari CSS1 hingga CSS3, termasuk latar belakang munculnya CSS, perkembangan tiap versi, fitur, keterbatasan, dan peran W3C dalam standarisasi CSS modern."
+description: "Menelusuri sejarah perkembangan teknologi web dari awal hingga modern."
 ---
 
 ## 1. Pendahuluan

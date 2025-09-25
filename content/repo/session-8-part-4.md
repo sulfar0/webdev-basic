@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Modul ini membahas Metadata Object Description Schema (MODS) secara lengkap, termasuk definisi, konsep dasar, jenis elemen, implementasi, kesalahan umum, dan best practice. Cocok untuk pengelolaan koleksi digital perpustakaan atau arsip digital agar metadata dapat terstruktur, interoperabel, dan mendukung digital preservation."
+description: "Memahami tag mods HTML untuk deskripsi metadata terstandar dalam pengelolaan dokumen."
 ---
 
 

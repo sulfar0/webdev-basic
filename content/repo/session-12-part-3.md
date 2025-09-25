@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara mendalam tentang selector child pada CSS, mulai dari konsep dasar, alasan penting, jenis, implementasi, hingga best practice. Disertai contoh kode dan penjelasan akademis, artikel ini ditujukan bagi siapa saja yang ingin memahami cara menata elemen anak langsung dalam hierarki DOM dengan presisi."
+description: "Menguasai selector child CSS untuk presisi menata hierarki struktur DOM."
 ---
 
 ---

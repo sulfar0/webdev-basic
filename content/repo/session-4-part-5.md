@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Modul ini membahas elemen quotation HTML (<q> dan <blockquote>), termasuk konsep, jenis, implementasi, kesalahan umum, dan best practice untuk membuat kutipan yang jelas, kredibel, dan profesional di halaman web."
+description: "Mempelajari quotation HTML untuk menyajikan kutipan profesional dalam halaman web."
 ---
 
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
-description: "Artikel ini membahas penggunaan CSS secara lengkap, mulai dari konsep dasar, jenis CSS, implementasi, kesalahan umum, hingga best practice untuk pengembangan halaman web yang konsisten, responsif, dan profesional."
+description: "Mempelajari penggunaan CSS untuk mempercantik dan menata tampilan halaman."
 ---
 ### 1. Pendahuluan
 

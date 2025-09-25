@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Atribut adalah informasi tambahan untuk elemen dan mengatur tampilannya"
+description: "Memahami atribut HTML sebagai penentu perilaku dan karakteristik elemen."
 ---
 
 

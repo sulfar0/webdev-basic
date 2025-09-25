@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["Sultan Fajar Ramadhan"]
-description: "Box dimension adalah konsep fundamental CSS yang menentukan total ukuran elemen, termasuk content, padding, border, dan margin, untuk membuat layout presisi, modular, dan responsif."
+description: "Mempelajari properti box dimensions CSS untuk mengatur ukuran elemen halaman."
 ---
 
 # 1. Pendahuluan

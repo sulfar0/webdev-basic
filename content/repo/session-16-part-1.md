@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas secara lengkap properti position pada CSS, mulai dari konsep dasar, jenis-jenisnya, kesalahan umum, hingga best practice. Dengan penjelasan sistematis dan contoh kode, pembaca akan memahami cara mengatur elemen web menggunakan static, relative, absolute, fixed, dan sticky untuk menciptakan tata letak yang modern, responsif, serta mudah dipelihara."
+description: "Memahami properti position CSS untuk mengatur penempatan elemen dalam layout."
 ---
 
 

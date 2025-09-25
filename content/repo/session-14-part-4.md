@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Modul ini membahas panduan warna dalam desain web, termasuk penggunaan warna primer, sekunder, aksen, implementasi CSS, kesalahan umum, best practice, dan aksesibilitas."
+description: "Memahami color guideline CSS untuk konsistensi dan harmoni tampilan desain web."
 ---
 ### 1. Pendahuluan
 

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: ["web-basic", "pemrograman"]
     author: ["null"]
-description: "Artikel ini membahas pengantar pemrograman web dengan penjelasan dasar, konsep penting, hingga perannya dalam mendukung era digital modern."
+description: "Memahami dasar pemrograman web untuk membangun solusi digital masa kini."
 ---
 
 Baik, saya akan menyusun ulang artikel **“Pengantar Pemrograman Web”** dalam format yang lebih rapi dengan **subheading jelas** sesuai kerangka, lalu menambahkan **referensi ilmiah bergaya APA** di akhir.

@@ -42,7 +42,7 @@ metadata:
     thumb: "cover.jpg"
     group: []
     author: ["null"]
-description: "Artikel ini membahas struktur dasar HTML, mulai dari <!DOCTYPE>, <head>, <meta>, <title>, hingga <body>, sebagai pondasi penting dalam membangun halaman web yang valid, konsisten, dan mudah dipelihara."
+description: "Menjelaskan struktur dasar HTML sebagai kerangka utama halaman web."
 ---
 
 
