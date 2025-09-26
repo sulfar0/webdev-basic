@@ -45,8 +45,6 @@ metadata:
 description: "Memahami dasar pemrograman web untuk membangun solusi digital masa kini."
 ---
 
-## Pendahuluan
-
 Pemrograman web adalah kegiatan menulis instruksi dan struktur yang membuat konten digital dapat ditampilkan dan berinteraksi di peramban web seperti google chrome atau mozilla firefox. Secara praktis, pemrograman web menggabungkan bahasa markup untuk struktur, gaya untuk tampilan, dan logika untuk interaksi, sehingga halaman yang awalnya statis menjadi dinamis dan berguna bagi pengguna (Robbins, 2018). Dalam konteks modern, pemrograman web tidak hanya soal halaman informatif, tetapi juga platform aplikasi, layanan, dan sistem yang mendukung pekerjaan sehari-hari. Pemahaman dasar tentang bagaimana komponen-komponen ini berkolaborasi adalah langkah awal yang penting bagi siapa saja yang ingin berkecimpung di dunia pengembangan web (Marcotte, 2011).
 
 Peran pemrograman web dalam era digital sangat sentral karena hampir semua layanan digital mengandalkan antarmuka web atau API yang disajikan melalui web. Dari toko daring hingga dashboard analitik, kemampuan membangun dan memelihara aplikasi web menjadi kompetensi yang bernilai tinggi di pasar kerja teknologi (Nielsen & Budiu, 2012). Selain itu, peningkatan perangkat mobile dan beragam ukuran layar menuntut developer untuk memahami prinsip responsif dan aksesibilitas sejak dini. Dengan kata lain, pemrograman web bukan sekadar coding, melainkan juga merancang suatu produk yang memberikan pengalaman berupa kemudahan dalam akses dan penggunaan.

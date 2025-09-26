@@ -28,8 +28,6 @@ metadata:
 description: "Menelusuri sejarah HTML sebagai fondasi utama pembangunan halaman web."
 ---
 
-
-
 Sejarah HyperText Markup Language (HTML) merupakan sebuah kisah panjang tentang evolusi teknologi yang telah mengubah peradaban digital manusia. HTML bermula dari sebuah proyek internal di laboratorium penelitian nuklir di Eropa, yang kemudian hari menjadi fondasi internet global yang kita gunakan setiap hari. HTML tidak hanya mewakili sebuah standar teknis, melainkan juga katalisator dari revolusi budaya, sosial, dan ekonomi.  
 
 ![Evolusi HTML secara garis besar](html-timeline-overview.png)
@@ -51,15 +49,15 @@ Dengan dorongan latar belakang tersebut, Berners-Lee menciptakan **HTML (HyperTe
 Dalam tulisanya Berners-Lee menyatakan bahwa tujuan dari penciptaaan HTML adalah sebagai berikut:  
 > “The World Wide Web was originally conceived as a tool for scientists to share their knowledge, but it rapidly evolved into a universal medium for communication” (Berners-Lee, 1999).  
 
-### Konteks Sosial
+### 2.1. Konteks Sosial
 Pada awalnya, tujuan penciptaan HTML bukanlah untuk tujuan komersial, melainkan untuk mempermudah aktivitas riset **ilmiah**. Berners-Lee ingin memecahkan masalah yang seringkali menjadi penghambat kolaborasi para ilmuwan yang tersebar di seluruh dunia. Hal ini tidak terlepas dari posisi CERN pada saat itu, dimana CERN menjadi pusat penelitian internasional dengan ribuan kolaborator dari berbagai negara.  
 
-### Kisah Sukses
+### 2.2. Kisah Sukses
 Debut kesuksesan pertama HTML bukan berasal dari perusahaan komersial, melainkan keberhasilan untuk memecah masalah inkompabilitas sistem dalam pertukaran informasi pada **komunitas ilmiah**. Dengan hadirnya HTML, peneliti dapat mengakses publikasi, laporan, dan data eksperimen tanpa perlu saling mengirimkan berkas secara manual. Namun tanpa disadari inovasi ini akan menjadi cikal bakal kolaborasi global yang berbasis internet di kemudian hari.  
 
 Secara historis, dalam dua tahun pertama hanya ada beberapa ratus situs web, sebagian besar terkait dengan universitas dan lembaga penelitian. Namun inilah fondasi yang membuat internet terbuka untuk bisa melakukan ekspansi kepada bidang lain.  
 
-### Karakteristik Website Fase Ini
+### 2.3. Karakteristik Website Fase Ini
 - Teks hitam di latar putih.  
 - Hyperlink biru dengan underline.  
 - Tanpa gambar, tanpa warna latar.  
@@ -77,15 +75,15 @@ Salah satu kisah sukses terbesar di era ini adalah **Yahoo!**, yang didirikan ol
 
 Pada 1995, Yahoo! berkembang menjadi salah satu portal internet terbesar. Menurut Smith (1997), Yahoo! berhasil mengubah web dari ruang kecil akademis menjadi “gerbang internet global” yang digunakan jutaan orang.  
 
-### Konteks Sosial
+### 3.1. Konteks Sosial
 Periode ini menandai awal dari **komersialisasi awal web**. Perusahaan mulai melihat peluang dan potensi dari pemamfaatan html, mulai dari iklan, membuat katalog produk, serta meningkatkan jangkauan kepada pelanggan. Internet Service Provider (ISP) juga mulai bermunculan.  
 
-### Kisah Sukses
+### 3.2. Kisah Sukses
 Yahoo! menjadi contoh bagaimana HTML dapat dimanfaatkan untuk membangun layanan yang memandu pengguna menjelajahi internet. Dengan tampilan sederhana berbasis teks dan link, Yahoo! berhasil menarik jutaan pengguna baru yang belum familiar dengan web.  
 
 Keberhasilan Yahoo! membuktikan potensi web sebagai medium komersial. Tahun 1996, Yahoo! melakukan IPO (Initial Public Offering) dan menjadi salah satu perusahaan internet pertama yang bernilai miliaran dolar.  
 
-### Karakteristik Website Fase Ini
+### 3.3. Karakteristik Website Fase Ini
 - Tabel sederhana untuk tata letak.  
 - Formulir pencarian.  
 - Dominasi teks dan hyperlink.  
@@ -103,15 +101,15 @@ Salah satu kisah sukses fenomenal adalah **GeoCities**, layanan pembuatan situs 
 
 Menurut Tabarés (2021), fenomena GeoCities menandai lahirnya **budaya partisipatif di internet**, di mana individu menjadi produsen konten, bukan hanya konsumen.  
 
-### Konteks Sosial
+### 4.1. Konteks Sosial
 Pada era ini, internet mulai merambah ke rumah-rumah. Dengan koneksi dial-up, banyak orang mulai menjelajah dan membuat konten pribadi. Web menjadi **media ekspresi diri**—dari blog pribadi, komunitas fan fiction, hingga klub hobi.  
 
-### Kisah Sukses
+### 4.2. Kisah Sukses
 GeoCities memungkinkan jutaan orang awam mencicipi menjadi “pemilik situs.” Misalnya, komunitas penggemar musik rock menggunakan GeoCities untuk membagikan lirik dan diskografi, sementara pelajar membuat halaman berisi catatan sekolah.  
 
 Meski sering dikritik karena desain “berantakan,” GeoCities adalah tonggak penting yang menunjukkan bahwa **web adalah milik semua orang**.  
 
-### Karakteristik Website Fase Ini
+### 4.3. Karakteristik Website Fase Ini
 - Warna-warni mencolok, background kustom.  
 - GIF animasi, marquee, dan musik latar.  
 - Struktur halaman berbasis tabel.  
@@ -129,15 +127,15 @@ Kisah sukses terbesar pada fase ini adalah **Amazon**, didirikan oleh Jeff Bezos
 
 Dampak dari pengembangan tersebut terlihat pada 1999, Amazon mencatat penjualan lebih dari USD 1,6 miliar, membuktikan bahwa web dapat menjadi **platform bisnis global** (Kotha, 1998).  
 
-### Konteks Sosial
+### 5.1. Konteks Sosial
 Periode ini ditandai dengan **dot-com boom**—ledakan perusahaan berbasis internet. Ribuan startup muncul, didukung oleh investor yang percaya bahwa web berpotensi untuk merubah wajah dunia bisnis secara keseluruhan.  
 
-### Kisah Sukses
+### 5.2. Kisah Sukses
 Amazon memanfaatkan HTML 4.01 untuk menghadirkan **user experience** yang lebih nyaman. Dengan CSS, tampilan situs lebih rapi dan seragam. Dengan JavaScript, pengguna dapat berinteraksi dengan elemen halaman tanpa perlu memuat ulang.  
 
 Transformasi Amazon dari toko buku kecil menjadi e-commerce global adalah bukti nyata bahwa HTML dapat menjadi dasar infrastruktur ekonomi baru.  
 
-### Karakteristik Website Fase Ini
+### 5.3. Karakteristik Website Fase Ini
 - Desain lebih konsisten dengan CSS.  
 - Interaksi dinamis dengan JavaScript.  
 - Fokus pada fungsionalitas (belanja, transaksi).  
@@ -154,15 +152,15 @@ Pada 2000, W3C memperkenalkan **XHTML (Extensible HTML)**, sebuah upaya untuk me
 
 Meski sulit diadopsi secara massal, XHTML melahirkan praktik penulisan kode yang lebih disiplin. Dua kisah sukses utama di era ini adalah **Wikipedia** (2001) dan **WordPress** (2003).  
 
-### Kisah Wikipedia
+### 6.1. Kisah Wikipedia
 Wikipedia, didirikan oleh Jimmy Wales dan Larry Sanger pada 2001, menjadi ensiklopedia daring terbesar di dunia. Dengan markup XHTML yang rapi, Wikipedia mampu mengelola jutaan artikel dari kontributor global. Pada 2005, Wikipedia telah memiliki lebih dari 750 ribu artikel, melampaui Encyclopaedia Britannica dalam jumlah entri.  
 
-### Kisah WordPress
+### 6.2. Kisah WordPress
 WordPress, diluncurkan oleh Matt Mullenweg dan Mike Little pada 2003, menjadi Content Management System (CMS) berbasis XHTML yang memudahkan jutaan orang membuat blog dan situs. WordPress memperkuat budaya blogging yang mendominasi era 2000-an.  
 
 Seperti dicatat Sharma (2018), XHTML mungkin gagal secara praktis, tetapi ia membentuk “best practices” dalam penulisan kode yang masih relevan hingga kini.  
 
-### Karakteristik Website Fase Ini
+### 6.3. Karakteristik Website Fase Ini
 - Penulisan kode ketat dan validasi markup.  
 - Fokus pada aksesibilitas dan interoperabilitas.  
 - Lahirnya CMS dan ensiklopedia daring.  
@@ -178,16 +176,16 @@ Seperti dicatat Sharma (2018), XHTML mungkin gagal secara praktis, tetapi ia mem
 
 HTML5, diumumkan W3C dan WHATWG pada 2008 dan distandarkan pada 2014, merupakan revolusi besar. HTML5 menghadirkan dukungan **video, audio, canvas grafis, dan API interaktif** tanpa perlu plugin eksternal seperti Flash.  
 
-### Kisah YouTube
+### 7.1. Kisah YouTube
 Didirikan pada 2005, YouTube awalnya bergantung pada Flash Player. Namun dengan HTML5, YouTube beralih ke pemutar video berbasis standar terbuka. Pada 2010, YouTube mulai mendukung HTML5 secara penuh, mempercepat adopsi video daring. Pada 2014, YouTube memiliki lebih dari 1 miliar pengguna aktif bulanan.  
 
-### Kisah Facebook
+### 7.2. Kisah Facebook
 Facebook, diluncurkan pada 2004, menjadi jejaring sosial terbesar dunia. Dengan HTML5, Facebook menghadirkan aplikasi web yang kaya fitur: chat, notifikasi real-time, dan integrasi multimedia. HTML5 memungkinkan Facebook mengoptimalkan aplikasinya di perangkat mobile.  
 
-### Konteks Sosial
+### 7.3. Konteks Sosial
 Era ini menandai **web 2.0**, di mana pengguna menjadi produsen konten (UGC, User-Generated Content). Video, blog, foto, dan status menjadi bentuk ekspresi sosial baru.  
 
-### Karakteristik Website Fase Ini
+### 7.4. Karakteristik Website Fase Ini
 - Pemutar video/audio native.  
 - Aplikasi web interaktif (game, chat, media sosial).  
 - Fokus pada mobile-friendly.  
@@ -201,19 +199,19 @@ Era ini menandai **web 2.0**, di mana pengguna menjadi produsen konten (UGC, Use
 
 Sejak 2014, WHATWG mengembangkan **HTML Living Standard**, yang terus diperbarui secara dinamis. HTML tidak lagi dianggap versi statis, tetapi sebagai standar hidup yang berevolusi mengikuti kebutuhan industri.  
 
-### Kisah Google Docs
+### 8.1. Kisah Google Docs
 Google Docs memanfaatkan HTML Living Standard untuk menghadirkan aplikasi produktivitas penuh di browser. Dengan fitur **collaborative editing**, jutaan orang dapat bekerja bersama secara real-time.  
 
-### Kisah Figma
+### 8.2. Kisah Figma
 Figma, aplikasi desain berbasis web, memanfaatkan teknologi HTML Living Standard dan WebAssembly untuk menjalankan aplikasi desain kompleks langsung di browser. Hal ini membuktikan bahwa web dapat menyaingi software desktop.  
 
-### Kisah Netflix
+### 8.3. Kisah Netflix
 Netflix menggunakan HTML5 untuk menghadirkan streaming video berkualitas tinggi tanpa alat tambahan. Dengan teknologi **Encrypted Media Extensions (EME)**, Netflix dapat melindungi konten digitalnya serta menjangkau jutaan perangkat.  
 
-### Konteks Sosial
+### 8.4. Konteks Sosial
 Dalam fase ini teknologi website bukan lagi sekadar ruang baca atau interaksi sosial, tetapi juga **platform produktivitas, hiburan, dan ekonomi kreatif**.  
 
-### Karakteristik Website Fase Ini
+### 8.5. Karakteristik Website Fase Ini
 - Aplikasi kompleks berbasis web.  
 - Integrasi cloud dan kolaborasi real-time.  
 - Dukungan DRM untuk streaming premium.  
